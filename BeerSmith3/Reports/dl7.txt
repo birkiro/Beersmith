@@ -1,0 +1,395 @@
+Success
+14
+0
+48188
+Smoked Porter w/chipotle (vanilla Bean)
+2012-10-29 19:10:14
+Robust Porter
+2
+Steve Pollock
+0
+1280
+1.063077
+1.016971
+52.5836113
+38.9506768
+Single Infusion, Full Body, Batch Sparge
+BJCP 2008
+12B
+Ale, Two Stage
+Stainless Kegs (10 Gal/37.8 L) - All Grain
+Keg
+72
+1720.32
+60
+30
+6.0713944
+0
+0
+0
+Unrated
+fritztheelephant
+32242
+Mace-Mace Vanilla Bean Porter
+2013-09-16 17:21:10
+Robust Porter
+2
+
+0
+768
+1.0511345
+1.0088957
+38.1959928
+28.7848908
+Bad Kitty Single Infusion, Light Body, Batch Sparge
+BJCP 2008
+12B
+Ale, Two Stage
+Bad Kitty ( 5 Gal/19 L) - All Grain
+Corn Sugar
+72
+1091.84
+60
+30
+5.5393916
+0
+0
+0
+Unrated
+haerbob3
+470714
+Imperial Bean Counter Brown.2
+2014-05-28 14:26:11
+American Brown Ale
+2
+Ron Castor
+0
+2560
+1.0853718
+1.0185145
+43.6740373
+26.6330233
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+10C
+Ale, Single Stage
+Beer Ops Brewery
+Corn Sugar
+73
+3189.76
+120
+0
+8.8720248
+0
+0
+0
+Unrated
+g_proctor
+459450
+Vanilla Bean Porter
+2014-06-03 09:28:15
+Brown Porter
+2
+BAB
+0
+640
+1.07117488
+1.01722432096
+23.43985060766122
+27.57953932065855
+Single Infusion, Medium Body, No Mash Out
+BJCP 2008
+12A
+Ale, Two Stage
+8gal
+Corn Sugar
+72
+729.6
+60
+30
+7.124232179028945
+0
+0
+0
+Unrated
+kgeesaman
+333752
+AfroCarribean Brewing Company Coconut IPA
+2014-12-27 02:43:37
+American IPA
+2
+Shawn Duthie
+0
+1352.56132
+1.0661287022556585
+1.0140738524348356
+61.023971278245455
+11.31895979433786
+Temperature Mash, 1 Step, Medium Body
+BJCP 2008
+
+Stone Crow Brewing Company
+Stone Crow Brewery
+Keg
+72
+1681.23372076
+60
+30
+6.861957561482114
+0
+0
+0
+Unrated
+shawnduthie
+959462
+Jake's Bean Awhile  Milk Stout
+2016-04-16 07:10:52
+Imperial Stout
+2
+Jake
+0
+640
+1.0821652
+1.0195225978
+81.94225253001296
+40.403577565276606
+Single Infusion, Full Body, Batch Sparge
+BJCP 2008
+13F
+Ale, Two Stage
+APE'S 8 GAL POT AND 5 GAL COOLER
+Keg
+72
+729.6
+60
+30
+8.303504765864044
+0
+0
+0
+Unrated
+Apenutz
+1135297
+Caribbean Stout Collaboration
+2016-05-07 00:27:28
+Tropical Stout
+2
+Mark Dorahy &amp; Derek Moore
+0
+1555.445518
+1.0682771
+1.0221047
+35.8220239
+28.6007639
+Single Infusion, Full Body, No Mash Out
+BJCP 2015
+16C
+Ale, Single Stage
+Mark Dorahy 46L
+Corn Sugar
+78
+1928.7524423
+90
+30
+6.0910235
+0
+0
+0
+Unrated
+dilettante82
+1744688
+Vanilla Bean Porter
+2017-12-29 07:14:22
+Sweet Stout
+2
+Jackie Girl Brewing
+0
+704
+1.056665
+1.0192542
+16.0600801
+31.5198148
+01_Full_Body_Profile (154F)
+BJCP 2015
+16A
+Ale, Two Stage
+Jackie_Girl_ROBOBREW PUMP_SC
+Keg
+72
+856.2666667
+60
+30
+4.9155371
+0
+0
+0
+Unrated
+michaelshima
+773459
+Beananium(production)
+2018-07-29 06:46:58
+Imperial Stout
+2
+Gravity Point
+0
+1352.56132
+1.103102961850188
+1.0300287376388673
+47.58825904099129
+43.541916439231905
+Single Infusion, Full Body, No Mash Out
+BJCP 2008
+13F
+Ale, Single Stage
+Gravity Point brewing 50L
+Keg
+72
+1646.40526677
+90
+30
+9.756989741844944
+0
+0
+0
+Unrated
+sherwicf
+2062092
+Vanilla Bean Blonde
+2018-08-18 17:37:23
+Blonde Ale
+2
+Aaron Shockey
+0
+639.9963109
+1.0555817
+1.0130617
+14.8317749
+5.5738845
+Mash Steps
+BJCP
+18A
+My Aging Profile
+My Equipment
+My Carbonation Profile
+72
+730.6628239
+60
+30
+5.5847703
+0
+0
+0
+Unrated
+shockey8oz
+2012205
+Loos Brau Trey’s Bourbon Vanilla Bean Imperial Stout
+2018-08-19 13:57:47
+Imperial Stout
+2
+Chip Loos
+0
+640
+1.0923565
+1.031341165625
+70.1377002823134
+54.53656353379512
+Single Infusion, Full Body, Batch Sparge
+BJCP 2015
+20C
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Keg
+59
+869.1200000000001
+90
+30
+8.227396296988394
+0
+0
+0
+Unrated
+cloosii
+2105851
+Mesquite Bean Dark Lager
+2018-09-14 16:32:39
+Czech Dark Lager
+2
+Trevor
+0
+1280
+1.0503976
+1.0114025
+22.3581275
+24.2838115
+Single Infusion, Light Body, No Mash Out
+BJCP 2015
+ 3D
+Ale, Two Stage
+Stainless Kegs (10 Gal/37.8 L) - All Grain
+Corn Sugar
+80
+1722.6666667
+60
+30
+5.1127104
+0
+0
+0
+Unrated
+tnearburg
+2110820
+Son of a Bean Ale
+2018-09-16 18:56:14
+American Amber Ale
+2
+
+0
+640
+1.07748424
+1.00248257653125
+27.928186128189385
+16.286300115696303
+Single Infusion, Light Body, No Mash Out
+BJCP 1999
+6B
+Ale, Single Stage
+All Grain - Standard 5 Gal/19l Batch - Cooler
+Keg
+72
+834.5600000000001
+60
+30
+10.011134596739796
+0
+0
+0
+Unrated
+bovynsloth
+1290120
+Doughnuts Revenge (Coffee Vanilla Bean Blonde)
+2018-09-19 08:08:50
+Spice, Herb or Vegetable Beer
+2
+
+0
+704
+1.0566012
+1.0118155
+20.1376641
+5.364948
+1 - BIAB - 151
+BJCP 2015
+30A
+Ale, Single Stage
+1 - Hosehead 62Qt Pot
+Keg
+75
+1057.3333333
+60
+30
+5.8844179
+0
+0
+0
+Unrated
+tmendick

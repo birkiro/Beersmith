@@ -1,0 +1,2436 @@
+<Selections><_MOD_>1970-01-01</_MOD_>
+<Name>Selections</Name>
+<Type>7428</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>64</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Moderne lys lager</F_S_NAME>
+<F_S_CATEGORY>Lys lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys karakterfuld underg&aelig;ret &oslash;l med et markant bidrag fra humlen.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Frav&aelig;rende til svag maltaroma. Middel til kraftig humlearoma. Alle humletyper tillades. Frav&aelig;rende til svagt niveau af DMS og diacetyl.
+Udseende: Halmgul til gylden. Kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel, lys maltsmag, som ikke
+dominerer. Middel til kraftig humlesmag og bitterhed.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>J&auml;mtland Hell, Victory Prima Pils, Hornbeer Dryhop, Svaneke Pilsner.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>International lager</F_S_NAME>
+<F_S_CATEGORY>Lys lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0510000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.0456853</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>6.0913706</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En industriel og let tilg&aelig;ngelig version af pilsner&oslash;llet. Det er ikke ualmindeligt at der kun bruges bitterhumle og malten suppleres ofte med r&aring;frugt. &Oslash;llet g&aelig;rer et par grader varmere end normal pilsnerg&aelig;ring.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Generelt set en svag aroma af lys malt og mellemeurop&aelig;isk humle. Svag til middel niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Lys halmgul til gylden. Medium til kraftigt skum. Helt klar.
+Smag: Frav&aelig;rende til svag, s&oslash;d maltsmag. Svag humlesmag og -bitterhed.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>Majs, ris og anden r&aring;frugt kan anvendes.</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Carlsberg, Heineken, Gr&oslash;n Tuborg, Budweiser (Amerikansk).</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Tjekkisk pilsner</F_S_NAME>
+<F_S_CATEGORY>Lys lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0170000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Tjekkisk pilsner fra sm&aring; tjekkiske bryggerier er ofte mere humlet og mere diacetylpr&aelig;get end de industrielt bryggede &oslash;l der typisk er tilg&aelig;ngelige i Danmark. Kendetegnet ved stor maltfylde og rests&oslash;dme, samt brugen af saaz humle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma af br&oslash;d og kiks. Svag til middel, krydret humlearoma, af
+mellemeurop&aelig;iske humletyper. Frav&aelig;rende til middel niveau af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: Halmgul til gylden. Kraftigt og tykt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter af br&oslash;d og kiks. Middel til kraftig humlesmag, med karakter af gr&aelig;s og krydderurter. H&oslash;j rests&oslash;dme balanceres af middel til kraftig bitterhed.
+Krop: Medium krop. Medium karbonering, lavere end de fleste underg&aelig;rede &oslash;ltyper.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Pilsner Urquell, Budweiser Budvar,Staropramen Pilsner, N&oslash;rrebro Ceske B&ouml;hmer.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Tysk pilsner</F_S_NAME>
+<F_S_CATEGORY>Lys lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0450000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys og t&oslash;r pilsner&oslash;l, med markant humlebitterhed og indslag af DMS. Det h&aring;rde og
+sulfatrige vand i Nordtyskland g&oslash;r at &oslash;llet har en mere kantet og humlebitter profil end de tjekkiske pilsnere.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Frav&aelig;rende til svag, lys maltaroma. Svag til kraftigt humlearoma, af mellemeurop&aelig;iske humletyper. Svag til kraftigt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Lys halmgul til halmgul. Kraftigt og tykt skum. Klar.
+Smag: Svag til middel smag af pilsnermalt, som ikke m&aring; dominere. Middel til kraftig, krydret
+humlesmag. Middel til kraftig humlebitterhed der kan virke skarp og let metallisk.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Jever, Bitburger, Warsteiner.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>M&uuml;nchener helles</F_S_NAME>
+<F_S_CATEGORY>Lys lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>1</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>18.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.1065990</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&uuml;nchener helles er en bl&oslash;d og maltdomineret lys lager.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af br&oslash;d og korn. Svag humlearoma af
+mellemeurop&aelig;iske typer. Frav&aelig;rende til svagt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Halmgul til gylden. Kraftigt og tykt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter af br&oslash;d og korn, men ingen karamel. Svag til
+middel humlesmag, af mellemeurop&aelig;iske humletyper. Svag humlebitterhed.
+Krop: Medium krop. Lav til medium karbonering, lavere end de fleste underg&aelig;rede &oslash;ltyper.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Weltenburger Barock-Hell, Hacker-Pschorr M&uuml;nchner Hell.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Moderne m&oslash;rk lager</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0580000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&oslash;rk karakterfuld underg&aelig;ret &oslash;l med en god balance mellem malt og humle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma med karakter af br&oslash;dskorpe, karamel eller chokolade. Svag til kraftig humlearoma. Alle humletyper tillades. Frav&aelig;rende til svagt niveau af DMS og diacetyl.
+Udseende: Ravfarvet til m&oslash;rkebrun. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltkarakter, som kan have karakter af br&oslash;dskorpe, kiks, karamel eller
+chokolade. Middel til kraftig humlesmag der balanceres af malten. Svag til middel humlebitterhed.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;rrebro New York Lager, Samuel Adams Boston Lager, Brooklyn Lager.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Wiener</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>28.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Wiener&oslash;l er en velbalanceret m&oslash;rk lager. Farven kommer fra wiener og m&uuml;nchener malt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af br&oslash;d og karamel. Frav&aelig;rende til svag
+humlearoma, fra mellemeurop&aelig;iske humletyper. Frav&aelig;rende til svagt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Ravfarvet til kobberfarvet. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter af br&oslash;d og karamel. Let ristede noter kan forekomme. Svag til middel humlesmag og bitterhed.
+Krop: Let til medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Negra Modelo, Fur Vulcano Classic.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>M&auml;rzen</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0520000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>28.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.5837563</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Denne kategori har ikke meget at g&oslash;re med de moderne, industrielle oktoberfest&oslash;l som i dag
+minder mere om en standard lys lager&oslash;l. M&auml;rzen er en udvikling af wiener&oslash;llet med en lidt h&oslash;jere urtstyrke som g&oslash;r den mere holdbar over sommeren.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af br&oslash;d, kiks og karamel. Svag til middel
+humlearoma, med karakter af mellemeurop&aelig;iske humletyper. Frav&aelig;rende til svagt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Gylden til kobberfarvet. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, som er mere let-ristet end karamelagtig. Svag, men m&aelig;rkbar humlesmag og bitterhed.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Ayinger Oktober Fest Ur-M&auml;rzen, Schwaben Br&auml;u Das Echte M&auml;rzen, Sp&auml;ten Oktoberfest Urm&auml;rzen.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>M&uuml;nchener dunkel</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0520000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>16.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&uuml;nchener dunkel skal v&aelig;re m&oslash;rk maltet med ristede, men ikke br&aelig;ndte noter. En god m&uuml;nchener er fyldig, maltet og bl&oslash;d, mens en d&aring;rlig er s&oslash;d og vammel.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af br&oslash;d og noter af chokolade og ristet malt. Svag aroma af ug&aelig;ret urt. Svag humlearoma af mellemeurop&aelig;iske typer. Frav&aelig;rende til svagt niveau af DMS og diacetyl.
+Udseende: M&oslash;rk kobberfarvet til m&oslash;rk r&oslash;dbrun. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig, bl&oslash;d og fyldig maltsmag, med karakter af br&oslash;d, karamel og chokolade fra m&uuml;nchnener malt. Svag, men m&aelig;rkbar humlesmag og bitterhed giver balance i &oslash;llet.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Ayinger Altbairisch Dunkel, K&ouml;nig Ludwig Dunkel, Hacker-Pschorr M&uuml;nchner Dunkel, Paulaner Original M&uuml;nchner Dunkel, Weltenburger Kloster Barock Dunkel.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>M&oslash;rk tjekkisk lager</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&oslash;rk tjekkisk lager er ofte s&oslash;d som urt, men mere balancerede eksempler forekommer ogs&aring;.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af toffee, karamel, m&aelig;lkechokolade og ug&aelig;ret urt. Frav&aelig;rende til svag humlearoma af mellemeurop&aelig;iske typer. Svag til kraftigt niveau af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til r&oslash;dsort. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig, s&oslash;d maltsmag, med karakter af karamel og m&aelig;lkechokolade. Svag til middel ristet maltkarakter, som kan bidrage med bitterhed. Frav&aelig;rende til svag humlesmag og humlebitterhed.
+Krop: Medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kozel Dark, Bohemia Regent Dark, 1795 Dark, B.B. Dark.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Schwarzbier</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>22.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>25.3807107</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.6000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Schwarzbier er en underg&aelig;ret &oslash;l, med ristet karakter. Kan betegnes som en sort pilsner.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel, ristet maltaroma. Svag til middel humlearoma, der stammer fra
+mellemeurop&aelig;iske humletyper. Humlen kan godt v&aelig;re dominerende i forhold til malten. Frav&aelig;rende til middel niveau af DMS. Frav&aelig;rende til svagt niveau af diacetyl.
+Udseende: R&oslash;dbrun til r&oslash;dsort. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til kraftig, ristet maltsmag, med svag til middel s&oslash;dme. Svag til middel humlesmag og bitterhed.
+Krop: Let til medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>K&ouml;stritzer Schwarzbier, Kulmbacher M&ouml;nchschof Schwarzbier, Munkebo Udg&aring;rdsloke, Krusovice Cerne (dark).</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Klassisk r&oslash;g&oslash;l</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk lager</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>2</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0580000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>38.0710660</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En m&auml;rzen med tydelig r&oslash;get karakter i b&aring;de smag og duft fra tysk rauchmalt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til kraftig, r&oslash;get maltaroma, med karakter af bacon og r&oslash;get skinke. Humlearoma bem&aelig;rkes ikke. DMS og diacetyl m&aring; ikke forekomme. Udseende: Ravfarvet til m&oslash;rk r&oslash;dbrun. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter af br&oslash;d, kiks og karamel. Svag til kraftig r&oslash;gsmag. Svag til middel bitterhed, men humlen bem&aelig;rkes ikke i smagen.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Aecht Schlenkerla Rauchbier M&auml;rzen, Spezial Rauchbier M&auml;rzen, Hummel-Br&auml;u Raucherla M&auml;rzen, Krenkerup Rauchbier.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Helles bock/maibock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.5837563</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys og velhumlet bock typisk brygget til for&aring;r og sommer.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma af pilsner malt, eventuelt med yderligere karakter af br&oslash;dskorpe og ristet br&oslash;d. Frav&aelig;rende til middel humlearoma fra mellemeurop&aelig;isk humle. Frav&aelig;rende til svagt niveau af frugtestere, alkohol og DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Gylden til lys ravfarvet. Medium til kraftigt skum. Klar. 
+Smag: Middel til kraftig s&oslash;d maltsmag. Middel til kraftig bitterhed, men kun svag til middel humlesmag.
+Krop: Medium til fyldig krop. Medium til kraftig karbonering</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Ayinger Maibock, Einbecker Ur-Bock Hell, Einbecker Mai-Ur-Bock, Andechser Bergbock
+Hell.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Bock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0740000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Bock er en s&oslash;d og fyldig &oslash;l, der er helt domineret af malt.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til meget kraftig maltaroma, med karakter af br&oslash;dskorpe og kiks. Frav&aelig;rende til svag humlearoma. Frav&aelig;rende til svagt niveau af frugtester og alkohol, som kan give karakter af t&oslash;rret frugt. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Kobberfarvet til r&oslash;dbrun. Medium til kraftigt skum. Klar.
+Smag: Middel til kraftig, s&oslash;d og maltet smag, med tydelige indslag af alkohol. S&oslash;dmen balanceres af humlebitterhed, men humlen bem&aelig;rkes ikke i smagen. Svagt niveau af frugtestere.
+Krop: Medium til fyldig krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Einbecker Ur-Bock Dunkel.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Doppelbock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0740000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0200000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0280000</F_S_MAX_FG>
+<F_S_MIN_IBU>17.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>27.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>48.2233503</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En st&aelig;rkere udgave af bock, der er vin&oslash;s og kraftig.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Kraftig til meget kraftig maltaroma, med karakter af br&oslash;d og karamel. Chokoladenoter kan forekomme i m&oslash;rkere udgaver, men aldrig ristet
+karakter. En kombination af frugtester, lagring og alkohol kan give en vin&oslash;s karakter af t&oslash;rret frugt. Humlearoma m&aring; ikke bem&aelig;rkes. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til r&oslash;dsort. Svag til kraftigt skum. Klar.
+Smag: Kraftig til meget kraftig, s&oslash;d, vin&oslash;s og br&oslash;dagtig maltsmag, med noter at t&oslash;rret frugt og chokolade. &Oslash;llet er s&oslash;dt, men m&aring; ikke v&aelig;re vammelt. Varmende alkohol. Svag humlesmag og bitterhed. Bitterhed fra ristet malt m&aring; ikke bem&aelig;rkes.
+Krop: Fyldig krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Andechser Doppelbock Dunkel, Weltenburger Asam Bock, Ayinger Celebrator, Weiheinstephaner Korbinian, Fur Bock.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Eisbock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0640000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0200000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0350000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>13.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En ekstra st&aelig;rk bock/doppelbock hvis karakter koncentreres og forst&aelig;rkes ved at den fryses og isen fjernes fra &oslash;llet. Domineres af en vin&oslash;s karakter af alkohol.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Kraftig til meget kraftig maltaroma, med karakter af br&oslash;d og karamel. Humlearoma m&aring; ikke bem&aelig;rkes. Middel til kraftig aroma af alkohol, med vin&oslash;se noter af t&oslash;rret frugt. DMS og diacetyl m&aring; ikke forekomme. 
+Udseende: Kobberfarvet til m&oslash;rk r&oslash;dbrun. Frav&aelig;rende til medium skum. Klar.
+Smag: Kraftig til meget kraftig, s&oslash;d maltsmag. &Oslash;llet er s&oslash;dt, men m&aring; ikke v&aelig;re vammelt.
+Varmende alkohol. Svag humlebitterhed uden smag af humle.
+Krop: Fyldig krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kulmbacher EKU 28, Kulmbacher
+Eisbock.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Weizen bock</F_S_NAME>
+<F_S_CATEGORY>Bock</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>3</F_S_NUMBER>
+<F_S_TYPE>1</F_S_TYPE>
+<F_S_MIN_OG>1.0640000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0150000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>13.1979695</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En st&aelig;rk, overg&aelig;ret &oslash;l, der kombinerer bock og weissbier. Karakteren af den sydtyske
+hvede&oslash;lsg&aelig;r er tydelig.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter af br&oslash;d, kiks, karamel og chokolade. Svag til kraftig karakter af banan og nellike. Humlearoma m&aring; ikke bem&aelig;rkes. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Kobberfarvet til brunsort. Medium til kraftigt skum. Let til kraftigt t&aring;get.
+Smag: Middel til kraftig, s&oslash;d maltsmag. Let ristede noter kan forekomme. Svag til kraftig karakter af banan og nellike. Humlesmag og bitterhed bem&aelig;rkes ikke. Varmende alkohol bem&aelig;rkes men m&aring; ikke virke sprittet.
+Krop: Medium til fyldig krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Schneider Aventinus, Erdinger Pikantus, Indslev Hvede Bock.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Engelsk Ordinary Bitter</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0330000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0390000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>7.6142132</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>3.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den mildeste af de lyse engelske ales. Kendetegnet ved balance mellem malt, engelsk humle og frugtestere. De tre typer Engelsk Bitter har de fleste karaktertr&aelig;k til f&aelig;lles, bortset fra styrken. Derfor vil et stilartseksempel i den ene type ogs&aring; give et godt indtryk af hvordan de to andre typer skal smage.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter af toffee, karamel, kiks og lyst br&oslash;d. Svag til middel, engelsk humlearoma, der kan beskrives som gr&aelig;s, blomster og harpiks/fyrren&aring;le. Svag til middel niveau af frugtestere. Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring; ikke forekomme. 
+Udseende: Lys ravfarvet til kobberfarvet. Svag til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag, med karakter af toffee, karamel, kiks og lyst br&oslash;d. Middel til kraftig humlesmag og -bitterhed.
+Krop: Let til medium krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Fullers Chiswick Bitter, Cains IPA,Jennings Lakeland Bitter.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Engelsk best bitter</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0460000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>0.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.8000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den mellemste af de lyse engelske ales. Kendetegnet ved balance mellem malt, engelsk humle og frugtestere.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter af toffee, karamel, kiks og lyst br&oslash;d. Svag til middel engelsk humlearoma, der kan beskrives som gr&aelig;s, blomster og harpiks/fyrren&aring;le. Svag til middel niveau af frugtestere. Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: Kobberfarvet. Svag til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag, med karakter af toffee, karamel, kiks og lyst br&oslash;d. Middel til kraftig humlesmag og -bitterhed.
+Krop: Medium krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Fullers London Pride, Shepherd Neame Spitfire, Greene King Ruddles County Bitter.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Engelsk strong bitter/Engelsk pale ale</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>20.3045685</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Pale ale er typisk etikettenavn for en flasket udgave af den st&aelig;rkeste engelske bitter. Kendetegnet ved balance mellem malt, engelsk humle og frugtestere.
+</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter af toffee, karamel, kiks og lyst br&oslash;d. Svag til middel engelsk humlearoma, der kan beskrives som gr&aelig;s, blomster og harpiks/fyrren&aring;le. Svag til middel niveau af frugtestere. Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rk kobberfarvet. Svag til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag, med karakter af toffee, karamel og lyst br&oslash;d. Nogen rests&oslash;dme kan v&aelig;re til stede. Middel til kraftig humlesmag og -bitterhed.
+Krop: Medium til fyldig krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Fullers ESB, Morland Old Speckled Hen, Samuel Smith&rsquo;s Old Brewery Pale Ale, Shepherd Neame Bishops Finger, Greene King Abbot Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Engelsk golden ale</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.6142132</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Udviklet som et real ale alternativ til pilsner&oslash;l. Skal v&aelig;re let og forfriskende. Brygges typisk p&aring; pilsner/pale malt og eventuelt lidt hvedemalt, med rigelige m&aelig;ngder aromahumler.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, typisk med karakter af lyst br&oslash;d. Middel til kraftig humlearoma, med karakter af engelske eller amerikanske typer. Frav&aelig;rende til svagt niveau af frugtestere. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Lys halmgul til gylden. Svag til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel, lys maltsmag. Middel til kraftig humlesmag og -bitterhed. Rests&oslash;dmen kan v&aelig;re tydelig, men i balance med humlen.
+Krop: Let til medium krop. Lav til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Badger Golden Champion, Williams Brothers Gold, Brewdog Trashy Blonde, Crouch Vale Amarillo.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Amerikansk pale ale</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0560000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0913706</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>14.2131980</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.4000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En efterh&aring;nden klassisk amerikansk &oslash;ltype, som er en mere humlet udgave af engelske pale ale. Typisk med markant duft og smag fra de amerikanske humletyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Frav&aelig;rende til svag maltaroma, med karakter af br&oslash;d og karamel. Middel til kraftig humlearoma fra amerikansk humle, som kan have karakter af citrus (appelsin og grapefrugt), harpiks/fyrren&aring;le eller fersken. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Gylden til kobberfarvet. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag maltsmag af br&oslash;d og karamel. Middel til kraftig humlesmag, som kan have karakter af citrus (appelsin og grapefrugt), harpiks/fyrren&aring;le eller fersken. Middel humlebitterhed.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Sierra Nevada Pale Ale, Anchor Liberty Ale, Amager Christianhavn Pale Ale, Beer Here Lupulus.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>California common/steam beer</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0550000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En &oslash;ltype der er fremkommet da man ikke kunne g&aelig;re ved lagertemperatur i den californiske varme.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter af karamel og br&oslash;dskorpe. Svag til middel humlearoma af mellemeurop&aelig;iske typer. Svagt niveau af frugtestere, der kan beskrives som r&oslash;de &aelig;bler og blommer. En svag svovlagtig aroma fra g&aelig;ringen med lagerg&aelig;r. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Ravfarvet til kobberfarvet. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel maltsmag, med karakter af karamel og br&oslash;dskorpe. Middel mellemeurop&aelig;isk humlesmag og bitterhed, som er i balance med malten. Eftersmagen domineres af humle.
+Krop: Medium krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Anchor Steam Beer.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>K&ouml;lsch</F_S_NAME>
+<F_S_CATEGORY>Lys ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>4</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0420000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0460000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.0304569</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>7.1065990</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.1000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>K&ouml;lsch er overg&aelig;ret og lagret ved lav temperatur. En t&oslash;r og forfriskende &oslash;l, hvor malt, humle og frugtestere er i elegant balance.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag br&oslash;dagtig maltaroma. Frav&aelig;rende til svag humlearoma af mellemeurop&aelig;iske typer. Svagt niveau af vin&oslash;se frugtestere. Svage, peberagtige krydrede noter kan forekomme. Frav&aelig;rende til svagt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: Lys halmgul til gylden. Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Frav&aelig;rende til svag br&oslash;dagtig maltsmag. Frav&aelig;rende til svag humlesmag med en svag til middel bitterhed.
+Krop: Let krop. Medium til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Gaffel K&ouml;lsch, Dom K&ouml;lsch, Fr&uuml;h K&ouml;lsch, Gilden K&ouml;lsch, Sion K&ouml;lsch, Reissdorf K&ouml;lsch.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Engelsk brown ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>25.3807107</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Stilarten d&aelig;kker den nordengelske brown ale type, der er lysere og mindre s&oslash;d end den historiske sydengelske type.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af karamel og toffee. Frav&aelig;rende til svag
+humlearoma. Svag til middel niveau af frugtester.
+Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring;
+ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til r&oslash;dbrun. Medium
+til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter
+af karamel og toffee. En svag note af ristet br&oslash;d
+kan forekomme. Svag til middel bitterhed, men
+humlesmag bem&aelig;rkes ikke.
+Krop: Let til medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Newcastle Brown Ale, Samuel Smith&rsquo;s
+Nut Brown Ale, &Oslash;rb&aelig;k Brown Ale.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Amerikansk brown ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0170000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>M&oslash;rkere og kraftigere end engelsk brown ale, med karakter af amerikanske humletyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af chokolade og karamel. Svag til middel
+humlearoma af amerikanske typer. Frav&aelig;rende til
+svagt niveau af frugtestere. DMS og diacetyl m&aring;
+ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til r&oslash;dbrun. Medium
+til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter
+af chokolade, ristet br&oslash;d og karamel. Svag til
+middel humlesmag og bitterhed. Let ristet
+eftersmag kan forekomme.
+Krop: Let til medium krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Brooklyn Brown Ale, Mikkeller Jackie Brown, Ugly Duck Foxy Brown.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Engelsk dark mild</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0400000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>24.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En let &oslash;l, der oftest kun er tilg&aelig;ngelig p&aring; cask, da holdbarheden er meget kort.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, der kan have
+karakter af karamel, toffee, kiks, lys chokolade og
+ristet br&oslash;d. Svag til middel niveau af frugtestere,
+der kan have karakter af blommer og rosiner.
+Frav&aelig;rende til svag engelsk humlearoma. DMS og
+diacetyl m&aring; ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rkebrun. Svag til
+kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag, der kan have
+karakter af karamel, toffee, kiks, chokolade,
+lakrids, m&oslash;rk sirup og ristet malt. Middel til kraftig
+malts&oslash;dme. Svag til middel niveau af frugtestere,
+der kan have karakter af blommer og rosiner. Svag
+bitterhed, men humlesmag bem&aelig;rkes ikke.
+Krop: Let til medium krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Brains Dark Mild, St. Peters Mild,
+Cains Dark Mild, JW Lees Brewers Dark.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Altbier</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0090000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>20.3045685</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Overg&aelig;ret og koldt lagret, traditionel tysk &oslash;ltype fra D&uuml;sseldorf og omegn.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af br&oslash;d, karamel og eventuelt lys chokolade. Svag
+til middel mellemeurop&aelig;isk humlearoma.
+Frav&aelig;rende til svagt niveau af frugtestere. DMS og
+diacetyl m&aring; ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rk kobberfarvet.
+Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, med karakter
+af br&oslash;d, karamel og eventuelt lys chokolade.
+Middel humlesmag og bitterhed.
+Krop: Medium krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Diebels Alt, Uerige Alt, Schl&ouml;sser Alt.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Skotsk ale</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0420000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0550000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>9.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>8.1218274</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den skotske ale er if&oslash;lge traditionen mere maltet
+og mindre humlet end den engelske bitter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af kiks, br&oslash;d og karamel. Frav&aelig;rende til svag
+humlearoma. Frav&aelig;rende til svagt niveau af
+frugtestere og diacetyl. DMS m&aring; ikke forekomme.
+Udseende: Ravfarvet til brun. Svag til kraftigt
+skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag og malts&oslash;dme,
+med karakter af kiks, br&oslash;d eller karamel. Svag
+humlebitterhed. En svag ristet karakter kan
+bidrage til en t&oslash;r afslutning.
+Krop: Let til medium krop. Lav til medium
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Belhaven Scottish Ale, Belhaven St. Andrews Ale, Caledonian 80/-</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Skotsk st&aelig;rk ale/wee heavy</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>6</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0650000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0860000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>25.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>20.3045685</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>S&oslash;d og vin&oslash;s, kraftig udgave af den skotske ale.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af kiks og karamel. Humlearoma m&aring; ikke
+bem&aelig;rkes. Svag til middel niveau af vin&oslash;se
+frugtestere og alkohol. Frav&aelig;rende til svagt niveau
+af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til r&oslash;dsort. Svag til
+kraftigt skum. Klar til let t&aring;get.
+Smag: Kraftig maltsmag, med karakter af
+karamel. Middel til kraftig malts&oslash;dme, dog
+balanceret af bitterhed s&aring; &oslash;llet ikke bliver
+vammelt. Frav&aelig;rende til svag humlesmag. Svag til
+middel vin&oslash;s alkoholkarakter, med pr&aelig;g af rosiner
+og andre t&oslash;rrede frugter. En svag, ristet karakter
+kan forekomme.
+Krop: Fyldig krop. Lav til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Traquair House Ale, Belhaven Wee Heavy.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Engelsk old</F_S_NAME>
+<F_S_CATEGORY>M&oslash;rk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>7</F_S_LETTER>
+<F_S_NUMBER>5</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0600000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>22.8426396</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En s&oslash;d og maltdomineret &oslash;l, i omr&aring;det mellem strong bitter og barley wine.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Kraftig maltaroma, med karakter af kiks
+og karamel. Frav&aelig;rende til svag humlearoma, af engelske typer. Middel til kraftig niveau af
+frugtestere, herunder et vin&oslash;st pr&aelig;g af t&oslash;rret
+frugt. Frav&aelig;rende til svagt niveau af alkohol. DMS
+og diacetyl m&aring; ikke forekomme.
+Udseende: Ravfarvet til m&oslash;rk kobberfarvet. Svag
+til kraftigt skum. Klar til let t&aring;get.
+Smag: Kraftig maltsmag, med karakter af kiks og
+karamel. Noter af ristet malt og chokolade kan
+forekomme. Svag til kraftig malts&oslash;dme. Svag til
+middel humlesmag og bitterhed. Svag til middel
+niveau af t&oslash;rret frugt og vin&oslash;s alkohol.
+Krop: Medium til fyldig krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Theakston&acute;s Old Peculiar, Fullers
+1845, JW Lees Moonraker, Youngs Winter Warmer.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Engelsk IPA</F_S_NAME>
+<F_S_CATEGORY>IPA (India pale ale)</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0500000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0750000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>40.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>7.6142132</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftig humlet pale ale med engelske
+humletyper. Blandt engelske bryggerier bruges
+ben&aelig;vnelsen IPA i fl&aelig;ng, ofte til &oslash;l der ikke er
+st&aelig;rkere eller mere humlede end deres standard
+&oslash;l. S&aring;danne &oslash;l h&oslash;rer ikke til i denne stilart.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af karamel og kiks. Middel til kraftig humlearoma,
+som kan have karakter af gr&aelig;s, blomster eller
+harpiks/fyrren&aring;le. Frav&aelig;rende til svagt niveau af
+frugtestere. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Lys ravfarvet til kobberfarvet. Kraftigt
+og holdbart skum. Klar til let t&aring;get.
+Smag: Svag til middel s&oslash;dlig maltsmag, med
+karakter af karamel og kiks. Middel til kraftig
+humlesmag og bitterhed.
+Krop: Medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>N&oslash;rrebro Bombay Pale Ale, Brooklyn
+East India Pale Ale, Fullers IPA.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Amerikansk IPA</F_S_NAME>
+<F_S_CATEGORY>IPA (India pale ale)</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0560000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0750000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>40.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>60.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>5.5837563</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>17.7664975</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftig humlet pale ale, med markant pr&aelig;g af
+amerikanske og mere moderne humletyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag maltaroma, med karakter af
+karamel. Middel til kraftig humlearoma, som kan
+have karakter b&aring;de citrus (appelsin, citron, lime,
+grapefrugt), blomst, harpiks/fyrren&aring;le, fersken
+og/eller tropisk frugt. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Gylden til kobberfarvet. Kraftigt og
+holdbart skum. Klar til let t&aring;get.
+Smag: Svag maltsmag, som kan have karakter af br&Oslash;d, kiks og/eller karamel. Kan variere
+fra meget t&oslash;rre til let s&oslash;de. Middel til kraftig
+humlesmag og bitterhed.
+Krop: Medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Sierra Nevada Torpedo Extra IPA,
+Amager Todd the Axeman, Mikeller Green Gold, Ugly Duck Amarillo &amp; Citra
+IPA, Lagunitas IPA.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Imperial IPA</F_S_NAME>
+<F_S_CATEGORY>IPA (India pale ale)</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0750000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0900000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>60.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>22.8426396</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Stilarten er hovedsagligt en videreudvikling af den
+&rdquo;klassiske&rdquo; amerikanske IPA, der giver
+humleentusiaster frit spil.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til kraftig maltaroma, med karakter
+af br&oslash;d, kiks og karamel. Kraftig til meget kraftig
+humlearoma, som kan have karakter af citrus
+(appelsin, citron, lime, grapefrugt), blomst,
+harpiks/fyrren&aring;le, fersken eller tropisk frugt. Vin&oslash;s
+alkohol kan bem&aelig;rkes, men m&aring; ikke dominere
+eller virke sprittet. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Ravfarvet til m&oslash;rk kobberfarvet.
+Kraftigt og holdbart skum. Klar til let t&aring;get.
+Smag: Svag til kraftig maltsmag, som kan v&aelig;re
+lidt s&oslash;d til meget s&oslash;d. Kraftig til meget kraftig
+humlesmag og bitterhed.
+Krop: Medium til fyldig krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Stone Ruination, Great Divide Hercules Double IPA, To
+&Oslash;l/Mikkeller Overall IIPA, Amager The Sinner
+Series Gluttony, Lagunitas Maximus, Midtfyns Bryghus Double IPA.
+IPA.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Black IPA</F_S_NAME>
+<F_S_CATEGORY>IPA (India pale ale)</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>6</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0500000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0950000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>50.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>90.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>30.4568528</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>45.6852792</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En nyere type IPA der kombinerer m&oslash;rke malte
+med kraftig humling, hvilket giver nye, unikke
+nuancer. Bliver de m&oslash;rke malte dominerende er
+der m&aring;ske n&aelig;rmere tale om en moderne
+porter/stout eller imperial stout. Findes b&aring;de i
+styrke svarende til almindelig og imperial IPA.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma der kan have
+karakter af lakrids, br&oslash;d, kiks, karamel eller
+chokolade. Middel til kraftig humlearoma som kan
+have karakter af citrus (appelsin, citron, lime,
+grapefrugt), blomst, harpiks/fyrren&aring;le, fersken
+eller tropisk frugt. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: M&oslash;rkebrun til brunsort. Kraftigt og
+holdbart skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag der kan have
+karakter af lakrids, br&oslash;d, kiks, karamel, kaffe,
+ristet br&oslash;d eller chokolade. Kun frav&aelig;rende eller
+meget svage br&aelig;ndte eller h&aring;rdt ristede noter.
+Middel til kraftig humlesmag og bitterhed.
+Krop: Medium til fyldig krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Amager Black Nitro, Beer Here Dark
+Hops, St. Austell Proper Black, Mikkeller Sort Gul, Hornbeer Hophorn</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Weizen/weissbeer</F_S_NAME>
+<F_S_CATEGORY>Hvede&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>15.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>4.0609137</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En traditionel sydtysk hvede&oslash;l, med markant pr&aelig;g
+af den s&aelig;rlige hvede&oslash;lsg&aelig;r.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af friskbagt franskbr&oslash;d. Humlearoma bem&aelig;rkes
+ikke. Middel til kraftigt niveau af frugtestere og
+fenoler. Frugtesterne er s&aelig;rligt banan og den
+fenoliske karakter beskrives ofte som
+kryddernellike, med noter af muskat og vanilje. En
+ganske svag r&oslash;get fenolisk undertone kan
+forekomme. Svag aroma af g&aelig;r. DMS og diacetyl
+m&aring; ikke forekomme.
+Udseende: Halmgul til ravfarvet. Kraftigt og
+holdbart skum. Let til kraftigt t&aring;get.
+Smag: Svag til middel maltsmag, med karakter af
+friskbagt franskbr&oslash;d. Frav&aelig;rende til svag
+bitterhed, uden smag af humlen. Svag til kraftigt
+niveau af frugtestere og fenoler. Kan have en
+frugtagtig s&oslash;dme.
+Krop: Medium til fyldig krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Weihenstephaner Hefe, Schneider
+Weisse Tap 1 Mein Blondes, Maisel&rsquo;s Weisse
+Original, Erdinger Hefe Weisse.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Dunkelweizen</F_S_NAME>
+<F_S_CATEGORY>Hvede&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0520000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>10.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>15.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den traditionelle sydtyske hvede&oslash;l, med indslag af
+m&oslash;rkere malte.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af friskbagt franskbr&oslash;d, karamel og lys chokolade.
+Humlearoma bem&aelig;rkes ikke. Middel til kraftigt
+niveau af frugtestere og fenoler. Frugtesterne er
+s&aelig;rligt banan og den fenoliske karakter beskrives
+ofte som kryddernellike, med noter af muskat og
+vanilje. En ganske svag r&oslash;get fenolisk undertone
+kan forekomme.. Svag aroma af g&aelig;r. DMS og
+diacetyl m&aring; ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rkebrun. Kraftigt
+og holdbart skum. Let til kraftigt t&aring;get.
+Smag: Svag til middel maltsmag, som kan have
+karakter af ristet br&oslash;d, friskbagt franskbr&oslash;d,
+karamel, chokolade eller en smule lakrids. Den
+ristede karakter er ikke en n&oslash;dvendighed.
+Frav&aelig;rende til svag bitterhed, uden smag af
+humlen. Svag til kraftigt niveau af frugtestere og
+fenoler. Kan have en frugtagtig s&oslash;dme.
+Krop: Medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Weihenstephaner HefeWeissbier
+Dunkel, Paulaner Hefe-Weissbier Dunkel, Erdinger
+Dunkel, Franziskaner Hefe-Weissbier Dunkel</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Belgisk wit</F_S_NAME>
+<F_S_CATEGORY>Hvede&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>7</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0500000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0060000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.3000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Traditionel belgisk hvede&oslash;l, brygget med en stor
+andel umaltet hvede, med markant karakter af
+bitter appelsinskal og koriander.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag br&oslash;dagtig aroma af hvede.
+Humlearoma bem&aelig;rkes ikke. Middel til kraftig duft
+af koriander og appelsinskal. DMS og diacetyl m&aring;
+ikke forekomme.
+Udseende: Lys halmgul til halmgul. Kraftigt og
+holdbart skum. Let til kraftig t&aring;get.
+Smag: Svag til middel br&oslash;d- og kornagtig smag af
+umaltet hvede. Svag bitterhed fra b&aring;de humle og
+appelsinskal. Middel til kraftig smag af koriander
+og appelsinskal. Der kan forekomme noter af
+vanilje. &Oslash;llet skal v&aelig;re t&oslash;rt og kan have et svagt
+syrligt indslag af m&aelig;lkesyre.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Hoegaarden Wit, St. Bernardus Blanche</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Dry stout</F_S_NAME>
+<F_S_CATEGORY>Stout/porter</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0440000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>50.7614213</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.7000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>4.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>I h&aring;ndbrygsammenh&aelig;ng er forskellen p&aring; stout og
+porter, at stouten er pr&aelig;get af ristet byg og h&aring;rdt
+ristet karakter, mens porteren er rundere og
+bl&oslash;dere. I kommerciel sammenh&aelig;ng bruges
+navnene stout og porter oftest i fl&aelig;ng.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, domineret af
+h&aring;rdt ristet og kaffeagtig karakter, der f&oslash;lges af
+chokolade og toffee. Frav&aelig;rende til svag
+humlearoma af engelske humletyper. Frav&aelig;rende
+til middel niveau af frugtestere. DMS og diacetyl
+m&aring; ikke forekomme.
+Udseende: R&oslash;dsort til sort. Kraftigt skum, der er
+hvidt til cremefarvet. Klar til let t&aring;get.
+Smag: Middel til kraftig ristet maltsmag, som kan
+have karakter af kaffe, chokolade, lakrids eller
+korn. Br&aelig;ndt karakter og middel humlebitterhed
+karakteriserer eftersmagen. Humlesmag
+bem&aelig;rkes ikke. En vis syrlighed fra det ristede
+korn kan forekomme, men er ikke n&oslash;dvendig.
+Krop: Let krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Guinness Draught, Murphy&rsquo;s Stout.
+De store irske bryggerier bruger blandingsgas, som
+man i h&aring;ndbryggersammenh&aelig;ng skal se bort fra.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Sweet stout</F_S_NAME>
+<F_S_CATEGORY>Stout/porter</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0350000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0660000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.4000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>35.5329949</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>3.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>5.7000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Sweet stout er en samlet betegnelse for forskellige
+typer s&oslash;de stouts. Milk stout er traditionelt brygget
+med laktose, og markedsf&oslash;rt som en n&aelig;rende &oslash;l til
+b&oslash;rn og gravide. Andre typer sweet stout under
+navne som oyster stout eller cream stout, adskiller
+sig fra dry stout med en grundl&aelig;ggende s&oslash;dme.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af toffee, karamel, s&oslash;d lakrids, m&aelig;lkechokolade
+eller kaffe. Humle bem&aelig;rkes ikke. Frav&aelig;rende til
+svagt niveau af frugtestere. Frav&aelig;rende til svagt
+niveau af diacetyl. DMS m&aring; ikke forekomme.
+Udseende: M&oslash;rkebrun til sort. Kraftigt skum, der
+er hvidt til cremefarvet. Klar til let t&aring;get.
+Smag: Middel til kraftig, ristet maltsmag, der
+balanceres af en grundl&aelig;ggende s&oslash;dme. Karakter
+af chokolade, toffee, karamel eller lakrids. En
+br&aelig;ndt note kan forekomme. I meget s&oslash;de
+eksempler, kan laktosen smage som sukker og lys
+m&aelig;lkechokolade. I andre eksempler kan det v&aelig;re
+ren malts&oslash;dme. Humlesmagen skal v&aelig;re
+frav&aelig;rende og bitterheden skal v&aelig;re svag.
+Krop: Medium til fyldig krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Refsvindinge Mors Stout, Marstons
+Oyster Stout, Left Hand Milk Stout, Mackeson&rsquo;s
+XXX Stout (milk stout).</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Oatmeal stout</F_S_NAME>
+<F_S_CATEGORY>Stout/porter</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0470000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0600000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>45.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.9000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>35.5329949</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En stout der tager karakter fra et vist indhold af
+havre.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, som kan
+have karakter af toffee, karamel, chokolade, kiks,
+korn, lakrids eller kaffe. Humle bem&aelig;rkes ikke.
+Frav&aelig;rende til svagt niveau af frugtestere. DMS og
+diacetyl m&aring; ikke forekomme.
+Udseende: M&oslash;rkebrun til sort. Kraftigt skum, der
+er hvidt til cremefarvet. Klar til let t&aring;get.
+Smag: Middel til kraftig ristet smag, der
+balanceres af en vis malts&oslash;dme. Karakter af
+chokolade, toffee, karamel eller lakrids. Svag til
+kraftig karakter af havre. Humlesmagen skal v&aelig;re
+frav&aelig;rende til svag, og bitterheden skal v&aelig;re svag
+til middel.
+Krop: Medium til fyldig krop, med en fed og
+silkebl&oslash;d tekstur. Lav til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Samuel Smith&rsquo;s Oatmeal Stout.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Porter</F_S_NAME>
+<F_S_CATEGORY>Stout/porter</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0200000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>25.3807107</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>40.6091371</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>I h&aring;ndbrygsammenh&aelig;ng er forskellen p&aring; stout og
+porter, at stouten er pr&aelig;get af ristet byg og h&aring;rdt
+ristet karakter, mens porteren er rundere og
+bl&oslash;dere. I kommerciel sammenh&aelig;ng bruges
+navnene stout og porter oftest i fl&aelig;ng.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, der kan have
+karakter af toffee, karamel, chokolade og lakrids.
+Frav&aelig;rende til svag humlearoma af engelske
+typer. Svag til middel niveau af frugtestere, som
+kan have karakter af t&oslash;rret frugt. DMS og diacetyl
+m&aring; ikke forekomme.
+Udseende: Brun til m&oslash;rkebrun. Kraftigt skum, der
+er cremefarvet til lys brun. Klar til let t&aring;get.
+Smag: Middel til kraftig maltsmag, der kan have
+karakter af toffee, karamel, chokolade, kaffe, ristet
+br&oslash;d og lakrids. Humlesmagen skal v&aelig;re frav&aelig;rende til svag, og bitterheden skal v&aelig;re svag
+til middel.
+Krop: Medium til fyldig krop. Lav til medium
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Samuel Smith&rsquo;s Taddy Porter, Fullers
+London Porter, Anchor Porter</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Moderne stout og porter</F_S_NAME>
+<F_S_CATEGORY>Stout/porter</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>8</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0480000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0220000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.8000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>25.3807107</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.2000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Portere og stouts, der er kendetegnet ved, at v&aelig;re
+kraftigere humlet end de traditionelle typer, og
+som ogs&aring; pr&aelig;ges af markant aromahumle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, der b&aring;de kan
+v&aelig;re mild som en porter eller h&aring;rdt ristet som en
+stout. Der kan v&aelig;re noter af toffee, karamel,
+chokolade, lakrids, kaffe, ristet br&oslash;d, kiks og korn.
+Middel til kraftig humlearoma. Alle humletyper
+tillades. Svag til middel niveau af frugtestere, som
+kan v&aelig;re overd&oslash;vet af humlen. DMS og diacetyl
+m&aring; ikke forekomme.
+Udseende: Brun til sort. Kraftigt skum, der er
+hvidt til lys brun. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag, der kan have
+karakter af toffee, karamel, chokolade, lakrids,
+kaffe, ristet br&oslash;d, kiks og korn. Middel til kraftig
+humlesmag. Middel bitterhed.
+Krop: Let til fyldig krop. Lav til medium
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Amager Sundby Stout, Sierra Nevada
+Porter, Sierra Nevada Stout, J&auml;mtlands Porter</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Engelsk barley wine</F_S_NAME>
+<F_S_CATEGORY>St&aelig;rk &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0800000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0320000</F_S_MAX_FG>
+<F_S_MIN_IBU>50.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>12.6903553</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>16.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Engelsk barley wine domineres af vin&oslash;s og
+kompleks maltkarakter, mens amerikansk barley
+wine er mere pr&aelig;get af b&aring;de malt og humle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af kiks og br&oslash;dskorpe. Frav&aelig;rende til svag
+humlearoma, af engelske typer. Middel til kraftigt
+niveau af frugtestere og alkohol, der giver et
+vin&oslash;st pr&aelig;g, ofte med noter af t&oslash;rret frugt og
+hedvin. En sherryagtig oxideret note kan v&aelig;re en
+del af karakteren. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Kobberfarvet til r&oslash;dbrun. Frav&aelig;rende
+til medium skum. Klar til let t&aring;get.
+Smag: Kraftig og kompleks maltsmag.
+Frav&aelig;rende til svag humlesmag. Middel til kraftigt
+niveau af frugtestere, der giver karakter af t&oslash;rret
+frugt. Tydelig, vin&oslash;s alkohol, som dog ikke m&aring;
+virke sprittet. H&oslash;j rests&oslash;dme, som balanceres af en
+vis humlebitterhed. En let, frugtagtig syrlighed der
+kan minde om t&oslash;rret abrikos kan forekomme.
+Krop: Fyldig krop. Lav karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Thomas Hardy&rsquo;s Ale, J. W. Lees Harvest Ale, Fullers Vintage
+Ale</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Amerikansk barley wine</F_S_NAME>
+<F_S_CATEGORY>St&aelig;rk &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0750000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0180000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0320000</F_S_MAX_FG>
+<F_S_MIN_IBU>70.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>200.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.6000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.5000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>10.1522843</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>30.4568528</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>16.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Engelsk barley wine domineres af vin&oslash;s og
+kompleks maltkarakter, mens amerikansk barley
+wine er mere pr&aelig;get af b&aring;de malt og humle.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af kiks, karamel og br&oslash;dskorpe. Middel til kraftig
+humlearoma af amerikanske typer. Middel til
+kraftigt niveau af frugtestere og alkohol. DMS og
+diacetyl m&aring; ikke forekomme.
+Udseende: M&oslash;rk ravfarvet til r&oslash;dbrun. Svag til
+kraftigt skum. Klar til let t&aring;get.
+Smag: Middel til kraftig, s&oslash;d maltsmag. Middel til
+kraftig smag af amerikanske humletyper, med h&oslash;j
+bitterhed. Tydelig alkohol. H&oslash;j rests&oslash;dme, som
+balanceres af bitterheden.
+Krop: Fyldig krop. Lav til medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Anchor Old Foghorn, Sierra Nevada
+Bigfoot, Stone Old Guardian.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Foreign extra stout</F_S_NAME>
+<F_S_CATEGORY>St&aelig;rk &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0570000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0760000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>30.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>70.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.1000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kraftigere udgave af enten dry eller sweet
+stout, oprindeligt brygget med henblik p&aring; eksport
+til de tropiske markeder.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig ristet maltaroma som kan
+have karakter af lakrids, m&oslash;rk chokolade, karamel
+eller brun farin. Frav&aelig;rende til svag humlearoma.
+Svag til middel niveau af frugtestere, der kan have
+karakter af t&oslash;rret frugt. Frav&aelig;rende til svagt
+niveau af vin&oslash;s alkohol, som ikke m&aring; virke sprittet.
+DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Brunsort til sort. Middel til kraftigt,
+holdbart skum, der er hvidt til cremefarvet. Klar til
+let t&aring;get.
+Smag: Middel til kraftig ristet maltsmag, som kan
+have karakter af lakrids, m&oslash;rk chokolade, karamel
+eller brun farin. B&aring;de s&oslash;de og mere t&oslash;rre
+eksempler findes. Middel til kraftig humlebitterhed.
+Humlesmag bem&aelig;rkes ikke. Kraftigt ristet eller
+br&aelig;ndt eftersmag.
+Krop: Medium til fyldig krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Guinness Foreign Extra Stout,
+Guinness Special Export, Lion Stout (Sri Lanka)</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Baltisk Porter</F_S_NAME>
+<F_S_CATEGORY>St&aelig;rk &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0640000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0150000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0300000</F_S_MAX_FG>
+<F_S_MIN_IBU>35.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>65.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.6000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>30.4568528</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>50.7614213</F_S_MAX_COLOR>
+<F_S_MIN_ABV>6.3000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>9.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Underg&aelig;ret porter, udviklet som &Oslash;sters&Oslash;landenes
+version af den engelske imperial stout.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel ristet maltaroma, som kan
+have karakter af lakrids, karamel eller brun farin.
+Frav&aelig;rende til svag humlearoma. Svag til kraftig
+alkoholkarakter, som eventuelt kan virke sprittet.Frav&aelig;rende til middel niveau af frugtestere, der
+kan have karakter af t&Oslash;rret frugt. Frav&aelig;rende til
+svagt niveau af DMS. Diacetyl m&aring; ikke forekomme.
+Udseende: M&Oslash;rkebrun til sort. Kraftigt og holdbart
+skum, der er hvidt til lysebrunt. Klar til let t&aring;get.
+Smag: Middel til kraftig, s&Oslash;dlig maltsmag, som kan
+have karakter af lakrids, karamel eller brun farin.
+Ingen br&aelig;ndte eller h&aring;rdt ristet noter. Svag til
+middel humlebitterhed, som kun netop balancerer
+s&Oslash;dmen. Humlesmag bem&aelig;rkes ikke. Middel til
+kraftig vin&Oslash;s alkohol.
+Krop: Medium til fyldig krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Royal Stout, Zywiec Porter,
+Baltika 6 Porter.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Imperial stout</F_S_NAME>
+<F_S_CATEGORY>St&aelig;rk &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>9</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0700000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0140000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0280000</F_S_MAX_FG>
+<F_S_MIN_IBU>50.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>200.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>1.5000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.3000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>40.6091371</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>16.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En bred kategori af kraftige stouts, som inkludere
+afd&aelig;mpede engelsk inspirerede versioner og
+voldsommere amerikansk inspirerede versioner.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig ristet maltaroma, som
+kan have karakter af chokolade, karamel, kaffe,
+lakrids, br&aelig;ndt malt eller aske. Svag til kraftig
+humlearoma. Alle humletyper tillades. Svag til
+middel vin&oslash;s alkohol, som ikke m&aring; virke sprittet.
+Frav&aelig;rende til middel niveau af frugtestere, der
+kan have karakter af t&oslash;rret frugt. DMS og diacetyl
+m&aring; ikke forekomme.
+Udseende: M&oslash;rk r&oslash;dbrun til sort. Svag til kraftigt
+skum. Klar til let t&aring;get.
+Smag: Middel til kraftig ristet maltsmag, som kan
+have karakter af chokolade, karamel, kaffe,
+lakrids, br&aelig;ndt malt eller aske. Svag til kraftig
+humlesmag. Middel til kraftig humlebitterhed.
+Malts&oslash;dmen skal v&aelig;re i balance med
+humlebitterhed og den ristede bitterhed.
+Krop: Fyldig krop. Svag til kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Mikkeller George, Samuel Smith&rsquo;s
+Imperial Stout, Amager Hr. Fredriksen, Brooklyn
+Black Chocolate Stout, De Molen Hel &amp;
+Verdoemenis.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Belgisk blond</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0550000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0650000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>30.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.1000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.7000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>10.1522843</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.9000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En lys ale med en forholdsvis let karakter fra
+belgiske g&aelig;rtyper.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af karamel og br&oslash;dskorpe. Frav&aelig;rende til svag
+humlearoma, med karakter af europ&aelig;isk
+humletyper. Svag til middel niveau af frugtestere,
+som kan have karakter af banan, ananas eller
+bobletyggegummi. Middel til kraftigt niveau af
+fenoler, som kan v&aelig;re krydrede og syrlige.
+Frav&aelig;rende til svagt niveau af alkohol, som ikke
+m&aring; dominere. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Halmgul til lys ravfarvet. Kraftigt
+skum. Klar til medium t&aring;get.
+Smag: Svag til middel s&oslash;dlig maltsmag, med
+karakter af karamel og br&oslash;dskorpe. Svag til middel
+humlesmag og bitterhed.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>La Trappe Blond, Troubadour Blond,
+Leffe Blond.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Lys st&aelig;rk belgisk ale/Tripel</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0660000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0070000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>40.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>7.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>16.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Lyse st&aelig;rke belgiske ales kommer ud af 2
+historiske traditioner: munkenes tripel og de
+Duvel-inspirerede gyldne ales. I praksis er der
+mange overlap i &oslash;llenes karakter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, med karakter
+af karamel og br&oslash;dskorpe. Frav&aelig;rende til svag
+humlearoma, med karakter af europ&aelig;isk
+humletyper. Middel til kraftigt niveau af
+frugtestere, som kan have karakter af banan,
+ananas, citrus, bobletyggegummi med mere.
+Middel til kraftigt niveau af fenoler, som kan v&aelig;re
+krydrede (f.eks. nellike, peber, koriander og
+kardemomme), marcipanagtige, syrlige med mere.
+Svagt til middel niveau af alkohol, som ikke m&aring;
+virke sprittet. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Halmgul til ravfarvet. Kraftigt skum.
+Klar til medium t&aring;get.
+Smag: Svag til middel, s&oslash;dlig maltsmag, med
+karakter af karamel og br&oslash;dskorpe. Svag til middel
+humlesmag og bitterhed. Kendetegnet ved h&oslash;j
+kompleksitet og en t&oslash;r afslutning. Svag til kraftig,
+varmende alkohol.
+Krop: Let til medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Westmalle Tripel, Duvel, Hvid
+Chimay, St. Bernardus Tripel, St. Feuillien Tripel.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Bi&egrave;re de garde</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0550000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0800000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0110000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0180000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>35.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>6.0913706</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>15.2284264</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En nordfransk overg&aelig;ret land&oslash;l, som p&aring; grund af
+lang og k&oslash;lig lagring vil have en mere ren karakter end
+de fleste overg&aelig;rede &oslash;l.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, som kan have
+karakter af br&oslash;dskorpe og karamel. Svag
+humlearoma, med karakter af krydderurter. En
+svag note af jord og k&aelig;lder. De lysere eksempler
+skal have mere humlekarakter, mens de m&oslash;rkere
+vil have mere maltkarakter. DMS og diacetyl m&aring;
+ikke forekomme.
+Udseende: Gylden til kobberfarvet. Medium til
+kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel maltsmag med en markant
+malts&oslash;dme. Svag humlesmag og bitterhed.
+Krop: Medium krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Jenlain Blond, Ch&rsquo;Ti Blond, Jenlain
+Ambr&eacute;e, Thiriez La Blonde d&rsquo;Esquelbecq.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Saison</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>10</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0500000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0150000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>3.5532995</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks og frisk belgisk land&oslash;l, med markant
+krydret karakter, som overvejende stammer fra
+g&aelig;ren.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Frav&aelig;rende til svag maltaroma, som kan
+have karakter af lyst br&oslash;d eller karamel. Svag til
+kraftig humlearoma, som kan have karakter af
+gr&aelig;s, krydderurter eller blomster. Middel til
+kraftigt niveau af frugtestere og fenoler, som har
+karakter af ananas, appelsin og peber, mens ogs&aring;
+f.eks. banan, koriander, vanilje eller nelliker kan
+forekomme. Frav&aelig;rende til svagt niveau af
+alkohol. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Halmgul til ravfarvet. Kraftigt skum.
+Klar til medium t&aring;get.
+Smag: Frav&aelig;rende til svag maltsmag, som kan
+have karakter af lyst br&oslash;d eller karamel. Svag til
+kraftig humlesmag, som kan have karakter af
+gr&aelig;s, krydderurter eller blomster. Middel til kraftig
+humlebitterhed. Middel til kraftigt niveau af
+frugtestere og fenoler, som har karakter af ananas,
+appelsin og peber, mens ogs&aring; f.eks. banan,
+koriander, vanilje eller nelliker kan forekomme.
+Krop: Medium krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Saison Dupont, St Feuillien Saison,
+N&oslash;gne &Oslash; Saison</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Belgisk Dubbel/Bruin</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>11</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0560000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0700000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0100000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0160000</F_S_MAX_FG>
+<F_S_MIN_IBU>18.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.9000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.4000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den m&oslash;rke belgiske type, i moderat alkohol styrke,
+kendes b&aring;de fra klostre og andre belgiske
+bryggerier.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, som kan have
+karakter af karamel, n&oslash;dder, br&oslash;d eller chokolade.
+Frav&aelig;rende til svag humlearoma, med karakter fra
+europ&aelig;iske humletyper. Middel til kraftig vin&oslash;s
+karakter af t&oslash;rrede frugter fra alkohol og
+frugtestere. Svag fenolisk-krydret karakter. DMS
+og diacetyl m&aring; ikke forekomme.
+Udseende: Lys kobberfarvet til m&oslash;rk r&oslash;dbrun.
+Kraftigt cremefarvet skum. Klar til medium t&aring;get.
+Smag: Svag til middel maltsmag, som kan have
+karakter af karamel, n&oslash;dder, br&oslash;d eller chokolade.
+Frav&aelig;rende til svag humlesmag med middel
+bitterhed. Middel til kraftig vin&oslash;s karakter af
+t&oslash;rrede frugter fra alkohol og frugtestere.
+Krop: Medium til fyldig krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Westmalle Dubbel, Leffe Brune, R&oslash;d
+Chimay, St. Bernardus Prior 8</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>M&oslash;rk st&aelig;rk belgisk ale</F_S_NAME>
+<F_S_CATEGORY>Belgisk ale</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>11</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0760000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0120000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0240000</F_S_MAX_FG>
+<F_S_MIN_IBU>20.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>50.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.3000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>17.7664975</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>8.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>16.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Den st&aelig;rkeste belgiske klostertype, oftest
+ben&aelig;vnt som abt eller quadrupel.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel maltaroma, som kan have
+karakter af br&oslash;d, n&oslash;dder eller karamel. Yderligere
+aroma af karamel, kandis og brun farin fra
+forg&aelig;rede sukkertyper. Frav&aelig;rende til svag
+humlearoma. Middel til kraftig vin&oslash;s karakter af
+t&oslash;rrede frugter fra alkohol og frugtestere.
+Frav&aelig;rende til middel fenolisk-krydret karakter.
+DMS og diacetyl m&aring; ikke forekomme.
+Udseende: M&oslash;rk kobberfarvet til m&oslash;rk r&oslash;dbrun.
+Kraftig cremefarvet skum. Klar til medium t&aring;get.
+Smag: Svag til middel maltsmag, som kan have
+karakter af br&oslash;d, n&oslash;dder eller karamel. Yderligere
+smag af karamel, kandis og brun farin fra
+forg&aelig;rede sukkertyper. Frav&aelig;rende til svag
+humlesmag. Svag til middel humlebitterhed, som
+oftest kun lige balancerer s&oslash;dmen. Middel til
+kraftig vin&oslash;s karakter af t&oslash;rrede frugter fra alkohol
+og frugtestere. Alkoholen kan opleves som kraftigt
+varmende, men m&aring; ikke virke sprittet.
+Krop: Medium til fyldig krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rochefort 10, La Trappe Quadrupel,
+Bl&aring; Chimay, St. Bernardus Abt 12</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Gueuze lambic</F_S_NAME>
+<F_S_CATEGORY>Syrlig &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0440000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0630000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0100000</F_S_MAX_FG>
+<F_S_MIN_IBU>11.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>23.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>4.0609137</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>12.6903553</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Spontang&aelig;ret &oslash;l i karboneret udgave.
+Kompleksiteten og den originale rustikke karakter
+er sv&aelig;r at s&aelig;tte ord p&aring;, og derfor anbefales det
+f&oslash;rst og fremmest at smage de klassiske
+eksempler.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Den komplekse blanding af vildg&aelig;r og
+bakterietyper kan give indtryk af grapefrugt, stald,
+krydderurter, halm, l&aelig;der og/eller jordsl&aring;et
+k&aelig;lder. Malt- og humlearoma bem&aelig;rkes stort set
+ikke. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Halmgul til ravfarvet. Svag til kraftigt
+skum. Let til medium t&aring;get.
+Smag: Middel til kraftig syrlighed dominerer
+smagen. Syrligheden stammer hovedsagelig fra
+m&aelig;lkesyre og m&aring; ikke v&aelig;re eddikeagtig. Svag til
+kraftig grapefrugt-karakter som ogs&aring; kan
+forekomme bitter. Indtryk af gr&aelig;s, krydderurter,
+tr&aelig;, stald, l&aelig;der og frugt kan bidrage yderligere til
+kompleksiteten. Svag til middel malts&oslash;dme kan
+balancere syrligheden i st&oslash;rre eller mindre grad.
+Humlesmag bem&aelig;rkes ikke.
+Krop: Medium krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Gueuze Girardin (sort etiket), 3
+Fonteinen Geuze, Cantillion Gueuze, Boon Oude
+Geuze, Tilquin Oude Gueuze.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Belgisk frugt lambic</F_S_NAME>
+<F_S_CATEGORY>Syrlig &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0400000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0720000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0140000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>21.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.2000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>7.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>Spontang&aelig;ret &oslash;l i karboneret udgave, med
+tils&aelig;tning af b&aelig;r eller frugt. Kompleksiteten og
+den originale rustikke karakter er sv&aelig;r at s&aelig;tte
+ord p&aring;, og derfor anbefales det f&oslash;rst og fremmest
+at smage de klassiske eksempler. De s&oslash;dede
+varianter, fra f.eks. Lindemans og St. Louis passer
+ikke i denne stilart. Kirseb&aelig;r (Kriek) og hindb&aelig;r
+(framboise) er de mest udbredte typer, men andre
+typer findes ogs&aring;, som f.eks. solb&aelig;r, fersken,
+vindruer og bl&aring;b&aelig;r.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til kraftig karakter af det valgte b&aelig;r
+eller frugt. Den komplekse blanding af vildg&aelig;r og
+bakterietyper kan give indtryk af grapefrugt, stald,
+krydderurter, halm, l&aelig;der og/eller jordsl&aring;et
+k&aelig;lder. Malt- og humlearoma bem&aelig;rkes stort set
+ikke. DMS og diacetyl m&aring; ikke forekomme.
+Udseende: Tager ofte farve efter frugten &ndash; det er
+dog ikke alle frugter eller b&aelig;r der afgiver ret
+meget farve. Svag til kraftigt skum. Let til medium
+t&aring;get.
+Smag: Middel til kraftig syrlighed dominerer
+smagen. Syrligheden stammer hovedsagelig fra
+m&aelig;lkesyre og m&aring; ikke v&aelig;re eddikeagtig. Svag til
+kraftig karakter af det valgte b&aelig;r eller frugt. Svag
+til middel grapefrugt-karakter som ogs&aring; kan
+forekomme bitter. Indtryk af gr&aelig;s, krydderurter,
+tr&aelig;, stald, l&aelig;der og frugt kan bidrage yderligere til
+kompleksiteten. Svag til middel malts&oslash;dme kan
+balancere syrligheden i st&oslash;rre eller mindre grad.
+Humlesmag bem&aelig;rkes ikke.
+Krop: Medium krop. Medium til kraftig
+karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>3 Fonteinen Kriek, Cantillion Kriek,
+Vigneronne og Rose de Gambrinus, Girardin Kriek
+og Framboise</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Flamsk r&oslash;d</F_S_NAME>
+<F_S_CATEGORY>Syrlig &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0570000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0030000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.1000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>4.5000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>6.5000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks, lagret syrlig &oslash;l, oprindeligt ofte lagret
+p&aring; tr&aelig;fade. Typen s&aelig;lges b&aring;de i ren lagret og
+dermed meget syrlig udgave, og i en udgave hvor
+det syrlige &oslash;l er blandet med en s&oslash;dere frisk &oslash;l.
+Den komplekse syrlighed er sv&aelig;r at beskrive og
+derfor anbefales det f&oslash;rst og fremmest at smage
+de klassiske eksempler. Flamsk r&oslash;d er mere syrlig
+med en vis eddikekarakter, mens flamsk brun er
+mere s&oslash;d og karamelagtig.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel syrlig aroma, med
+karakter af m&aelig;lkesyre og balsamisk eddike. Svag
+til middel karamelagtig maltaroma. Svag til middel
+niveau af frugtestere, med karakter af t&oslash;rret frugt
+og kirseb&aelig;r. Et svagt niveau af krydrede fenoler
+bidrager til kompleksiteten. Humle bem&aelig;rkes ikke.
+Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring;
+ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rk r&oslash;dbrun.
+Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til kraftig syrlig eller sur/s&oslash;d karakter
+som balanceres af karamelagtig malts&oslash;dme.
+Balancen kan g&aring; b&aring;de i meget syrlig og ret s&oslash;dretning. Syrligheden opleves kompleks, med
+tydelige indslag af balsamisk eddike. Indtryk af
+kirseb&aelig;r, appelsin, egetr&aelig; (dog ikke
+bourbon/vaniljeagtig) og peber kan bidrage
+yderligere til kompleksiteten. Humlesmag og
+bitterhed bem&aelig;rkes ikke.
+Krop: Let til medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Rodenbach Grand Cru, Duchesse de
+Bourgogne, Rodenbach Classic.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Flamsk Brun/Oud bruin</F_S_NAME>
+<F_S_CATEGORY>Syrlig &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0460000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0740000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0080000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0120000</F_S_MAX_FG>
+<F_S_MIN_IBU>15.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>25.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.2000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.8000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>15.2284264</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>35.5329949</F_S_MAX_COLOR>
+<F_S_MIN_ABV>5.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>8.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En kompleks maltet og syrlig &oslash;l. Typisk en
+blanding af syrlig lagret og s&oslash;d frisk &oslash;l, for at give
+et s&oslash;dere resultat. Den komplekse syrlighed er
+sv&aelig;r at beskrive og derfor anbefales det f&oslash;rst og
+fremmest at smage de klassiske eksempler.
+Flamsk r&oslash;d er mere syrlig med en vis
+eddikekarakter, mens flamsk brun er mere s&oslash;d og
+karamelagtig.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Middel til kraftig maltaroma, med karakter
+af karamel, kiks og br&oslash;d. Svagt syrlig aroma med
+karakter af m&aelig;lkesyre. Svag til middel niveau af
+frugtestere, med karakter af t&oslash;rret frugt og
+kirseb&aelig;r. Et svagt niveau af krydrede fenoler
+bidrager til kompleksiteten. Humle bem&aelig;rkes ikke.
+Frav&aelig;rende til svagt niveau af diacetyl. DMS m&aring;
+ikke forekomme.
+Udseende: Kobberfarvet til m&oslash;rk r&oslash;dbrun.
+Medium til kraftigt skum. Klar til let t&aring;get.
+Smag: Svag til middel syrlig eller sur/s&oslash;d karakter
+som balanceres af karamelagtig malts&oslash;dme.
+Balancen g&aring;r overvejende i en s&oslash;d retning. Indtryk
+af kirseb&aelig;r, appelsin og peber kan bidrage
+yderligere til kompleksiteten. Humlesmag og
+bitterhed bem&aelig;rkes ikke.
+Krop: Let til medium krop. Medium karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Liefman&rsquo;s Goudenband, Liefman&rsquo;s Oud
+Bruin, Petrus Oud Bruin</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Berliner weisse</F_S_NAME>
+<F_S_CATEGORY>Syrlig &oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>12</F_S_NUMBER>
+<F_S_TYPE>0</F_S_TYPE>
+<F_S_MIN_OG>1.0250000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0320000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0040000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0060000</F_S_MAX_FG>
+<F_S_MIN_IBU>3.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>8.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.4000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>2.9000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>2.5380711</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>5.0761421</F_S_MAX_COLOR>
+<F_S_MIN_ABV>2.8000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>3.6000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En let tysk hvede&oslash;l med tydelig karakter af
+m&aelig;lkesyre. Er ikke s&aelig;rlig kompleks sammenlignet
+med de &oslash;vrige syrlige stilarter.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: Svag til middel syrlig aroma, som har
+karakter af m&aelig;lkesyre og citronsaft. Humle
+bem&aelig;rkes ikke. DMS og diacetyl m&aring; ikke
+forekomme.
+Udseende: Lys halmgul til halmgul. Kraftigt og
+holdbart skum. Let til kraftigt t&aring;get.
+Smag: Ren og syrlig smag, med karakter af
+m&aelig;lkesyre og citronsaft. Svag br&oslash;dagtig og s&oslash;dlig
+maltsmag. Humle bem&aelig;rkes ikke.
+Krop: Let krop. Kraftig karbonering.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Kindl Berliner Weisse, Bayrischer
+Bahnhof Berliner Weisse, Mikkeller Drink&#39;in Berliner.</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Frugt/gr&oslash;ntsags&oslash;l</F_S_NAME>
+<F_S_CATEGORY>Special&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>1</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0990000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En harmonisk forening af frugt/gr&oslash;ntsag og &oslash;l. Den
+grundl&aelig;ggende &oslash;l skal f&oslash;lge en klassisk stilart og i
+konkurrencer skal b&aring;de stilart og tils&aelig;tning
+angives. Bem&aelig;rk at de kommercielle bryggerier,
+og dermed eksemplerne sj&aelig;ldent g&aring;r efter at
+ramme en specifik grundl&aelig;ggende stilart.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den valgte tils&aelig;tning skal bem&aelig;rkes, men
+samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk at
+forskellige tils&aelig;tninger kan v&aelig;re mere eller mindre
+markante i deres karakter.
+Udseende: Farve og skum skal f&oslash;lge den
+grundl&aelig;ggende &oslash;ltype, men den valgte tils&aelig;tning
+kan afspejles.
+Smag: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den valgte tils&aelig;tning skal bem&aelig;rkes, men
+samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk at
+forskellige tils&aelig;tninger kan v&aelig;re mere eller mindre
+markante i deres karakter.
+Krop: Krop og karbonering skal f&oslash;lge den
+grundl&aelig;ggende stilart.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Wittekerke Ros&eacute; (Wit med hindb&aelig;r),
+Brasserie de Silly Pink Killer (Belgisk blond med
+pink grape), Herslev Asparges (Weissbier med
+asparges)</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Krydret &oslash;l</F_S_NAME>
+<F_S_CATEGORY>Special&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>2</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0990000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>En harmonisk forening af krydderier og &oslash;l. Den
+grundl&aelig;ggende &oslash;l skal f&oslash;lge en klassisk stilart og i
+konkurrencer skal b&aring;de stilart og tils&aelig;tninger
+angives. Jule&oslash;l hvor f.eks. appelsinskal indg&aring;r
+sammen med krydderier h&oslash;rer til i denne stilart.
+Bem&aelig;rk at de kommercielle bryggerier, og dermed
+eksemplerne sj&aelig;ldent g&aring;r efter at ramme en
+specifik grundl&aelig;ggende stilart.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den valgte tils&aelig;tning skal bem&aelig;rkes, men
+samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk at
+forskellige tils&aelig;tninger kan v&aelig;re mere eller mindre
+markante i deres karakter.
+Udseende: Farve og skum skal f&oslash;lge den
+grundl&aelig;ggende &oslash;ltype, men den valgte tils&aelig;tning
+kan afspejles.
+Smag: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den valgte tils&aelig;tning skal bem&aelig;rkes, men
+samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk at
+forskellige tils&aelig;tninger kan v&aelig;re mere eller mindre
+markante i deres karakter.
+Krop: Krop og karbonering skal f&oslash;lge den
+grundl&aelig;ggende stilart.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Herslev Stjernebryg (Old ale med
+stjerneanis og andre julekrydderier), Grauballe
+Eneb&aelig;r Stout (Moderne stout med eneb&aelig;r),
+Skands Esrum Kloster (Old ale med blandede
+krydderier), Thisted Porse Guld (Helles bock med
+porse), Hornbeer Viking Chili Stout (Imperial stout
+med Chili)</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>2018-02-09</_MOD_>
+<F_S_NAME>Tr&aelig;lagret &oslash;l</F_S_NAME>
+<F_S_CATEGORY>Special&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>3</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0990000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l lagret p&aring; tr&aelig;fade eller &ndash;sp&aring;ner. Der kan v&aelig;re
+noter fra spiritus, enten fra tidligere brug af fadet
+eller hvis sp&aring;nerne har trukket i det. Den
+grundl&aelig;ggende &oslash;l skal f&oslash;lge en klassisk stilart og
+fungere harmonisk med tr&aelig;karakteren. I
+konkurrencer skal den grundl&aelig;ggende stilart
+angives.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Tr&aelig;lagring skal bem&aelig;rkes, men samtidig v&aelig;re i
+harmoni med &oslash;llet.
+Udseende: Farve og skum skal f&oslash;lge den
+grundl&aelig;ggende &oslash;ltype.
+Smag: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Tr&aelig;lagring skal bem&aelig;rkes, men samtidig v&aelig;re i
+harmoni med &oslash;llet.
+Krop: Krop og karbonering skal f&oslash;lge den
+grundl&aelig;ggende stilart.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Mikkeller George Barrel Aged
+(Imperial stout p&aring; forskellige tr&aelig;fade),
+Harviestoun Ola Dubh (Imperial stout p&aring; r&oslash;get
+whisky fad).</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Andre r&oslash;g &oslash;l</F_S_NAME>
+<F_S_CATEGORY>Special&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>4</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0990000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l brygget med r&oslash;gmalt, og som falder uden for
+stilarten klassisk r&oslash;g&oslash;l. En harmonisk forening af
+r&oslash;g og &oslash;l. Den grundl&aelig;ggende &oslash;l skal f&oslash;lge en
+klassisk stilart som i konkurrencer skal angives.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+R&oslash;gen skal bem&aelig;rkes, men samtidig v&aelig;re i
+harmoni med &oslash;llet.
+Udseende: Farve og skum skal f&oslash;lge den
+grundl&aelig;ggende &oslash;ltype.
+Smag: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+R&oslash;gen skal bem&aelig;rkes, men samtidig v&aelig;re i
+harmoni med &oslash;llet.
+Krop: Krop og karbonering skal f&oslash;lge den
+grundl&aelig;ggende stilart.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Thisted Limfjordsporter (Baltisk
+Porter), Schlenkerla Weizen Rauchbier (Weissbier)
+og Ur-Bock Rauchbier (Doppelbock), Jacobsen Porter (Porter).</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+<Style><_MOD_>1970-01-01</_MOD_>
+<F_S_NAME>Andre tils&aelig;tninger</F_S_NAME>
+<F_S_CATEGORY>Special&oslash;l</F_S_CATEGORY>
+<F_S_GUIDE>D&Oslash;LD 2017</F_S_GUIDE>
+<F_S_LETTER>5</F_S_LETTER>
+<F_S_NUMBER>13</F_S_NUMBER>
+<F_S_TYPE>2</F_S_TYPE>
+<F_S_MIN_OG>1.0000000</F_S_MIN_OG>
+<F_S_MAX_OG>1.0990000</F_S_MAX_OG>
+<F_S_MIN_FG>1.0000000</F_S_MIN_FG>
+<F_S_MAX_FG>1.0990000</F_S_MAX_FG>
+<F_S_MIN_IBU>0.0000000</F_S_MIN_IBU>
+<F_S_MAX_IBU>100.0000000</F_S_MAX_IBU>
+<F_S_MIN_CARB>2.0000000</F_S_MIN_CARB>
+<F_S_MAX_CARB>3.0000000</F_S_MAX_CARB>
+<F_S_MIN_COLOR>0.0000000</F_S_MIN_COLOR>
+<F_S_MAX_COLOR>101.5228426</F_S_MAX_COLOR>
+<F_S_MIN_ABV>0.0000000</F_S_MIN_ABV>
+<F_S_MAX_ABV>10.0000000</F_S_MAX_ABV>
+<F_S_DESCRIPTION>&Oslash;l med tils&aelig;tninger (f.eks. kaffe, chokolade,
+honning og hyldeblomst), der falder uden for frugt,
+gr&oslash;ntsager, krydderier, krydderurter, tr&aelig; og r&oslash;g;
+eller som kombinerer flere typer tils&aelig;tninger. Den
+grundl&aelig;ggende &oslash;l skal f&oslash;lge en klassisk stilart og i
+konkurrencer skal b&aring;de stilart og tils&aelig;tning
+angives. Bem&aelig;rk at de kommercielle bryggerier,
+og dermed eksemplerne sj&aelig;ldent g&aring;r efter at
+ramme en specifik grundl&aelig;ggende stilart. Jule&oslash;l
+hvor f.eks. appelsinskal indg&aring;r sammen med
+krydderier h&oslash;rer til i stilarten krydret &oslash;l.</F_S_DESCRIPTION>
+<F_S_PROFILE>Aroma: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den eller de valgte tils&aelig;tninger skal bem&aelig;rkes,
+men samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk
+at forskellige tils&aelig;tninger kan v&aelig;re mere eller
+mindre markante i deres karakter.
+Udseende: Farve og skum skal f&oslash;lge den
+grundl&aelig;ggende &oslash;ltype, men den valgte tils&aelig;tning
+kan afspejles.
+Smag: &Oslash;llet skal f&oslash;lge den grundl&aelig;ggende stilart.
+Den eller de valgte tils&aelig;tninger skal bem&aelig;rkes,
+men samtidig v&aelig;re i harmoni med &oslash;llet. Bem&aelig;rk
+at forskellige tils&aelig;tninger kan v&aelig;re mere eller
+mindre markante i deres karakter.
+Krop: Krop og karbonering skal f&oslash;lge den
+grundl&aelig;ggende stilart.</F_S_PROFILE>
+<F_S_INGREDIENTS>-</F_S_INGREDIENTS>
+<F_S_EXAMPLES>Mikkeller Beer Geek Brunch (Imperial
+stout med kaffe), Fraoch Heather Ale (Engelsk pale
+ale med lyng), Youngs Double Chocolate Stout
+(Sweet stout med chokolade), Svaneke Liquorish
+Stout (Sweet stout med lakrids)</F_S_EXAMPLES>
+<F_S_WEB_LINK></F_S_WEB_LINK>
+</Style>
+</Data>
+<_TExpanded>1</_TExpanded>
+</Selections>

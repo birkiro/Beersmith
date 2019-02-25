@@ -1,0 +1,6 @@
+0
+<h1>BeerSmith News</h1>
+<h3>Welcome to BeerSmith 3</h3>
+Here are some useful links to get you started:<p>
+<h4><center><a href="http://beersmith.com/getting-started">Getting Started</a></center></h4>
+<h4><center><a href="http://beersmith.com/video">Video Tutorials</a></center></h4>

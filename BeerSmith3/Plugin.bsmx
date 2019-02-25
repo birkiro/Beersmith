@@ -1,0 +1,48 @@
+<Plugin><_MOD_>2011-04-20</_MOD_>
+<Name>Plugin</Name>
+<Type>8344</Type>
+<Dirty>0</Dirty>
+<Owndata>1</Owndata>
+<TID>8344</TID>
+<Size>7</Size>
+<_XName>Plugin</_XName>
+<Allocinc>16</Allocinc>
+<Data><Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>Water Profiles by Style (30 waters)</F_PLUG_NAME>
+<F_PLUG_TYPE>7423</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/WaterByStyle.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>Fuglsang Malts (7 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/FuglsangMalts.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>Robobrew Equipment (1 equip)</F_PLUG_NAME>
+<F_PLUG_TYPE>7430</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Robobrew.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>Crisp Malts (11 grains)</F_PLUG_NAME>
+<F_PLUG_TYPE>7406</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Crisp.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>DOLD 2017 Danish Style Guide</F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/DOLD2017.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>BJCP 2015 Style Guide</F_PLUG_NAME>
+<F_PLUG_TYPE>7428</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/BJCP2015.bsmx</F_PLUG_FILE>
+</Plugin>
+<Plugin><_MOD_>2019-01-29</_MOD_>
+<F_PLUG_NAME>Misc Update 2016 (48 items)</F_PLUG_NAME>
+<F_PLUG_TYPE>7421</F_PLUG_TYPE>
+<F_PLUG_FILE>http://d1sqla7250puhf.cloudfront.net/Plugin/Misc2016Update.bsmx</F_PLUG_FILE>
+</Plugin>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+</Plugin>
