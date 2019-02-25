@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2018-08-09</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -14056,7 +14056,7 @@ I will try and remake this recipe with another mash schedule
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-02-09</_MOD_>
+<Recipe><_MOD_>2019-02-25</_MOD_>
 <F_R_NAME>Steingrimur #2</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -14162,7 +14162,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-02-09</_MOD_>
+<Data><MashStep><_MOD_>2019-02-25</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>441.4501173</F_MS_INFUSION>
@@ -14181,7 +14181,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.5357827</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-02-11</_MOD_>
+<MashStep><_MOD_>2019-02-25</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -14279,7 +14279,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-02-09</_MOD_>
+<Data><Grain><_MOD_>2019-02-25</_MOD_>
 <F_G_NAME>Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -14309,7 +14309,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-02-09</_MOD_>
+<Grain><_MOD_>2019-02-25</_MOD_>
 <F_G_NAME>Crystal 60</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -14339,7 +14339,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-02-09</_MOD_>
+<Grain><_MOD_>2019-02-25</_MOD_>
 <F_G_NAME>Chocolate</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -14369,7 +14369,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-06-07</_MOD_>
+<Hops><_MOD_>1970-04-30</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14390,7 +14390,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-02-09</_MOD_>
+<Hops><_MOD_>2019-02-25</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14411,7 +14411,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-06-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14432,7 +14432,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-06-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14453,7 +14453,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2019-02-09</_MOD_>
+<Misc><_MOD_>2019-02-25</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -14472,7 +14472,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-06-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14493,7 +14493,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-06-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14514,7 +14514,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-02-09</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Hallertau Tradition</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14578,21 +14578,21 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>3</Size>
 <_XName>AgeData</_XName>
 <Allocinc>16</Allocinc>
-<Data><AgeData><_MOD_>2019-02-09</_MOD_>
+<Data><AgeData><_MOD_>2019-02-25</_MOD_>
 <Date>2019-01-31 17:00:01</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0500000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>0.7083333</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>2019-02-09</_MOD_>
+<AgeData><_MOD_>2019-02-25</_MOD_>
 <Date>2019-02-04 16:59:35</Date>
 <F_AD_TEMP>68.0000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0160000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>4.7076389</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>2019-02-09</_MOD_>
+<AgeData><_MOD_>2019-02-25</_MOD_>
 <Date>2019-02-09 17:00:19</Date>
 <F_AD_TEMP>68.9000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0120000</F_AD_GRAVITY>
@@ -14621,7 +14621,11 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_R_OG_MASH_MEASURED>1.0430346</F_R_OG_MASH_MEASURED>
 <F_R_OG_MASH_MEASURED_SET>0</F_R_OG_MASH_MEASURED_SET>
 <F_R_NOTES>Added 17L of strike water.
-Added 14L of sparge water.</F_R_NOTES>
+Added 14L of sparge water.
+
+Only secondary fermentation, did that for 15 days. Raised the temperature from 19 to 21 in intervals.
+
+Carbonation on keg. 5C and 0.7 bars.</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
 <F_R_CARB_VOLS>2.0000000</F_R_CARB_VOLS>
