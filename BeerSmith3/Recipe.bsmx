@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2018-08-09</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>1</Dirty>
+<Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -15810,21 +15810,21 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>0.0000000</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2019-03-16</_MOD_>
 <Date>2018-10-22 07:00:00</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0510000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>0.0000000</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2019-03-16</_MOD_>
 <Date>2018-10-30 22:20:25</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0150000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>0.0000000</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2019-03-16</_MOD_>
 <Date>2018-11-04 18:00:00</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0150000</F_AD_GRAVITY>
