@@ -15926,7 +15926,7 @@ I would like to keep this beer on primary for 14 days, and then dry hop for 4 da
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-03-23</_MOD_>
+<Recipe><_MOD_>2019-03-31</_MOD_>
 <F_R_NAME>Heidingi</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -16031,7 +16031,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-03-23</_MOD_>
+<Data><MashStep><_MOD_>1970-01-01</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>356.8849102</F_MS_INFUSION>
@@ -16050,7 +16050,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>157.9144599</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-03-23</_MOD_>
+<MashStep><_MOD_>2019-03-31</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -16146,7 +16146,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-03-23</_MOD_>
+<Data><Grain><_MOD_>2019-03-31</_MOD_>
 <F_G_NAME>Flaked Oats</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16176,7 +16176,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-03-23</_MOD_>
+<Grain><_MOD_>2019-03-31</_MOD_>
 <F_G_NAME>Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16206,7 +16206,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-03-23</_MOD_>
+<Grain><_MOD_>2019-03-31</_MOD_>
 <F_G_NAME>Wheat Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16236,7 +16236,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-03-23</_MOD_>
+<Grain><_MOD_>2019-03-31</_MOD_>
 <F_G_NAME>Vienna</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16266,7 +16266,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>1970-03-05</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -16287,7 +16287,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2019-03-23</_MOD_>
+<Misc><_MOD_>2019-03-31</_MOD_>
 <F_M_NAME>Protafloc</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Clearing</F_M_USE_FOR>
@@ -16306,7 +16306,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>6</F_ORDER>
 </Misc>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>1970-03-05</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -16332,7 +16332,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>1970-03-04</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -16353,7 +16353,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>2019-03-31</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -16410,14 +16410,14 @@ Storage: Good (25% AA after 6 months at 20 C)
 Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_Y_AGE_RATE>10.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>1970-03-05</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.8000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>40.0000004</F_H_PERCENT>
+<F_H_PERCENT>40.0000005</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>3.5273962</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -16431,7 +16431,7 @@ Versitile - can be used to make any style ale.</F_Y_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-03-23</_MOD_>
+<Hops><_MOD_>1970-03-05</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -16464,13 +16464,27 @@ Storage: Good (25% AA after 6 months at 20 C)
 <AgeData><_MOD_>2019-03-18</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>9357</TID>
-<Size>0</Size>
+<Size>2</Size>
 <_XName>AgeData</_XName>
 <Allocinc>16</Allocinc>
-<Data></Data>
+<Data><AgeData><_MOD_>2019-03-31</_MOD_>
+<Date>2019-03-23 09:54:34</Date>
+<F_AD_TEMP>65.3000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0490000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>0.4125000</F_AD_DAYS>
+</AgeData>
+<AgeData><_MOD_>2019-03-31</_MOD_>
+<Date>2019-03-30 09:53:57</Date>
+<F_AD_TEMP>67.1000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0130000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>7.4118056</F_AD_DAYS>
+</AgeData>
+</Data>
 <_TExpanded>1</_TExpanded>
 <TExtra>0</TExtra>
 </AgeData>
