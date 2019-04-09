@@ -1,4 +1,4 @@
-<Recipe><_MOD_>2019-01-29</_MOD_>
+<Recipe><_MOD_>2019-04-04</_MOD_>
 <Name>Recipes</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
@@ -7,11 +7,11 @@
 <Size>1</Size>
 <_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2019-01-29</_MOD_>
+<Data><Recipe><_MOD_>2019-04-04</_MOD_>
 <F_R_NAME>Steingrimur #2</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2019-02-16</F_R_DATE>
+<F_R_DATE>2019-01-31</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME>/Brinken Brews/Brew Days/</F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>1</F_R_GRAIN_USE_SET>
@@ -100,9 +100,9 @@ Comments: A wide-ranging category with different interpretations possible, rangi
 <F_MH_TUN_DEADSPACE>253.6051703</F_MH_TUN_DEADSPACE>
 <F_MH_BIAB_VOL>912.9786130</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
-<F_MH_NOTES>Profile created for use with Brewster Beacon. Temperature is kept in the sweet spot (65-67 deg) to obtain conversion of both alpha and beta amylase.
+<F_MH_NOTES>Profile created for use with Brewster Beacon. Temperature is kept in the sweet spot (65-67 deg) to obtain conversion of both alpha and beta amylase, resulting in a medium body.
 Lower step temperature (63-66 deg) extracts beta amylase, resulting in high attenuation (less sugar extraction) and less body.
-Higher step temperature (68-69) extracts alpha amylase, resulting in lower attenuation and more richer body.
+Higher step temperature (67-69) extracts alpha amylase, resulting in lower attenuation and more richer body.
 Choosing a temperature in between these to extraction points results in a medium body.</F_MH_NOTES>
 <steps><_MOD_>2019-01-08</_MOD_>
 <Name>steps</Name>
@@ -113,7 +113,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2019-04-04</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>441.4501173</F_MS_INFUSION>
@@ -132,7 +132,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.5357827</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-01-29</_MOD_>
+<MashStep><_MOD_>2019-04-04</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -230,7 +230,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-01-29</_MOD_>
+<Data><Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -260,7 +260,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-01-29</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Crystal 60</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -290,7 +290,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-01-29</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Chocolate</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -320,14 +320,14 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-03-02</_MOD_>
+<Hops><_MOD_>2019-04-04</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>7.8000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>4.6511628</F_H_PERCENT>
+<F_H_PERCENT>4.6511625</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.3527396</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -335,20 +335,20 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_DRY_HOP_TIME>0.0416667</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>8.8540988</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>8.8540983</F_H_IBU_CONTRIB>
 <F_ORDER>4</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-03-02</_MOD_>
+<Hops><_MOD_>1970-10-16</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>9.6000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>4.6511628</F_H_PERCENT>
+<F_H_PERCENT>4.6511625</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.3527396</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -356,20 +356,20 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_DRY_HOP_TIME>0.0416667</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>10.8973524</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>10.8973518</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-03-02</_MOD_>
+<Hops><_MOD_>1970-10-17</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>7.8000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>4.6511628</F_H_PERCENT>
+<F_H_PERCENT>4.6511625</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.3527396</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -377,20 +377,20 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_DRY_HOP_TIME>0.0208333</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>7.3672250</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>7.3672246</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-03-02</_MOD_>
+<Hops><_MOD_>2019-04-04</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>9.6000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>4.6511628</F_H_PERCENT>
+<F_H_PERCENT>4.6511625</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.3527396</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -398,13 +398,13 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_DRY_HOP_TIME>0.0104167</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>7.0245639</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>7.0245635</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2019-01-29</_MOD_>
+<Misc><_MOD_>2019-04-04</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -423,14 +423,56 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-03-02</_MOD_>
+<Hops><_MOD_>2019-04-04</_MOD_>
+<F_H_NAME>Cascade</F_H_NAME>
+<F_H_ORIGIN></F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>7.8000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>37.2093030</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.8219170</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES></F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>176.0000000</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>7.8108388</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
+<F_H_USE>4</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2019-04-04</_MOD_>
+<F_H_NAME>Northern Brewer</F_H_NAME>
+<F_H_ORIGIN></F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>9.6000000</F_H_ALPHA>
+<F_H_BETA>2.0000000</F_H_BETA>
+<F_H_PERCENT>37.2093030</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>2.8219170</F_H_AMOUNT>
+<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES></F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>176.0000000</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>9.6133400</F_H_IBU_CONTRIB>
+<F_ORDER>10</F_ORDER>
+<F_H_USE>4</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>2.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>1970-10-17</_MOD_>
 <F_H_NAME>Hallertau Tradition</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>5.7000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>6.9767442</F_H_PERCENT>
+<F_H_PERCENT>6.9767438</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.5291094</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -444,49 +486,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-03-02</_MOD_>
-<F_H_NAME>Northern Brewer</F_H_NAME>
-<F_H_ORIGIN></F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>9.6000000</F_H_ALPHA>
-<F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>37.2093023</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>2.8219170</F_H_AMOUNT>
-<F_H_HSI>15.0000000</F_H_HSI>
-<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES></F_H_NOTES>
-<F_H_WHIRLPOOL_TEMP>176.0000000</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>9.6133399</F_H_IBU_CONTRIB>
-<F_ORDER>10</F_ORDER>
-<F_H_USE>4</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>2.0000000</F_H_PRICE>
-</Hops>
-<Hops><_MOD_>1970-03-02</_MOD_>
-<F_H_NAME>Cascade</F_H_NAME>
-<F_H_ORIGIN></F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>7.8000000</F_H_ALPHA>
-<F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>37.2093023</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>2.8219170</F_H_AMOUNT>
-<F_H_HSI>15.0000000</F_H_HSI>
-<F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES></F_H_NOTES>
-<F_H_WHIRLPOOL_TEMP>176.0000000</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>7.8108387</F_H_IBU_CONTRIB>
-<F_ORDER>9</F_ORDER>
-<F_H_USE>4</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>2.0000000</F_H_PRICE>
-</Hops>
-<Yeast><_MOD_>2019-01-02</_MOD_>
+<Yeast><_MOD_>2019-01-29</_MOD_>
 <F_Y_NAME>Safale US-05</F_Y_NAME>
 <F_Y_LAB></F_Y_LAB>
 <F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
@@ -500,7 +500,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_Y_PRICE>7.0000000</F_Y_PRICE>
 <F_ORDER>12</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2019-02-16</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2019-01-31</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2018-08-09</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
@@ -523,13 +523,34 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <AgeData><_MOD_>2019-01-08</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>9357</TID>
-<Size>0</Size>
+<Size>3</Size>
 <_XName>AgeData</_XName>
 <Allocinc>16</Allocinc>
-<Data></Data>
+<Data><AgeData><_MOD_>2019-04-04</_MOD_>
+<Date>2019-01-31 17:00:01</Date>
+<F_AD_TEMP>66.2000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0500000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>0.7083333</F_AD_DAYS>
+</AgeData>
+<AgeData><_MOD_>2019-04-04</_MOD_>
+<Date>2019-02-04 16:59:35</Date>
+<F_AD_TEMP>68.0000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0160000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>4.7076389</F_AD_DAYS>
+</AgeData>
+<AgeData><_MOD_>2019-04-04</_MOD_>
+<Date>2019-02-09 17:00:19</Date>
+<F_AD_TEMP>68.9000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0120000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>9.7083333</F_AD_DAYS>
+</AgeData>
+</Data>
 <_TExpanded>1</_TExpanded>
 <TExtra>0</TExtra>
 </AgeData>
@@ -551,10 +572,14 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_R_OG_MASH_MEASURED>1.0430346</F_R_OG_MASH_MEASURED>
 <F_R_OG_MASH_MEASURED_SET>0</F_R_OG_MASH_MEASURED_SET>
 <F_R_NOTES>Added 17L of strike water.
-Added 14L of sparge water.</F_R_NOTES>
+Added 14L of sparge water.
+
+Only secondary fermentation, did that for 15 days. Raised the temperature from 19 to 21 in intervals.
+
+Carbonation on keg. 5C and 0.7 bars.</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
-<F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
+<F_R_CARB_VOLS>2.0000000</F_R_CARB_VOLS>
 <F_R_MASH_PH>5.5582007</F_R_MASH_PH>
 <F_R_MASH_PH_SET>0</F_R_MASH_PH_SET>
 <F_R_TARGET_PH>5.2000000</F_R_TARGET_PH>
