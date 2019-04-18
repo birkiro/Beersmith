@@ -1,10 +1,10 @@
-<Mash><_MOD_>2019-01-11</_MOD_>
+<Mash><_MOD_>2019-04-09</_MOD_>
 <Name>Mash</Name>
 <Type>7434</Type>
 <Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7434</TID>
-<Size>34</Size>
+<Size>35</Size>
 <_XName>Mash</_XName>
 <Allocinc>16</Allocinc>
 <Data><Mash><_MOD_>2011-06-03</_MOD_>
@@ -2539,8 +2539,8 @@ He also recommends you hold Dextrinization until it passes an iodine test (proba
 <F_MH_TUN_MASS>211.6438080</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </Mash>
-<Mash><_MOD_>2019-03-31</_MOD_>
-<F_MH_NAME>Brewster Beacon, Medium Body</F_MH_NAME>
+<Mash><_MOD_>2019-04-09</_MOD_>
+<F_MH_NAME>Beacon, Medium Body</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>211.6438080</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>69.8000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -2615,8 +2615,8 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </Mash>
-<Mash><_MOD_>2019-01-29</_MOD_>
-<F_MH_NAME>Brewster Beacon, Light Body</F_MH_NAME>
+<Mash><_MOD_>2019-04-09</_MOD_>
+<F_MH_NAME>Beacon, Light Body</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>211.6438080</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>69.8000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -2647,7 +2647,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-01-29</_MOD_>
+<Data><MashStep><_MOD_>2019-04-09</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>507.2103406</F_MS_INFUSION>
@@ -2666,7 +2666,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.3116199</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-01-29</_MOD_>
+<MashStep><_MOD_>2019-04-09</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -2694,8 +2694,8 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
 </Mash>
-<Mash><_MOD_>2019-01-29</_MOD_>
-<F_MH_NAME>Brewster Beacon, Full Body</F_MH_NAME>
+<Mash><_MOD_>2019-04-09</_MOD_>
+<F_MH_NAME>Beacon, Full Body</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>211.6438080</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>69.8000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -2723,7 +2723,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-01-29</_MOD_>
+<Data><MashStep><_MOD_>2019-04-10</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>507.2103406</F_MS_INFUSION>
@@ -2742,7 +2742,102 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>167.2591917</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-01-29</_MOD_>
+<MashStep><_MOD_>2019-04-09</_MOD_>
+<F_MS_NAME>Sparge Temperature</F_MS_NAME>
+<F_MS_TYPE>2</F_MS_TYPE>
+<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>168.8000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>15.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>154.4000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>160.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>152.6000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>69.8000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>507.2103406</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>211.6438080</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>168.8000000</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+</steps>
+<F_MH_EQUIP_ADJUST>1</F_MH_EQUIP_ADJUST>
+<F_MH_TUN_VOL>640.0000000</F_MH_TUN_VOL>
+<F_MH_TUN_MASS>160.0000000</F_MH_TUN_MASS>
+<F_MH_TUN_HC>0.3000000</F_MH_TUN_HC>
+</Mash>
+<Mash><_MOD_>2019-04-09</_MOD_>
+<F_MH_NAME>Beacon, 2-Step Stout, Full Body </F_MH_NAME>
+<F_MH_GRAIN_WEIGHT>211.6438080</F_MH_GRAIN_WEIGHT>
+<F_MH_GRAIN_TEMP>69.8000000</F_MH_GRAIN_TEMP>
+<F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
+<F_MH_TUN_TEMP>154.4000000</F_MH_TUN_TEMP>
+<F_MH_PH>5.2000000</F_MH_PH>
+<F_MH_SPARGE_TEMP>168.8000000</F_MH_SPARGE_TEMP>
+<F_MH_BATCH>0</F_MH_BATCH>
+<F_MH_BATCH_PCT>100.0000000</F_MH_BATCH_PCT>
+<F_MH_BATCH_EVEN>0</F_MH_BATCH_EVEN>
+<F_MH_BATCH_DRAIN>0</F_MH_BATCH_DRAIN>
+<F_MASH_39>1</F_MASH_39>
+<F_MH_TUN_DEADSPACE>0.0000000</F_MH_TUN_DEADSPACE>
+<F_MH_BIAB_VOL>912.9786130</F_MH_BIAB_VOL>
+<F_MH_BIAB>0</F_MH_BIAB>
+<F_MH_NOTES>Profile created for use with Brewster Beacon. Temperature is kept in the sweet spot (65-67 deg) to obtain conversion of both alpha and beta amylase, resulting in a medium body.
+Lower step temperature (63-66 deg) extracts beta amylase, resulting in high attenuation (less sugar extraction) and less body.
+Higher step temperature (67-69) extracts alpha amylase, resulting in lower attenuation and more richer body.
+Choosing a temperature in between these to extraction points results in a medium body.</F_MH_NOTES>
+<steps><_MOD_>2011-03-06</_MOD_>
+<Name>steps</Name>
+<Type>7432</Type>
+<Dirty>1</Dirty>
+<Owndata>1</Owndata>
+<TID>7149</TID>
+<Size>3</Size>
+<_XName>steps</_XName>
+<Allocinc>16</Allocinc>
+<Data><MashStep><_MOD_>2019-04-09</_MOD_>
+<F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
+<F_MS_TYPE>0</F_MS_TYPE>
+<F_MS_INFUSION>507.2103406</F_MS_INFUSION>
+<F_MS_STEP_TEMP>150.8000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>30.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>154.4000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>160.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>0.0000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>69.8000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>0.0000000</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>211.6438080</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>162.7854058</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+<MashStep><_MOD_>2019-04-09</_MOD_>
+<F_MS_NAME>Mash Step</F_MS_NAME>
+<F_MS_TYPE>2</F_MS_TYPE>
+<F_MS_INFUSION>0.0000000</F_MS_INFUSION>
+<F_MS_STEP_TEMP>154.4000000</F_MS_STEP_TEMP>
+<F_MS_STEP_TIME>45.0000000</F_MS_STEP_TIME>
+<F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
+<F_MS_TUN_ADDITION>0.0000000</F_MS_TUN_ADDITION>
+<F_MS_TUN_HC>0.3000000</F_MS_TUN_HC>
+<F_MS_TUN_VOL>640.0000000</F_MS_TUN_VOL>
+<F_MS_TUN_TEMP>154.4000000</F_MS_TUN_TEMP>
+<F_MS_TUN_MASS>160.0000000</F_MS_TUN_MASS>
+<F_MS_START_TEMP>168.8000000</F_MS_START_TEMP>
+<F_MS_GRAIN_TEMP>69.8000000</F_MS_GRAIN_TEMP>
+<F_MS_START_VOL>507.2103406</F_MS_START_VOL>
+<F_MS_GRAIN_WEIGHT>211.6438080</F_MS_GRAIN_WEIGHT>
+<F_MS_INFUSION_TEMP>154.4000000</F_MS_INFUSION_TEMP>
+<F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
+</MashStep>
+<MashStep><_MOD_>2019-04-09</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>

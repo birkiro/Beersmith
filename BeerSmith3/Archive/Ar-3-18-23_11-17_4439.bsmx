@@ -1,13 +1,13 @@
-<Selections><_MOD_>2019-04-18</_MOD_>
-<Name>Selections</Name>
+<Recipe><_MOD_>2019-04-18</_MOD_>
+<Name>Recipes</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
 <Owndata>0</Owndata>
-<TID>1</TID>
+<TID>7372</TID>
 <Size>1</Size>
-<_XName>Selections</_XName>
+<_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2018-10-06</_MOD_>
+<Data><Recipe><_MOD_>2019-04-18</_MOD_>
 <F_R_NAME>NEIPA 20% wheat</F_R_NAME>
 <F_R_BREWER>BrewMate</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -633,4 +633,4 @@ OG 1068
 </Data>
 <_TExpanded>1</_TExpanded>
 <TExtra>0</TExtra>
-</Selections>
+</Recipe>
