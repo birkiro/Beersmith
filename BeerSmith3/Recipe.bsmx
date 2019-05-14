@@ -15982,7 +15982,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-04-23</_MOD_>
+<Recipe><_MOD_>2019-04-25</_MOD_>
 <F_R_NAME>Now It Is Black (Nu Er Thad Svart)</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER>K. Hammaker</F_R_ASST_BREWER>
@@ -15996,8 +15996,8 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_R_FINAL_VOL_MEASURED_SET>0</F_R_FINAL_VOL_MEASURED_SET>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
-<F_R_MTIMER_DOWN>0</F_R_MTIMER_DOWN>
-<F_R_BTIMER_DOWN>0</F_R_BTIMER_DOWN>
+<F_R_MTIMER_DOWN>4200</F_R_MTIMER_DOWN>
+<F_R_BTIMER_DOWN>1800</F_R_BTIMER_DOWN>
 <F_R_WINE_COLOR>-1</F_R_WINE_COLOR>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
@@ -16059,7 +16059,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_S_WEB_LINK>http://www.bjcp.org</F_S_WEB_LINK>
 </F_R_STYLE>
 <F_R_MASH><_MOD_>2011-06-20</_MOD_>
-<F_MH_NAME>Beacon, Medium Body</F_MH_NAME>
+<F_MH_NAME>Beacon, Full Body</F_MH_NAME>
 <F_MH_GRAIN_WEIGHT>258.8614271</F_MH_GRAIN_WEIGHT>
 <F_MH_GRAIN_TEMP>69.8000000</F_MH_GRAIN_TEMP>
 <F_MH_BOIL_TEMP>212.0000000</F_MH_BOIL_TEMP>
@@ -16074,9 +16074,9 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_MH_TUN_DEADSPACE>253.6051703</F_MH_TUN_DEADSPACE>
 <F_MH_BIAB_VOL>912.9786130</F_MH_BIAB_VOL>
 <F_MH_BIAB>0</F_MH_BIAB>
-<F_MH_NOTES>Profile created for use with Brewster Beacon. Temperature is kept in the sweet spot (65-67 deg) to obtain conversion of both alpha and beta amylase, resulting in a medium body.
+<F_MH_NOTES>Profile created for use with Brewster Beacon. Temperature is kept at a higher step temperature (68-69) extracts alpha amylase, resulting in lower attenuation and richer body.
 Lower step temperature (63-66 deg) extracts beta amylase, resulting in high attenuation (less sugar extraction) and less body.
-Higher step temperature (67-69) extracts alpha amylase, resulting in lower attenuation and more richer body.
+Higher step temperature (68-69) extracts alpha amylase, resulting in lower attenuation and more richer body.
 Choosing a temperature in between these to extraction points results in a medium body.</F_MH_NOTES>
 <steps><_MOD_>2011-03-06</_MOD_>
 <Name>steps</Name>
@@ -16090,9 +16090,9 @@ Choosing a temperature in between these to extraction points results in a medium
 <Data><MashStep><_MOD_>2019-04-23</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
-<F_MS_INFUSION>620.3686932</F_MS_INFUSION>
+<F_MS_INFUSION>620.3686933</F_MS_INFUSION>
 <F_MS_STEP_TEMP>154.4000000</F_MS_STEP_TEMP>
-<F_MS_STEP_TIME>75.0000000</F_MS_STEP_TIME>
+<F_MS_STEP_TIME>60.0000000</F_MS_STEP_TIME>
 <F_MS_RISE_TIME>10.0000000</F_MS_RISE_TIME>
 <F_MS_TUN_ADDITION>253.6051703</F_MS_TUN_ADDITION>
 <F_MS_TUN_HC>0.1200000</F_MS_TUN_HC>
@@ -16120,7 +16120,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_TUN_MASS>141.0958720</F_MS_TUN_MASS>
 <F_MS_START_TEMP>152.6000000</F_MS_START_TEMP>
 <F_MS_GRAIN_TEMP>69.8000000</F_MS_GRAIN_TEMP>
-<F_MS_START_VOL>873.9738635</F_MS_START_VOL>
+<F_MS_START_VOL>873.9738636</F_MS_START_VOL>
 <F_MS_GRAIN_WEIGHT>258.8614271</F_MS_GRAIN_WEIGHT>
 <F_MS_INFUSION_TEMP>168.8000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
@@ -16202,7 +16202,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-04-23</_MOD_>
+<Data><Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Pale Ale Malt 2-Row (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -16236,7 +16236,7 @@ Use with 2-Row Brewers Malt for rich malt flavor and additional color.</F_G_NOTE
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Sparkling Amber Liquid (Briess)</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Caramel Malt - 60L (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -16271,7 +16271,7 @@ glassy endosperm create desirable non-fermentables giving ability to contrib&#39
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Crystal Dark - 77L (Crisp)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Crisp</F_G_SUPPLIER>
@@ -16306,7 +16306,7 @@ Red to Deep Red
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Chocolate (Crisp)</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER>Crisp</F_G_SUPPLIER>
@@ -16338,7 +16338,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Roasted Barley (Briess)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Briess</F_G_SUPPLIER>
@@ -16372,7 +16372,7 @@ Use Chocolate Malt or Black Malt in combination with Roasted Barley to obtain de
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16405,7 +16405,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2019-04-29</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16435,7 +16435,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-06-18</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -16458,7 +16458,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-04-23</_MOD_>
+<Hops><_MOD_>1970-06-18</_MOD_>
 <F_H_NAME>Golding, U.S.</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -16483,7 +16483,7 @@ Substitutions: Fuggle, Willamette, UK East Kent Golding, Styrian Golding</F_H_NO
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-06-18</_MOD_>
 <F_H_NAME>Golding, U.S.</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>1</F_H_TYPE>
@@ -16508,7 +16508,7 @@ Substitutions: Fuggle, Willamette, UK East Kent Golding, Styrian Golding</F_H_NO
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2019-04-21</_MOD_>
+<Misc><_MOD_>2019-04-29</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -16581,29 +16581,36 @@ harsh.</F_Y_NOTES>
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>9357</TID>
-<Size>3</Size>
+<Size>4</Size>
 <_XName>AgeData</_XName>
 <Allocinc>16</Allocinc>
-<Data><AgeData><_MOD_>2019-04-23</_MOD_>
+<Data><AgeData><_MOD_>2019-04-29</_MOD_>
 <Date>2019-04-10 22:20:55</Date>
 <F_AD_TEMP>67.0000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0780000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>0.9305556</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-03-18</_MOD_>
+<AgeData><_MOD_>2019-04-29</_MOD_>
 <Date>2019-04-16 22:21:35</Date>
 <F_AD_TEMP>67.0000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0240000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>6.9312500</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>2019-04-23</_MOD_>
+<AgeData><_MOD_>2019-04-29</_MOD_>
 <Date>2019-04-19 15:44:32</Date>
 <F_AD_TEMP>67.0000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0230000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>9.6555556</F_AD_DAYS>
+</AgeData>
+<AgeData><_MOD_>2019-04-29</_MOD_>
+<Date>2019-04-25 22:11:10</Date>
+<F_AD_TEMP>67.0000000</F_AD_TEMP>
+<F_AD_GRAVITY>1.0220000</F_AD_GRAVITY>
+<F_AD_TYPE>0</F_AD_TYPE>
+<F_AD_DAYS>15.9243056</F_AD_DAYS>
 </AgeData>
 </Data>
 <_TExpanded>1</_TExpanded>
@@ -16675,8 +16682,8 @@ harsh.</F_Y_NOTES>
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-04-23</_MOD_>
-<F_R_NAME>Gradi Munkurinn</F_R_NAME>
+<Recipe><_MOD_>2019-05-13</_MOD_>
+<F_R_NAME>Gra&eth;i Munkurinn</F_R_NAME>
 <F_R_BREWER>BrewMate</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
 <F_R_DATE>2019-04-27</F_R_DATE>
@@ -16780,7 +16787,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-04-23</_MOD_>
+<Data><MashStep><_MOD_>2019-05-14</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>424.7886602</F_MS_INFUSION>
@@ -16799,7 +16806,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.4256199</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-04-23</_MOD_>
+<MashStep><_MOD_>2019-05-14</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -16897,7 +16904,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>12</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-04-23</_MOD_>
+<Data><Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16927,7 +16934,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Vienna</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16957,7 +16964,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -16990,7 +16997,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Carahell</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17020,12 +17027,12 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-04-20</_MOD_>
 <F_H_NAME>Columbus</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>17.1000000</F_H_ALPHA>
+<F_H_ALPHA>14.6000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
 <F_H_PERCENT>33.3333303</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
@@ -17035,13 +17042,13 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_DRY_HOP_TIME>0.0416667</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>41.2537356</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>35.2224877</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-04-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17062,7 +17069,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-04-23</_MOD_>
+<Hops><_MOD_>2019-05-14</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17083,7 +17090,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-04-19</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17104,7 +17111,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-04-23</_MOD_>
+<Hops><_MOD_>2019-05-14</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17125,7 +17132,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2019-04-23</_MOD_>
+<Misc><_MOD_>2019-05-14</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -17144,7 +17151,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-04-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17165,7 +17172,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Yeast><_MOD_>2019-05-14</_MOD_>
 <F_Y_NAME>US West Coast</F_Y_NAME>
 <F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
 <F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
@@ -17229,30 +17236,21 @@ harsh.</F_Y_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0454326</F_R_OG_MEASURED>
-<F_R_OG_MEASURED_SET>0</F_R_OG_MEASURED_SET>
-<F_R_FG_MEASURED>1.0070988</F_R_FG_MEASURED>
-<F_R_FG_MEASURED_SET>0</F_R_FG_MEASURED_SET>
+<F_R_OG_MEASURED>1.0540000</F_R_OG_MEASURED>
+<F_R_OG_MEASURED_SET>1</F_R_OG_MEASURED_SET>
+<F_R_FG_MEASURED>1.0110000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED_SET>1</F_R_FG_MEASURED_SET>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_PRIMARY_SET>0</F_R_OG_PRIMARY_SET>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_OG_SECONDARY_SET>0</F_R_OG_SECONDARY_SET>
-<F_R_BOIL_VOL_MEASURED>896.0716017</F_R_BOIL_VOL_MEASURED>
-<F_R_BOIL_VOL_MEASURED_SET>0</F_R_BOIL_VOL_MEASURED_SET>
-<F_R_OG_BOIL_MEASURED>1.0411465</F_R_OG_BOIL_MEASURED>
-<F_R_OG_BOIL_MEASURED_SET>0</F_R_OG_BOIL_MEASURED_SET>
-<F_R_OG_MASH_MEASURED>1.0411465</F_R_OG_MASH_MEASURED>
-<F_R_OG_MASH_MEASURED_SET>0</F_R_OG_MASH_MEASURED_SET>
-<F_R_NOTES>mesking var stillt &#65505; 68 &#65534;&#65505; erum vi&#65520; a&#65520; meskja ca &#65517; 67 
-notu&#65520;um steypuhr&#65510;ru &#65517; ca 2 m&#65517;n (mikil fro&#65520;a)
-bleyttum &#65517; gerinu .. virka&#65520;i f&#65517;nt 
-gerjum vi&#65520; 19&#65456; 
-notu&#65520;um ekki efra og f&#65517;na neti&#65520; 
-
-
-
-bottling day.... 108 gr sykur hef&#65520;i &#65505;tt a&#65520; vera 111gr 
-55 fl&#65526;skur</F_R_NOTES>
+<F_R_BOIL_VOL_MEASURED>929.8856244</F_R_BOIL_VOL_MEASURED>
+<F_R_BOIL_VOL_MEASURED_SET>1</F_R_BOIL_VOL_MEASURED_SET>
+<F_R_OG_BOIL_MEASURED>1.0460000</F_R_OG_BOIL_MEASURED>
+<F_R_OG_BOIL_MEASURED_SET>1</F_R_OG_BOIL_MEASURED_SET>
+<F_R_OG_MASH_MEASURED>1.0460000</F_R_OG_MASH_MEASURED>
+<F_R_OG_MASH_MEASURED_SET>1</F_R_OG_MASH_MEASURED_SET>
+<F_R_NOTES>Erfitt a&eth; n&aacute; meskihitastigi. Laga&eth;ist vi&eth; a&eth; st&yacute;ra fl&aelig;&eth;i &iacute; max.</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
 <F_R_CARB_VOLS>2.3000000</F_R_CARB_VOLS>
@@ -17301,7 +17299,7 @@ bottling day.... 108 gr sykur hef&#65520;i &#65505;tt a&#65520; vera 111gr
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-04-23</_MOD_>
+<Recipe><_MOD_>2019-05-14</_MOD_>
 <F_R_NAME>Completely Out Driving (Alveg &Uacute;ti A&eth; Aka)</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -17309,8 +17307,8 @@ bottling day.... 108 gr sykur hef&#65520;i &#65505;tt a&#65520; vera 111gr
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME>/Brinken Brews/Brew Days/</F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>1</F_R_GRAIN_USE_SET>
-<F_R_VOLUME_MEASURED>777.7225222</F_R_VOLUME_MEASURED>
-<F_R_VOLUME_MEASURED_SET>0</F_R_VOLUME_MEASURED_SET>
+<F_R_VOLUME_MEASURED>743.9084995</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED_SET>1</F_R_VOLUME_MEASURED_SET>
 <F_R_FINAL_VOL_MEASURED>727.0014881</F_R_FINAL_VOL_MEASURED>
 <F_R_FINAL_VOL_MEASURED_SET>0</F_R_FINAL_VOL_MEASURED_SET>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
@@ -17406,7 +17404,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-04-23</_MOD_>
+<Data><MashStep><_MOD_>2019-05-14</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>513.0468522</F_MS_INFUSION>
@@ -17425,7 +17423,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.9646213</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>2019-04-23</_MOD_>
+<MashStep><_MOD_>2019-05-14</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -17521,7 +17519,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>11</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-04-23</_MOD_>
+<Data><Grain><_MOD_>2019-05-14</_MOD_>
 <F_G_NAME>Pale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17551,7 +17549,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-05-14</_MOD_>
 <F_G_NAME>Wheat Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17581,7 +17579,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-05-14</_MOD_>
 <F_G_NAME>Flaked Oats</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17611,7 +17609,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-04-23</_MOD_>
+<Grain><_MOD_>2019-05-14</_MOD_>
 <F_G_NAME>Pilsner (2 Row) UK</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17641,14 +17639,14 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>2019-05-14</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>13.0000000</F_H_ALPHA>
 <F_H_BETA>3.6000000</F_H_BETA>
-<F_H_PERCENT>8.3333333</F_H_PERCENT>
+<F_H_PERCENT>8.3333329</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.8818490</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
@@ -17660,13 +17658,13 @@ Aroma: Heavy and spicy aroma
 Substitutes: Galena, Eroica, Nugget, Bullion
 Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>33.9943851</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>33.9943833</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>1970-04-20</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17681,34 +17679,34 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_DRY_HOP_TIME>0.0034722</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>30.8066871</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>30.8066868</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-04-23</_MOD_>
+<Hops><_MOD_>1970-04-20</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.0000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>16.6666667</F_H_PERCENT>
+<F_H_PERCENT>16.6666668</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.7636981</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
 <F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
-<F_H_WHIRLPOOL_TEMP>185.0000000</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>10.1782758</F_H_IBU_CONTRIB>
+<F_H_WHIRLPOOL_TEMP>176.0000000</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>6.9165149</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>4</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2019-04-23</_MOD_>
+<Yeast><_MOD_>2019-05-14</_MOD_>
 <F_Y_NAME>US West Coast</F_Y_NAME>
 <F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
 <F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
@@ -17752,19 +17750,19 @@ will be a dominant flavor and aroma constituent, and may be quite warming but no
 harsh.</F_Y_NOTES>
 <F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1970-02-13</_MOD_>
+<Hops><_MOD_>2019-05-14</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>13.0000000</F_H_ALPHA>
+<F_H_ALPHA>12.8000000</F_H_ALPHA>
 <F_H_BETA>3.6000000</F_H_BETA>
-<F_H_PERCENT>25.0000000</F_H_PERCENT>
+<F_H_PERCENT>11.0000001</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>2.6455471</F_H_AMOUNT>
+<F_H_AMOUNT>1.1640407</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
 <F_H_BOIL_TIME>0.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>5.0000000</F_H_DRY_HOP_TIME>
+<F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES>Strong versatile bittering hop
 Used for: Ales, porters, stouts
 Aroma: Heavy and spicy aroma
@@ -17777,16 +17775,16 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-02-13</_MOD_>
-<F_H_NAME>Citra</F_H_NAME>
+<Hops><_MOD_>2019-05-14</_MOD_>
+<F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>12.0000000</F_H_ALPHA>
+<F_H_ALPHA>9.1000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>16.6666667</F_H_PERCENT>
+<F_H_PERCENT>22.0000001</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>1.7636981</F_H_AMOUNT>
+<F_H_AMOUNT>2.3280815</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
 <F_H_BOIL_TIME>0.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>5.0000000</F_H_DRY_HOP_TIME>
@@ -17798,26 +17796,30 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-04-23</_MOD_>
-<F_H_NAME>Amarillo</F_H_NAME>
-<F_H_ORIGIN></F_H_ORIGIN>
-<F_H_TYPE>0</F_H_TYPE>
+<Hops><_MOD_>1970-04-20</_MOD_>
+<F_H_NAME>Cascade</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>8.8000000</F_H_ALPHA>
-<F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>13.3333333</F_H_PERCENT>
+<F_H_ALPHA>5.7000000</F_H_ALPHA>
+<F_H_BETA>6.0000000</F_H_BETA>
+<F_H_PERCENT>22.0000001</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>1.4109585</F_H_AMOUNT>
-<F_H_HSI>15.0000000</F_H_HSI>
+<F_H_AMOUNT>2.3280815</F_H_AMOUNT>
+<F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>0.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>5.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES></F_H_NOTES>
+<F_H_NOTES>A hops with Northern Brewers Heritage
+Used for: American ales and lagers
+Aroma: Strong spicy, floral, grapefruit character
+Substitutes: Centennial
+Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>11</F_ORDER>
 <F_H_USE>1</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>2.0000000</F_H_PRICE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
 </Data>
 <_TExpanded>1</_TExpanded>
@@ -17839,20 +17841,20 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0598392</F_R_OG_MEASURED>
-<F_R_OG_MEASURED_SET>0</F_R_OG_MEASURED_SET>
-<F_R_FG_MEASURED>1.0093499</F_R_FG_MEASURED>
-<F_R_FG_MEASURED_SET>0</F_R_FG_MEASURED_SET>
+<F_R_OG_MEASURED>1.0580000</F_R_OG_MEASURED>
+<F_R_OG_MEASURED_SET>1</F_R_OG_MEASURED_SET>
+<F_R_FG_MEASURED>1.0120000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED_SET>1</F_R_FG_MEASURED_SET>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_PRIMARY_SET>0</F_R_OG_PRIMARY_SET>
 <F_R_OG_SECONDARY>1.0110000</F_R_OG_SECONDARY>
 <F_R_OG_SECONDARY_SET>0</F_R_OG_SECONDARY_SET>
-<F_R_BOIL_VOL_MEASURED>896.0716017</F_R_BOIL_VOL_MEASURED>
-<F_R_BOIL_VOL_MEASURED_SET>0</F_R_BOIL_VOL_MEASURED_SET>
-<F_R_OG_BOIL_MEASURED>1.0541940</F_R_OG_BOIL_MEASURED>
-<F_R_OG_BOIL_MEASURED_SET>0</F_R_OG_BOIL_MEASURED_SET>
-<F_R_OG_MASH_MEASURED>1.0541940</F_R_OG_MASH_MEASURED>
-<F_R_OG_MASH_MEASURED_SET>0</F_R_OG_MASH_MEASURED_SET>
+<F_R_BOIL_VOL_MEASURED>946.7926357</F_R_BOIL_VOL_MEASURED>
+<F_R_BOIL_VOL_MEASURED_SET>1</F_R_BOIL_VOL_MEASURED_SET>
+<F_R_OG_BOIL_MEASURED>1.0510000</F_R_OG_BOIL_MEASURED>
+<F_R_OG_BOIL_MEASURED_SET>1</F_R_OG_BOIL_MEASURED_SET>
+<F_R_OG_MASH_MEASURED>1.0510000</F_R_OG_MASH_MEASURED>
+<F_R_OG_MASH_MEASURED_SET>1</F_R_OG_MASH_MEASURED_SET>
 <F_R_NOTES>Add the last Citra dry hop direcly into the keg.</F_R_NOTES>
 <F_R_RATING>30.0000000</F_R_RATING>
 <F_R_DESCRIPTION></F_R_DESCRIPTION>
