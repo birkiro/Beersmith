@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2018-08-09</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -15676,7 +15676,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.8000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>7.5000000</F_H_PERCENT>
+<F_H_PERCENT>7.4999996</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.5291094</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -15684,7 +15684,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_H_DRY_HOP_TIME>0.0416667</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>24.5824412</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>24.5824399</F_H_IBU_CONTRIB>
 <F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -15716,7 +15716,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.8000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>42.5000000</F_H_PERCENT>
+<F_H_PERCENT>42.5000004</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>2.9982868</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -15724,7 +15724,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>185.0000000</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>22.6105665</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>22.6105668</F_H_IBU_CONTRIB>
 <F_ORDER>7</F_ORDER>
 <F_H_USE>4</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
@@ -17230,7 +17230,7 @@ harsh.</F_Y_NOTES>
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-05-17</_MOD_>
+<Recipe><_MOD_>2019-05-18</_MOD_>
 <F_R_NAME>Completely Out Driving (Alveg &Uacute;ti A&eth; Aka)</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -17450,7 +17450,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>11</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-05-17</_MOD_>
+<Data><Grain><_MOD_>2019-05-18</_MOD_>
 <F_G_NAME>Pale Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17480,7 +17480,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-05-17</_MOD_>
+<Grain><_MOD_>2019-05-18</_MOD_>
 <F_G_NAME>Wheat Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17510,7 +17510,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-05-17</_MOD_>
+<Grain><_MOD_>2019-05-18</_MOD_>
 <F_G_NAME>Flaked Oats</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17540,7 +17540,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-05-17</_MOD_>
+<Grain><_MOD_>2019-05-18</_MOD_>
 <F_G_NAME>Pilsner (2 Row) UK</F_G_NAME>
 <F_G_ORIGIN>United Kingdom</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -17570,7 +17570,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2019-05-17</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17595,7 +17595,7 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-05-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17616,7 +17616,7 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-05-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17681,7 +17681,7 @@ will be a dominant flavor and aroma constituent, and may be quite warming but no
 harsh.</F_Y_NOTES>
 <F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>2019-05-17</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17706,7 +17706,7 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-05-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Amarillo</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17727,7 +17727,7 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-05-07</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
