@@ -1,0 +1,227 @@
+Success
+8
+0
+15163
+Enk-A-Manias Strawberry Cream Ale
+2012-07-16 23:16:01
+Cream Ale
+2
+Enk-A-Mania
+0
+704
+1.0461338
+1.0117681
+10.3189965
+4.8887647
+Enk-A-Mania-BIAB
+BJCP 2008
+ 6A
+My Aging Profile
+Enk-A-Mania - BIAB
+My Carbonation Profile
+70
+864
+60
+35
+4.4991723
+0
+0
+0
+Unrated
+enkamania
+145174
+Strawberry Cream Ale
+2013-04-21 10:01:44
+Cream Ale
+2
+zac
+0
+640
+1.0521309
+1.0083058
+18.7791223
+5.3802933
+Single Infusion, Light Body, Batch Sparge
+BJCP 2008
+ 6A
+My Cream Ale Profile
+Zac Setup
+Corn Sugar
+72
+834.56
+60
+38
+5.7493892
+0
+0
+0
+Unrated
+zswanlund
+932660
+Chocolate Strawberry Cream Stout
+2015-12-09 16:02:55
+Sweet Stout
+2
+Mike Lanno
+0
+704
+1.0567273
+1.0145134
+27.2835454
+37.7328707
+Single Infusion, Full Body, Batch Sparge
+BJCP 2015
+16A
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Corn Sugar
+72
+867.84
+60
+30
+5.5467431
+0
+0
+0
+Unrated
+MikeLanno
+1186817
+#27 Milk &amp; Solids (Strawberry Cream Ale)
+2016-06-29 16:00:13
+American Pale Ale
+2
+Marcin Senderski
+0
+710.0903844
+1.0594459
+1.0185819
+42.2700115
+4.6296234
+Single Infusion, Light Body
+BJCP 2008
+10A
+Ale, Two Stage
+Garnek 30L
+Table Sugar
+80
+802.4939998
+60
+30
+5.3743893
+0
+0
+0
+Unrated
+mycroft
+1442476
+Back Deck Strawberry Cream Ale
+2017-02-25 09:51:46
+Cream Ale
+2
+Back Deck Brewing
+0
+704
+1.0521489454545454
+1.0094519963636364
+19.924888422472275
+5.749182794915273
+Single Infusion, Light Body, Batch Sparge
+BJCP 2008
+6A
+Ale, Single Stage
+BDB All Grain Equipment
+Keg
+72
+828.16
+90
+40
+5.601419393651336
+0
+0
+0
+Unrated
+Davey333
+1650249
+Enk-A-Manias Strawberry Cream Ale (1.2)
+2017-09-13 20:46:08
+Cream Ale
+2
+Enk-A-Mania
+0
+704
+1.0470705
+1.0114734
+15.493014
+5.4880691
+Enk-A-Mania-BIAB
+BJCP 2008
+ 6A
+Ale, Single Stage
+SS BIAB
+Keg 43
+70
+829.3333333
+60
+35
+4.661876
+0
+0
+0
+Unrated
+enkamania
+680185
+Double Chocolate Strawberry Cream Stout (Seduction)
+2018-04-02 16:41:16
+Sweet Stout
+2
+Wreck
+0
+704
+1.059156
+1.0123215
+26.4133588
+31.4361041
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2008
+13B
+Ale, Single Stage
+Wreck's (13 Gal Pot / Igloo 60qt cooler) - All Grain
+Corn Sugar
+80
+893.44
+60
+30
+6.1590189
+0
+0
+0
+Unrated
+wreck99
+2351282
+Strawberry cream Ale
+2019-02-14 17:13:58
+Cream Ale
+2
+
+0
+640
+1.04237704
+1.0070451829
+28.601840764429237
+6.562960439636127
+Single Infusion, Light Body
+BJCP 2015
+1C
+Ale, Two Stage
+ROBOBREW
+Corn Sugar
+72
+788.48
+60
+30
+4.642388066079453
+0
+0
+0
+Unrated
+mclively
