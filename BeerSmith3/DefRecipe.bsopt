@@ -168,7 +168,7 @@
 <F_A_TYPE>1</F_A_TYPE>
 <F_A_NOTES></F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>1970-01-01</_MOD_>
+<Ingredients><_MOD_>2019-07-11</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>0</Dirty>
@@ -181,7 +181,7 @@
 <_TExpanded>1</_TExpanded>
 <TExtra>0</TExtra>
 </Ingredients>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2019-07-11</_MOD_>
 <Name>AgeData</Name>
 <Type>9361</Type>
 <Dirty>0</Dirty>
