@@ -24680,7 +24680,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>3</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2019-09-15</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>536.7976105</F_MS_INFUSION>
@@ -24699,7 +24699,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>159.0876952</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2019-09-15</_MOD_>
 <F_MS_NAME>Mash Step</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -24718,7 +24718,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>154.4000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2019-09-15</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -25122,7 +25122,7 @@ Substitutes: Fuggles, Williamette</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Yeast><_MOD_>2019-09-15</_MOD_>
 <F_Y_NAME>Belgian Strong Ale</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1388</F_Y_PRODUCT_ID>
