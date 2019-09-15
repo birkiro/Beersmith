@@ -1,1 +1,703 @@
 Success
+26
+1
+47456
+Belgian Christmas Ale
+2012-10-29 08:52:05
+Belgian Specialty Ale
+0
+
+0
+384
+1.1312311
+1.019228
+29.3394724
+31.3784018
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+16E
+Ale, Two Stage
+My Equipment
+Corn Sugar
+72
+416
+60
+30
+15.1030007
+0
+0
+0
+Unrated
+caburdet78
+933177
+Christmas Ale
+2017-11-02 08:50:07
+Old Ale
+2
+Quinn Bartlett
+0
+672
+1.0978332
+1.023034
+42.6172563
+17.6622644
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2015
+17B
+Ale, Two Stage
+Set up summer 2015
+Corn Sugar
+78
+872.704
+60
+30
+9.9689911
+0
+0
+0
+Unrated
+quinnbartlett
+366834
+Christmas Ale
+2018-04-07 11:46:20
+Christmas/Winter Specialty Spice Beer
+2
+Joe
+0
+704
+1.092275
+1.0190317
+41.6505073
+26.3699641
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2008
+21B
+Ale, Single Stage
+Joe's Equipment
+Keg
+75
+1024
+90
+30
+9.7427633
+0
+0
+0
+Unrated
+Nefariouss
+2575618
+Corsendrunk Christmas Ale
+2019-07-09 20:13:22
+Belgian Dark Strong Ale
+0
+Tom
+0
+640
+1.0887021
+1.0169553
+16.5119004
+15.2170745
+Single Infusion, Light Body, No Mash Out
+BJCP 2015
+26D
+Ale, Two Stage
+Pot ( 3 Gal/11.4 L) - Extract
+Corn Sugar
+72
+320
+60
+30
+9.5318681
+0
+0
+0
+0.0 Stars
+phillyhomebrew
+2575619
+Corsendrunk Christmas Ale
+2019-07-09 20:13:22
+Belgian Dark Strong Ale
+0
+Tom
+0
+640
+1.0887021
+1.0169553
+16.5119004
+15.2170745
+Single Infusion, Light Body, No Mash Out
+BJCP 2015
+26D
+Ale, Two Stage
+Pot ( 3 Gal/11.4 L) - Extract
+Corn Sugar
+72
+320
+60
+30
+9.5318681
+0
+0
+0
+0.0 Stars
+phillyhomebrew
+2160169
+christmas ale
+2018-10-16 19:39:56
+Christmas/Winter Specialty Spice Beer
+2
+
+0
+704
+1.0812734
+1.0149638
+11.8796098
+19.2305469
+Single Infusion, Full Body, No Mash Out
+BJCP 2008
+21B
+Ale, Single Stage
+brandon all grain 5 gal
+Corn Sugar
+75
+947.2
+60
+30
+8.8797248
+0
+0
+0
+Unrated
+IronBrew
+1358517
+The Weaky Leaner Christmas Ale
+2016-12-15 13:56:45
+Winter Seasonal Beer
+2
+Laddie the Bear
+0
+640
+1.0924462
+1.02646272475
+29.910274444956496
+28.571502028417097
+Single Infusion, Full Body, Batch Sparge
+BJCP 2015
+30C
+Ale, Two Stage
+Laddie's Equipment
+Keg
+70
+896
+60
+30
+8.777596221190295
+0
+0
+0
+Unrated
+BigSwifty74
+90156
+2012-11-King &amp; Barnes Christmas Ale
+2013-01-16 21:39:03
+Old Ale
+0
+Ritz Burrows
+0
+704
+1.0855935
+1.0208794
+45.2660901
+14.1104949
+My Mash
+BJCP 2008
+19A
+My Aging Profile
+Brew Pot  (5.5 Gallon)
+My Carbonation Profile
+75
+586.0184615
+60
+45
+8.588281
+0
+0
+0
+Unrated
+EnglishBulldog
+2237734
+Krampus Christmas Ale 2018
+2019-01-27 20:51:58
+Winter Seasonal Beer
+2
+Ken Cleary
+0
+384
+1.0740667
+1.0097213
+25.3973102
+26.1356794
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2015
+30C
+Ale, Two Stage
+Cleary - 5 gallon
+Cleary - Keg
+68
+529.3333333
+90
+30
+8.5827582
+0
+0
+0
+Unrated
+ORBZMI
+137765
+Holy Christmas ale
+2014-04-04 11:59:03
+Christmas/Winter Specialty Spice Beer
+2
+Nicholas Weinmann
+0
+704
+1.0773239
+1.0131518
+59.9643384
+17.7462401
+Single Infusion, Medium Body, No Mash Out
+BJCP 2008
+21B
+Ale, Two Stage
+Brew Pot (15 Gal) and Rubbermaid Cooler (10 Gal)
+Keg
+75
+989.44
+60
+30
+8.492006
+0
+0
+0
+Unrated
+npwein
+1341272
+Christmas Ale 10 gals
+2016-11-25 10:29:00
+Christmas/Winter Specialty Spice Beer
+2
+Mike Murphy
+0
+1280
+1.0838267
+1.0214806
+42.2362825
+20.5287997
+Single Infusion, Medium Body
+BJCP 2008
+21B
+Ale, Two Stage
+Mike's Equipment
+Corn Sugar
+72
+1589.3333333
+60
+30
+8.2689625
+0
+0
+0
+Unrated
+Rnmurphy13
+2158153
+Holly (Christmas Ale)
+2019-01-22 10:20:21
+Winter Seasonal Beer
+2
+Gary Edgar
+0
+704
+1.0802161
+1.0182384
+34.798798
+18.0911597
+Single Infusion, Full Body, Batch Sparge
+BJCP 2015
+30C
+Ale, Two Stage
+Gary's 5 Gallon Profile
+Keg
+75
+1058.6666667
+60
+30
+8.2098266
+0
+0
+0
+Unrated
+GMAN-62
+1212279
+Jacobsen Golden Naked Christmas Ale
+2016-08-02 07:16:38
+Belgian Golden Strong Ale
+2
+Ytre Randesund Brygghus                                         
+0
+845.3456957
+1.075949
+1.014905
+16.7659113
+7.459861
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+18D
+Ale, Two Stage
+Ytre Randesund Brygghus
+Corn Sugar
+80
+1121.2665308
+60
+30
+8.0742237
+0
+0
+0
+Unrated
+Vetland
+2135186
+HighHai Christmas Ale 
+2019-04-27 09:09:27
+Winter Seasonal Beer
+2
+Joshua Cerreta
+0
+1521.6222522
+1.0677017
+1.006663
+30.4407514
+9.7848713
+Braumeister Mash
+BJCP 2015
+30C
+Ale, Two Stage
+Braumeister 50L
+Keg
+78
+1824.5377932
+60
+30
+8.0505865
+0
+0
+0
+Unrated
+Oshuavid
+633681
+Christmas Ale #1
+2014-12-10 13:54:16
+Christmas/Winter Specialty Spice Beer
+2
+Orlando
+0
+507.2074174
+1.0790416
+1.0182784
+22.4159372
+40.3098625
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2008
+21B
+Ale, Single Stage
+Pot and Cooler (10 Gal/37.8 L) - All Grain
+Keg
+60
+805.2557141
+60
+30
+8.045685
+0
+0
+0
+Unrated
+slbug
+1665730
+Christmas Ale
+2018-04-29 06:59:35
+American Amber Ale
+2
+
+0
+153.6
+1.082
+1.0214197
+31.7923754
+23.9670523
+BIAB, Full Body
+BJCP 1999
+ 6B
+Ale, Single Stage
+1 gallon
+Corn Sugar
+72
+225.6533333
+60
+30
+8.0296815
+0
+0
+0
+Unrated
+mellomskauen_brygghus
+1245160
+Norwegian Christmas Ale
+2016-09-24 14:41:29
+Belgian Dubbel
+2
+Kent Chambers
+0
+640
+1.079
+1.0185425
+65.1966767
+26.6087642
+Single Infusion, Full Body, Batch Sparge
+BJCP 2008
+18B
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Keg
+72
+834.56
+60
+30
+8.0050915
+0
+0
+0
+Unrated
+Scatterwood1
+1718259
+Megans Christmas ale
+2017-11-15 19:22:50
+Winter Seasonal Beer
+2
+
+0
+640
+1.07464972
+1.0145963359
+33.60343040477931
+15.273799088085907
+Single Infusion, Medium Body, No Mash Out
+BJCP 2015
+30C
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Corn Sugar
+72
+834.5600000000001
+60
+30
+7.9396336131394945
+0
+0
+0
+Unrated
+nagem303
+840313
+Christmas Ale
+2015-07-18 06:36:12
+Christmas/Winter Specialty Spice Beer
+2
+Chris
+0
+704
+1.0729205
+1.0132384
+35.7634211
+14.8843508
+Chris' EBIAB 5 gal batch
+BJCP 2008
+21B
+Ale, Two Stage
+Chris' EBIAB
+Keg
+75
+865.472
+75
+30
+7.8858315
+0
+0
+0
+Unrated
+ca2devri
+1300060
+Jim's HV Spiced Christmas Ale
+2018-06-17 15:51:05
+Christmas/Winter Specialty Spice Beer
+2
+Jim Moroski Sr
+0
+672
+1.070104
+1.0109538
+25.8354357
+20.083163
+Temperature Mash, 2 Step, Light Body
+BJCP 2008
+21B
+Ale, Two Stage
+My Equipment v2
+Dry Malt Extract
+72
+910.6666667
+90
+30
+7.8079731
+0
+0
+0
+Unrated
+Jtlm1953
+1037082
+AHBS - Breckenridge Christmas Ale
+2018-08-12 10:40:20
+American Amber Ale
+2
+Russ Cheatwood
+0
+640
+1.0833498
+1.0251091
+29.02348
+45.707181
+Single Infusion, Full Body
+BJCP 1999
+ 6B
+Ale, Single Stage
+15 gallon pot and Rubbermaid cooler
+Keg
+72
+826.6666667
+60
+30
+7.7231801
+0
+0
+0
+Unrated
+alfster73
+918946
+Christmas Ale (Goose Island)
+2015-11-01 10:47:11
+Christmas/Winter Specialty Spice Beer
+2
+Darren Jasieniecki
+0
+704
+1.0725554
+1.0149185
+53.0503658
+37.4563542
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+21B
+Ale, Two Stage
+DJ
+Keg
+72
+796.16
+60
+30
+7.6146476
+0
+0
+0
+Unrated
+djasieniecki
+1557864
+#20 Holy Spiritus Soaked Oak Christmas Ale - Grainfather
+2017-06-13 05:39:48
+Winter Seasonal Beer
+2
+
+0
+777.722759
+1.0737233600026357
+1.016864218600603
+21.616468866057836
+45.059215848702515
+Single Infusion, Full Body, No Mash Out
+BJCP 2015
+30C
+Ale, Three Stage
+Grainfather
+Table Sugar
+70
+845.3508250000001
+90
+30
+7.514919898255524
+0
+0
+0
+Unrated
+sunhome76
+256997
+Belgian Christmas Ale
+2014-01-28 12:11:06
+Belgian Specialty Ale
+2
+
+0
+768
+1.0659131
+1.0089236
+16.4962321
+17.7511496
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+16E
+Ale, Two Stage
+Pot and Cooler (10 Gal/37.8 L) - All Grain
+Corn Sugar
+70
+1075.84
+90
+30
+7.5118929
+0
+0
+0
+Unrated
+jheidster
+430184
+Jimminy Christmas Ale
+2018-08-25 09:35:45
+American IPA
+2
+Flylips
+0
+640
+1.0758448
+1.019056
+50.7492247
+14.8259554
+Single Infusion, Medium Body, No Mash Out
+BJCP 2008
+14B
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Keg
+72
+835.7866667
+60
+30
+7.5111235
+0
+0
+0
+Unrated
+Flylips

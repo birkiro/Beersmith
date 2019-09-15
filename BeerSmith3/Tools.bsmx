@@ -7,9 +7,9 @@
 <Size>24</Size>
 <_XName>Tools</_XName>
 <Allocinc>16</Allocinc>
-<Data><Tool.Hydrometer><_MOD_>2019-05-13</_MOD_>
-<F_HT_MEASURED_SG>1.0130000</F_HT_MEASURED_SG>
-<F_TEMPERATURE>59.0000000</F_TEMPERATURE>
+<Data><Tool.Hydrometer><_MOD_>2019-08-05</_MOD_>
+<F_HT_MEASURED_SG>1.0160000</F_HT_MEASURED_SG>
+<F_TEMPERATURE>35.6000000</F_TEMPERATURE>
 <F_HT_CALIBRATION_TEMP>68.0000000</F_HT_CALIBRATION_TEMP>
 </Tool.Hydrometer>
 <Tool.WeightVol><_MOD_>2011-05-19</_MOD_>
@@ -91,9 +91,9 @@
 <F_HA_AGE>6.0000000</F_HA_AGE>
 <F_HA_TEMP>28.0000000</F_HA_TEMP>
 </Tool.HopAge>
-<Tool.Refractometer><_MOD_>2018-08-21</_MOD_>
-<Calculation>0</Calculation>
-<F_RT_READING>12.9477371</F_RT_READING>
+<Tool.Refractometer><_MOD_>2019-08-14</_MOD_>
+<Calculation>1</Calculation>
+<F_RT_READING>6.0773125</F_RT_READING>
 <F_RT_GRAVITY>1.0510000</F_RT_GRAVITY>
 </Tool.Refractometer>
 <Tool.YeastStarter><_MOD_>2018-08-21</_MOD_>
