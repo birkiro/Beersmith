@@ -20667,11 +20667,11 @@ I noticed on the sideflap reader that the beer temperature was closer to 24C dur
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2019-10-17</_MOD_>
-<F_R_NAME>What the Rye IPA</F_R_NAME>
+<Recipe><_MOD_>2019-10-18</_MOD_>
+<F_R_NAME>Cold November Ryen</F_R_NAME>
 <F_R_BREWER>Beer Aficionados of Sonderborg</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2019-10-17</F_R_DATE>
+<F_R_DATE>2019-10-19</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME></F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>0</F_R_GRAIN_USE_SET>
@@ -20682,12 +20682,12 @@ I noticed on the sideflap reader that the beer temperature was closer to 24C dur
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
 <F_R_MTIMER_DOWN>4200</F_R_MTIMER_DOWN>
-<F_R_BTIMER_DOWN>2700</F_R_BTIMER_DOWN>
+<F_R_BTIMER_DOWN>1800</F_R_BTIMER_DOWN>
 <F_R_WINE_COLOR>-1</F_R_WINE_COLOR>
 <Image></Image>
 <F_R_IMAGE_X>0</F_R_IMAGE_X>
 <F_R_IMAGE_Y>0</F_R_IMAGE_Y>
-<F_R_EQUIPMENT><_MOD_>2019-10-17</_MOD_>
+<F_R_EQUIPMENT><_MOD_>2019-10-18</_MOD_>
 <F_E_NAME>Brewster Beacon 30</F_E_NAME>
 <F_E_TYPE>3</F_E_TYPE>
 <F_E_SHOW_BOIL>0</F_E_SHOW_BOIL>
@@ -20717,7 +20717,7 @@ I noticed on the sideflap reader that the beer temperature was closer to 24C dur
 <F_E_WHIRLPOOL_CARRY>1</F_E_WHIRLPOOL_CARRY>
 <F_E_WHIRLPOOL_TIME>15</F_E_WHIRLPOOL_TIME>
 </F_R_EQUIPMENT>
-<F_R_STYLE><_MOD_>2019-10-17</_MOD_>
+<F_R_STYLE><_MOD_>2019-10-18</_MOD_>
 <F_S_NAME>Rye IPA</F_S_NAME>
 <F_S_CATEGORY>IPA</F_S_CATEGORY>
 <F_S_GUIDE>BJCP 2015</F_S_GUIDE>
@@ -20791,7 +20791,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>159.5882136</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2019-10-18</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -20819,7 +20819,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MH_TUN_MASS>70.5479360</F_MH_TUN_MASS>
 <F_MH_TUN_HC>0.1200000</F_MH_TUN_HC>
 </F_R_MASH>
-<F_R_BASE_GRAIN><_MOD_>2019-10-17</_MOD_>
+<F_R_BASE_GRAIN><_MOD_>2019-10-18</_MOD_>
 <F_G_NAME>Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -20880,16 +20880,16 @@ Choosing a temperature in between these to extraction points results in a medium
 The secondary stage is used here as the dry hopping stage.
 Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise the temperatures to higher temp range (20-22C) for a fruitier profile. Risk of banana and bubble gum, but not tested yet.</F_A_NOTES>
 </F_R_AGE>
-<Ingredients><_MOD_>2019-10-17</_MOD_>
+<Ingredients><_MOD_>2019-10-18</_MOD_>
 <Name>Ingredients</Name>
 <Type>7405</Type>
 <Dirty>1</Dirty>
 <Owndata>1</Owndata>
 <TID>7182</TID>
-<Size>10</Size>
+<Size>11</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-10-17</_MOD_>
+<Data><Grain><_MOD_>2019-10-18</_MOD_>
 <F_G_NAME>Brewparts Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -20980,7 +20980,7 @@ Also called &ldquo;Crystal&rdquo; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2019-10-18</_MOD_>
 <F_G_NAME>Brewparts Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -21013,36 +21013,13 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
 <Hops><_MOD_>1970-01-01</_MOD_>
-<F_H_NAME>Citra</F_H_NAME>
-<F_H_ORIGIN>U.S.</F_H_ORIGIN>
-<F_H_TYPE>2</F_H_TYPE>
-<F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>12.0000000</F_H_ALPHA>
-<F_H_BETA>4.0000000</F_H_BETA>
-<F_H_PERCENT>5.1282051</F_H_PERCENT>
-<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.3527396</F_H_AMOUNT>
-<F_H_HSI>25.0000000</F_H_HSI>
-<F_H_BOIL_TIME>45.0000000</F_H_BOIL_TIME>
-<F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
-Aroma: Adds interesting citrus and tropical fruit character to the beer.  
-Substitutes: Unknown</F_H_NOTES>
-<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>2.0103382</F_H_IBU_CONTRIB>
-<F_ORDER>5</F_ORDER>
-<F_H_USE>2</F_H_USE>
-<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>13.3809749</F_H_PRICE>
-</Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>13.0000000</F_H_ALPHA>
 <F_H_BETA>3.6000000</F_H_BETA>
-<F_H_PERCENT>17.9487179</F_H_PERCENT>
+<F_H_PERCENT>17.5000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.2345887</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
@@ -21055,7 +21032,7 @@ Substitutes: Galena, Eroica, Nugget, Bullion
 Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
 <F_H_IBU_CONTRIB>40.5375557</F_H_IBU_CONTRIB>
-<F_ORDER>6</F_ORDER>
+<F_ORDER>5</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
@@ -21067,7 +21044,32 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>13.0000000</F_H_ALPHA>
 <F_H_BETA>3.6000000</F_H_BETA>
-<F_H_PERCENT>17.9487179</F_H_PERCENT>
+<F_H_PERCENT>10.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>0.7054792</F_H_AMOUNT>
+<F_H_HSI>42.0000000</F_H_HSI>
+<F_H_BOIL_TIME>30.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>19.3084480</F_H_IBU_CONTRIB>
+<F_ORDER>6</F_ORDER>
+<F_H_USE>0</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>2019-10-18</_MOD_>
+<F_H_NAME>Chinook</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>0</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>13.0000000</F_H_ALPHA>
+<F_H_BETA>3.6000000</F_H_BETA>
+<F_H_PERCENT>17.5000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.2345887</F_H_AMOUNT>
 <F_H_HSI>42.0000000</F_H_HSI>
@@ -21085,28 +21087,50 @@ Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
-<F_H_NAME>Amarillo</F_H_NAME>
+<Hops><_MOD_>2019-10-18</_MOD_>
+<F_H_NAME>Chinook</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
-<F_H_TYPE>1</F_H_TYPE>
+<F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>9.2000000</F_H_ALPHA>
-<F_H_BETA>6.0000000</F_H_BETA>
-<F_H_PERCENT>12.8205128</F_H_PERCENT>
+<F_H_ALPHA>13.0000000</F_H_ALPHA>
+<F_H_BETA>3.6000000</F_H_BETA>
+<F_H_PERCENT>5.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>0.8818490</F_H_AMOUNT>
-<F_H_HSI>20.0000000</F_H_HSI>
+<F_H_AMOUNT>0.3527396</F_H_AMOUNT>
+<F_H_HSI>42.0000000</F_H_HSI>
 <F_H_BOIL_TIME>15.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>0.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Discovered and introduced by Vigil Gamache Farms Inc. in Washington State. Character similar to Cascade.  Often used as a late kettle or dry hop addition to American style Pale Ales and IPA&rsquo;s due to its signature aroma characteristics. Used for both bitterness and aroma.
-Used for: IPAs, Ales
-Aroma: Intensely fruity (citrus, melon, and stone friuts), floral, tropical notes.
-Substitutes: Cascade, Centennial, Simcoe
-Storage: Good
-8-11% AA / 6-7% Beta</F_H_NOTES>
+<F_H_NOTES>Strong versatile bittering hop
+Used for: Ales, porters, stouts
+Aroma: Heavy and spicy aroma
+Substitutes: Galena, Eroica, Nugget, Bullion
+Examples: Sierra Nevada Stout, Sierra Nevada Celebration Ale</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>4.9259524</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>2.7842339</F_H_IBU_CONTRIB>
 <F_ORDER>8</F_ORDER>
+<F_H_USE>4</F_H_USE>
+<F_H_IN_RECIPE>1</F_H_IN_RECIPE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
+</Hops>
+<Hops><_MOD_>1970-01-01</_MOD_>
+<F_H_NAME>Citra</F_H_NAME>
+<F_H_ORIGIN>U.S.</F_H_ORIGIN>
+<F_H_TYPE>2</F_H_TYPE>
+<F_H_FORM>0</F_H_FORM>
+<F_H_ALPHA>12.0000000</F_H_ALPHA>
+<F_H_BETA>4.0000000</F_H_BETA>
+<F_H_PERCENT>15.0000000</F_H_PERCENT>
+<F_H_INVENTORY>0.0000000</F_H_INVENTORY>
+<F_H_AMOUNT>1.0582189</F_H_AMOUNT>
+<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_BOIL_TIME>10.0000000</F_H_BOIL_TIME>
+<F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
+<F_H_NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
+Aroma: Adds interesting citrus and tropical fruit character to the beer.  
+Substitutes: Unknown</F_H_NOTES>
+<F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
+<F_H_IBU_CONTRIB>5.6337753</F_H_IBU_CONTRIB>
+<F_ORDER>9</F_ORDER>
 <F_H_USE>4</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
@@ -21123,9 +21147,9 @@ Storage: Good
 <F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
 <F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
 <F_Y_PRICE>7.0000000</F_Y_PRICE>
-<F_ORDER>9</F_ORDER>
+<F_ORDER>10</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2019-10-17</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2019-10-19</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2019-10-17</F_Y_PKG_DATE>
 <F_Y_CELLS>50.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
@@ -21155,16 +21179,16 @@ will be a dominant flavor and aroma constituent, and may be quite warming but no
 harsh.</F_Y_NOTES>
 <F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2019-10-18</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.0000000</F_H_ALPHA>
 <F_H_BETA>4.0000000</F_H_BETA>
-<F_H_PERCENT>46.1538462</F_H_PERCENT>
+<F_H_PERCENT>35.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
-<F_H_AMOUNT>3.1746566</F_H_AMOUNT>
+<F_H_AMOUNT>2.4691773</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
 <F_H_BOIL_TIME>60.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
@@ -21173,7 +21197,7 @@ Aroma: Adds interesting citrus and tropical fruit character to the beer.
 Substitutes: Unknown</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
-<F_ORDER>10</F_ORDER>
+<F_ORDER>11</F_ORDER>
 <F_H_USE>1</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
