@@ -1,0 +1,59 @@
+Success
+2
+0
+2116144
+@ (a lactose IPA with Vanilla)
+2018-09-19 11:50:59
+Double IPA
+2
+Jonathan
+0
+1536
+1.0817964
+1.0227356
+80.404889
+5.5345712
+Single Infusion, Medium Body, No Mash Out
+BJCP 2015
+22A
+Ale, Single Stage
+15gal pot and 25gal cooler
+Corn Sugar
+75
+1764.48
+60
+30
+7.8277262
+0
+0
+0
+Unrated
+mehrhoff
+2351515
+Lactose IPA
+2019-03-03 10:01:31
+New England IPA
+2
+
+0
+704
+1.0747726
+1.0229194
+47.2059531
+4.2617475
+BIAB, Medium Body
+BJCP 2015
+21B
+Ale, Two Stage
+Clawhammer BIAB
+Corn Sugar
+72
+797.3333333
+60
+30
+6.9293363
+0
+0
+0
+Unrated
+South10Brewing
