@@ -1,4 +1,4 @@
-<Recipe><_MOD_>2019-12-02</_MOD_>
+<Recipe><_MOD_>1970-01-01</_MOD_>
 <Name>Recipes</Name>
 <Type>7372</Type>
 <Dirty>1</Dirty>
@@ -7,7 +7,7 @@
 <Size>1</Size>
 <_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2019-12-02</_MOD_>
+<Data><Recipe><_MOD_>2020-01-18</_MOD_>
 <F_R_NAME>In The Milky Eyes Upstairs</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -115,7 +115,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2019-12-02</_MOD_>
+<Data><MashStep><_MOD_>2020-01-18</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>504.7594980</F_MS_INFUSION>
@@ -134,7 +134,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>162.4223877</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-01-18</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -232,7 +232,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>10</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>2019-12-02</_MOD_>
+<Data><Water><_MOD_>2020-01-18</_MOD_>
 <F_W_NAME>Sonderborg Huholt</F_W_NAME>
 <F_W_AMOUNT>1125.6107231</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -255,7 +255,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_W_PRICE>0.0000000</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Grain><_MOD_>2019-12-02</_MOD_>
+<Grain><_MOD_>2020-01-18</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -285,7 +285,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pilsner Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-12-02</_MOD_>
+<Grain><_MOD_>2020-01-18</_MOD_>
 <F_G_NAME>Barley, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -315,7 +315,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-12-02</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Oats, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -348,7 +348,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-12-02</_MOD_>
+<Grain><_MOD_>2020-01-18</_MOD_>
 <F_G_NAME>Wheat, Flaked</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -381,7 +381,7 @@ Examples: Belgian White beer, Wit</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-12-02</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Milk Sugar (Lactose)</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -411,7 +411,7 @@ Examples: Belgian White beer, Wit</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2019-12-02</_MOD_>
+<Hops><_MOD_>1970-07-25</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -437,7 +437,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2019-12-02</_MOD_>
+<Hops><_MOD_>1970-07-25</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -463,7 +463,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2019-12-02</_MOD_>
+<Yeast><_MOD_>2020-01-18</_MOD_>
 <F_Y_NAME>US West Coast</F_Y_NAME>
 <F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
 <F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
@@ -507,28 +507,30 @@ will be a dominant flavor and aroma constituent, and may be quite warming but no
 harsh.</F_Y_NOTES>
 <F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>2019-12-02</_MOD_>
-<F_H_NAME>Citra</F_H_NAME>
+<Hops><_MOD_>1970-07-26</_MOD_>
+<F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
-<F_H_ALPHA>12.0000000</F_H_ALPHA>
-<F_H_BETA>4.0000000</F_H_BETA>
+<F_H_ALPHA>5.5000000</F_H_ALPHA>
+<F_H_BETA>6.0000000</F_H_BETA>
 <F_H_PERCENT>50.0000000</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>3.5273962</F_H_AMOUNT>
-<F_H_HSI>25.0000000</F_H_HSI>
+<F_H_HSI>50.0000000</F_H_HSI>
 <F_H_BOIL_TIME>20.0000000</F_H_BOIL_TIME>
 <F_H_DRY_HOP_TIME>7.0000000</F_H_DRY_HOP_TIME>
-<F_H_NOTES>Special aroma hops released in 2007.  Imparts high alpha/oil content but low cohumulone.
-Aroma: Adds interesting citrus and tropical fruit character to the beer.  
-Substitutes: Unknown</F_H_NOTES>
+<F_H_NOTES>A hops with Northern Brewers Heritage
+Used for: American ales and lagers
+Aroma: Strong spicy, floral, grapefruit character
+Substitutes: Centennial
+Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
 <F_H_IBU_CONTRIB>0.0000000</F_H_IBU_CONTRIB>
 <F_ORDER>10</F_ORDER>
 <F_H_USE>1</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
-<F_H_PRICE>13.3809749</F_H_PRICE>
+<F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
 </Data>
 <_TExpanded>1</_TExpanded>
