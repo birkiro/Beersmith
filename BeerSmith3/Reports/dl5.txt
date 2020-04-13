@@ -1,0 +1,451 @@
+Success
+16
+0
+15787
+Wheat on Rye American Ale
+2012-06-29 12:30:55
+Specialty Beer
+2
+Brian Marchand
+0
+640
+1.0447948
+1.0095768
+19.4342971
+5.046321
+Single Infusion, Medium Body, Batch Sparge
+BJCP 2008
+23A
+Brian's  Fermentation
+Brian's Equipment
+Corn Sugar
+72
+867.84
+60
+30
+4.6086437
+0
+0
+0
+Unrated
+bmarchand
+277244
+American Ale Caramel - G&amp;G
+2014-08-22 22:09:01
+American Amber Ale
+2
+Paullythebest
+0
+777.71804
+1.0519234
+1.0102853
+24.3677258
+7.5204303
+Single Infusion, Light Body, No Mash Out
+BJCP 1999
+ 6B
+Ale, Single Stage
+Electric Urn (10 Gal/40 L) - BIAB
+Dry Malt Extract
+68
+1166.4075616
+90
+30
+5.4620909
+0
+0
+0
+Unrated
+paullythebest
+467476
+American Ale
+2014-06-07 19:26:46
+American Amber Ale
+2
+Boyd Pierce
+0
+640
+1.0486202
+1.0092986
+33.734555
+7.9785185
+Single Infusion, Light Body, No Mash Out
+BJCP 1999
+ 6B
+Ale, Single Stage
+Buckeye Brewing
+Keg
+72
+861.44
+60
+30
+5.1523702
+0
+0
+0
+Unrated
+bpierce
+765808
+Bloody American Ale (American)
+2015-05-17 12:07:47
+American Amber Ale
+2
+
+0
+640
+1.05805936
+1.013426227
+32.088473649440594
+16.671476613652633
+Single Infusion, Medium Body, No Mash Out
+BJCP 2008
+10B
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Keg
+72
+834.5600000000001
+90
+30
+5.8673115413161945
+0
+0
+0
+Unrated
+ndoriot
+824519
+DoublePa American Ale [TheFriendOne]
+2015-06-30 11:46:41
+American Amber Ale
+2
+
+0
+1521.6222522
+1.0557923
+1.0154126
+30.325566
+5.1641786
+DoublePa Mono
+BJCP 1999
+ 6B
+DoublePa for lager
+DoublePa Equipment 45L 80min
+Corn Sugar
+72
+1852.9977649
+80
+30
+5.304039
+0
+0
+0
+Unrated
+doublePa
+1080978
+POB American Ale
+2016-03-15 17:54:53
+American Pale Ale
+2
+
+0
+640
+1.0657498
+1.0148759
+45.5141894
+4.9141031
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+10A
+Ale, Two Stage
+My Equipment
+Corn Sugar
+72
+729.6
+60
+30
+6.7054114
+0
+0
+0
+Unrated
+AvroArrow
+1309832
+American Ale (Valdir) - 20 litros
+2016-10-26 11:12:33
+American Pale Ale
+2
+Everton Luis Gallerani
+0
+743.9042122
+1.0533957
+1.0107459
+15.1897214
+4.8694302
+Temperature Mash, 2 Step, Medium Body
+BJCP 2015
+18B
+Ale, Single Stage
+Equipamento ELG Buona
+Table Sugar
+72
+1008.7791969
+65
+30
+5.5976309
+0
+0
+0
+Unrated
+EvertonGallerani
+1334966
+Pack American Ale
+2016-11-18 23:45:36
+American Amber Ale
+2
+Will Autry
+0
+768
+1.0531576
+1.0127711
+39.8951595
+11.1386221
+Brew Raleigh BIAB, Light Body
+BJCP 2008
+10B
+Ale, Two Stage
+Brew Raleigh 5 Gallon
+Keg
+72
+1284
+90
+30
+5.3001415
+0
+0
+0
+Unrated
+wautry
+1367546
+Brewdog American Ale #131
+2016-12-21 03:45:06
+American Pale Ale
+2
+Rob Kane
+0
+676.2765565
+1.0585217
+1.0094366
+22.0755061
+6.4223995
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+10A
+Ale, Two Stage
+Grainfather
+Keg
+73
+946.7871791
+60
+50
+6.4535688
+0
+0
+0
+Unrated
+rhk001
+1933018
+MFR 30 - Colírio Moura Brasil - American Ale
+2019-09-09 12:55:09
+Cream Ale
+2
+Marcelo Fenoll Ramal 
+0
+676.2765565
+1.04191
+1.0074914
+10.2919656
+2.8087826
+MFR padrão, 2 Steps, Light Body
+BJCP 2015
+ 1C
+MFR Ale (7d F +7d M)
+MFR 20/22 L (inox/alumínio)
+Açúcar comum
+72
+772.364184
+60
+30
+4.5216586
+0
+198
+0
+Unrated
+mfenoll
+2011963
+Citrus American Ale
+2018-07-20 21:55:12
+American Amber Ale
+2
+
+0
+1408
+1.058640613886582
+1.0165073328090728
+31.059124906775068
+10.676018384306133
+BIAB, Full Body
+BJCP 1999
+6B
+Ale, Single Stage
+BrewEasy™ 10 Gallon
+conical
+69
+1753.6
+60
+30
+5.5397956860259665
+0
+0
+0
+Unrated
+Gmanz1935
+2536597
+Hoppy American Ale
+2019-07-02 16:25:31
+American IPA
+2
+Aric
+0
+704
+1.0576438545454545
+1.013906579909091
+55.20234633253324
+6.1194067917586334
+Temperature Mash, 1 Step, Full Body
+BJCP 2015
+21A
+Ale, Two Stage
+Mash and Boil
+Keg
+72
+829.44
+60
+30
+5.792650500455898
+0
+0
+0
+Unrated
+Aric6785
+2569603
+Coulson_Freedom Ale (American Ale)
+2019-07-28 18:43:47
+American IPA
+2
+
+0
+640
+1.07326144
+1.0176743224
+38.14152824698772
+4.419534766804878
+Single Infusion, Medium Body, No Mash Out
+BJCP 2015
+21A
+Ale, Two Stage
+Pot and Cooler ( 5 Gal/19 L) - All Grain
+Corn Sugar
+72
+834.5600000000001
+60
+30
+7.418712870228904
+0
+0
+0
+0.0 Stars
+yesaccc
+2857563
+Brewdog American Ale #131
+2020-01-30 05:51:39
+American Pale Ale
+2
+Rob Kane
+0
+676.2765565
+1.0585217
+1.0094366
+22.0755061
+6.4223995
+Single Infusion, Light Body, No Mash Out
+BJCP 2008
+10A
+Ale, Two Stage
+Grainfather
+Keg
+73
+946.7871791
+60
+50
+6.4535688
+0
+0
+0
+0.0 Stars
+chefjohn
+2885179
+AAA - Allen American Ale
+2020-02-08 06:13:49
+American Pale Ale
+2
+
+0
+640
+1.0545873
+1.013988
+42.9506423
+6.2123578
+Single Infusion, Medium Body, No Mash Out
+BJCP 2015
+18B
+Ale, Two Stage
+All Grain - Standard 5 Gal/19l Batch - Cooler
+Keg
+66
+835.7866667
+60
+30
+5.3694899
+0
+0
+0
+0.0 Stars
+suckamc
+204028
+An American Ale
+2019-11-04 20:25:55
+American Pale Ale
+2
+Brad Smith
+0
+640
+1.0472696
+1.0149457
+34.5537338
+8.4922186
+Single Infusion, Full Body, No Mash Out
+BJCP 2004
+10A
+My Aging Profile
+Brad Brew Pot  (6+gal) and Igloo/Gott Cooler (5 Gal)
+My Carbonation Profile
+70
+873.5466667
+60
+35
+4.2334964
+0
+0
+1
+4.0 Stars
+beerman1957
