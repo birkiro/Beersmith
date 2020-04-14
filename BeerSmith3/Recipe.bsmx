@@ -1,7 +1,7 @@
 <Recipe><_MOD_>2018-08-09</_MOD_>
 <Name>Recipe</Name>
 <Type>7372</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7372</TID>
 <Size>2</Size>
@@ -24452,7 +24452,7 @@ harsh.</F_Y_NOTES>
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2020-03-21</_MOD_>
+<Recipe><_MOD_>2020-04-14</_MOD_>
 <F_R_NAME>Hrafna-Fl&oacute;ki</F_R_NAME>
 <F_R_BREWER>Grugg Bruggh&uacute;s</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -24714,7 +24714,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>18</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>2020-03-21</_MOD_>
+<Data><Water><_MOD_>2020-04-14</_MOD_>
 <F_W_NAME>Sonderborg Huholt</F_W_NAME>
 <F_W_AMOUNT>1328.0341106</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -24737,7 +24737,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_W_PRICE>0.0000000</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>2020-03-21</_MOD_>
+<Misc><_MOD_>2020-04-14</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -24756,7 +24756,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>2020-03-21</_MOD_>
+<Misc><_MOD_>2020-04-14</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -24775,7 +24775,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>2020-03-21</_MOD_>
+<Misc><_MOD_>2020-04-14</_MOD_>
 <F_M_NAME>Salt</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -24794,7 +24794,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Grain><_MOD_>2020-03-21</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -24824,7 +24824,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-21</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Flaked Oats</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -24857,7 +24857,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-21</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Wheat Blanc Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -24887,7 +24887,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-21</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Cara Pils</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -24918,7 +24918,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>2020-03-21</_MOD_>
+<Misc><_MOD_>2020-04-14</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -24937,7 +24937,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>2020-03-21</_MOD_>
+<Misc><_MOD_>2020-04-14</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -24956,7 +24956,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>1970-07-02</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -24980,7 +24980,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>1970-07-02</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -25003,7 +25003,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -25026,7 +25026,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -25049,7 +25049,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -25073,7 +25073,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>1970-07-02</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -25141,7 +25141,7 @@ will be a dominant flavor and aroma constituent, and may be quite warming but no
 harsh.</F_Y_NOTES>
 <F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>2020-03-21</_MOD_>
+<Hops><_MOD_>1970-07-02</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -26002,7 +26002,7 @@ Preboil SG: 1.103</F_R_NOTES>
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2020-03-25</_MOD_>
+<Recipe><_MOD_>2020-04-14</_MOD_>
 <F_R_NAME>Lockdown Spring Ale</F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
@@ -26241,7 +26241,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>9</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2020-03-25</_MOD_>
+<Data><Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Pilsner Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -26271,7 +26271,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-25</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Munich Light Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Sophus Fuglsang Export-maltfabrik A/S</F_G_SUPPLIER>
@@ -26302,7 +26302,7 @@ Danish 2 Row Spring Barley </F_G_NOTES>
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-25</_MOD_>
+<Grain><_MOD_>2020-04-14</_MOD_>
 <F_G_NAME>Brewparts Cara Pils</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -26366,7 +26366,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>2020-03-26</_MOD_>
+<Hops><_MOD_>1970-07-01</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -26391,7 +26391,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-25</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -26416,7 +26416,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-26</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -26441,7 +26441,7 @@ Examples: Sierra Nevada Pale Ale, Anchor Liberty Ale</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-25</_MOD_>
+<Hops><_MOD_>2020-04-14</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
