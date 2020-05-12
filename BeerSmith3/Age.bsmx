@@ -4,7 +4,7 @@
 <Dirty>0</Dirty>
 <Owndata>0</Owndata>
 <TID>7482</TID>
-<Size>14</Size>
+<Size>15</Size>
 <_XName>Selections</_XName>
 <Allocinc>16</Allocinc>
 <Data><Age><_MOD_>2011-06-06</_MOD_>
@@ -302,6 +302,27 @@
 <F_A_NOTES>This profile should work well with Wyeast 1272 American Ale II.
 The secondary stage is used here as the dry hopping stage.
 Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise the temperatures to higher temp range (20-22C) for a fruitier profile. Risk of banana and bubble gum, but not tested yet.</F_A_NOTES>
+</Age>
+<Age><_MOD_>2020-05-12</_MOD_>
+<F_A_NAME>Ale, Single Stage</F_A_NAME>
+<F_A_PRIM_TEMP>84.2000000</F_A_PRIM_TEMP>
+<F_A_PRIM_END_TEMP>84.2000000</F_A_PRIM_END_TEMP>
+<F_A_SEC_TEMP>65.0000000</F_A_SEC_TEMP>
+<F_A_SEC_END_TEMP>65.0000000</F_A_SEC_END_TEMP>
+<F_A_TERT_TEMP>65.0000000</F_A_TERT_TEMP>
+<F_A_AGE_TEMP>35.6000000</F_A_AGE_TEMP>
+<F_A_TERT_END_TEMP>65.0000000</F_A_TERT_END_TEMP>
+<F_A_END_AGE_TEMP>35.6000000</F_A_END_AGE_TEMP>
+<F_A_BULK_TEMP>65.0000000</F_A_BULK_TEMP>
+<F_A_BULK_END_TEMP>65.0000000</F_A_BULK_END_TEMP>
+<F_A_END_TEMPS_SET>1</F_A_END_TEMPS_SET>
+<F_A_PRIM_DAYS>4.0000000</F_A_PRIM_DAYS>
+<F_A_SEC_DAYS>10.0000000</F_A_SEC_DAYS>
+<F_A_TERT_DAYS>7.0000000</F_A_TERT_DAYS>
+<F_A_BULK_DAYS>30.0000000</F_A_BULK_DAYS>
+<F_A_AGE>2.0000000</F_A_AGE>
+<F_A_TYPE>0</F_A_TYPE>
+<F_A_NOTES>Kveik profile at 29C</F_A_NOTES>
 </Age>
 </Data>
 <_TExpanded>1</_TExpanded>

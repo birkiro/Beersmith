@@ -1,0 +1,776 @@
+<Selections><_MOD_>2018-04-20</_MOD_>
+<Name>Selections</Name>
+<Type>7426</Type>
+<Dirty>1</Dirty>
+<Owndata>0</Owndata>
+<TID>1</TID>
+<Size>20</Size>
+<_XName>Selections</_XName>
+<Allocinc>16</Allocinc>
+<Data><Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Cider</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M02</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>95.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>100.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>54.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for brewing all types of cider.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This strain promotes fruity aromas through high ester production, especially at
+warmer temperatures.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Ciders fermented with this strain will finish dry and be relatively full-bodied with exceptional
+depth and a full-flavored fruit character.
+HIGHER ALCOHOL BEERS:
+This strain has high alcohol tolerance up to &gt;12% ABV.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Newcastle Dark Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M03</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>65.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>72.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Full bodied British Ale styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Newcastle Dark Ale Yeast successfully brings classic cask ale production into the homebrew or craft setting. This is a top-fermentation strain well suited for fermenting British ales, particularly dark and full bodied ales, mild brown ales and Scottish Heavy ales. Selected to not over attenuate, this strain will stop short of the low end gravities exhibited by other yeast strains. Dark fruity esters are pronounced when fermented at the appropriate temperature. Care should be taken to adjust hop bitterness to ensures it suits the ester character and complements the fuller bodied finish.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Mead</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M05</F_Y_PRODUCT_ID>
+<F_Y_TYPE>2</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>18.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>95.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>100.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for all styles of mead.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This strain promotes fresh, floral aromas through high ester production, especially at
+cooler temperatures.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Meads fermented with this strain will finish dry and be relatively full-bodied with good
+complexity and a fresh, floral character.
+HIGHER ALCOHOL BEERS:
+This strain has high alcohol tolerance up to 18% ABV.
+For higher alcohol meads, ferment cooler; below 77&deg;F (25&deg;C).</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>British Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M07</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>74.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>57.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Wide variety of British Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>A neutral top-fermenting strain especially suited for brewing silky smooth light ales with a neutral yeast aroma and flavor contribution. This strain also works well for stronger ales where a soft and balanced mouth feel is desired and where the nutty, spicy and earthy hop and malt characteristics should be enhanced. This yeast strain is highly flocculent and not prone to autolysis, making it an excellent choice for both cask and bottle conditioned beer.  Low in esters for an English yeast.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Workhorse Beer Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M10</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>68.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>59.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for many lagers and ales - including high gravity beers</F_Y_BEST_FOR>
+<F_Y_NOTES>Workhorse Beer yeast is a true all rounder, suitable for a myriad of beer styles at extremely high gravities and different brewing temperatures. From Baltic porter to ambient temperature fermented lagers, this top-fermenting strain has such a clean
+flavor and aroma profile that it is suitable for almost every application. It is a robust strain with rapid and reliable fermentation performance, good attenuation properties, and ideally suited to making cask or bottle conditioned beers. This highly versatile strain also has very good ethanol tolerance up to 9% ABV and excellent temperature tolerance up to 90&deg;F (32&deg;C).</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Empire Ale</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s </F_Y_LAB>
+<F_Y_PRODUCT_ID>M15</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-09</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-09</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-09</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Scottish Heavy Ales, American
+Amber Ales, Sweet Stouts and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+When fermented at the correct temperature, Empire Ale yeast exhibits extremely
+characterful and appetizing estery aromas reminiscent of rich dark fruit.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This yeast strain has been carefully selected to aid mouth feel in the finished beer.
+Body should be full leaning towards a rich dark fruit character. Care must be taken when
+designing the beer to adjust hop bitterness to alleviate an over sweet finished beer.
+HIGHER ALCOHOL BEERS:
+Higher alcohol beers will tend to be slightly too sweet and heavy due to the moderate
+attenuative capabilities of the strain although a lower mash temperature may help the
+fermentability and lower the final gravity.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Bavarian Wheat </F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M20</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>86.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Hefeweizen, Kristal
+Weizen, Dunkel Weizen and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+It has abundant classic banana esters, balanced with clove like phenolic aromas; these
+aromas tend to overwhelm any malt or hop character in the beer.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+While this strain has only a moderate tendency to attenuate, the final beer will not be
+sweet. Instead, it will have a creamy, silky mouth feel with a full and rich medium body.
+This strain strips away most caramel and complex malt flavors, while deep roast and
+chocolate flavors will come through. The slight acidity produced, greatly enhances wheat
+malt characteristics. It has a very low flocculation rate that makes it ideal for beers that
+are traditionally served cloudy.
+HIGHER ALCOHOL BEERS:
+In higher alcohol beers, the phenolic character presented by this strain becomes a bit
+smokey and esters burst forth. Low attenuation rate may result in a sweet beer.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Belgian Wit</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M21</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>0</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>70.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>75.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Witbier, Grand Cru, Spiced Ales
+and other specialty beers.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Wit yeast presents a very light spice with a hint of bubble-gum character, this
+yeast works exceptionally well with botanics.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This yeast has a slightly suppressed Belgian character presenting as phenolic and dry,
+fruity and very complex character. The mouthfeel is smooth, light, dry and crisp.
+HIGHER ALCOHOL BEERS:
+With a medium attenuation this strain will struggle with extremely high alcohol beers
+and may become stressed.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Belgian Ale Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M27</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>69.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>70.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Belgian Ales</F_Y_BEST_FOR>
+<F_Y_NOTES>With a myriad of flavours and aromas embraced by master brewers all over Belgium, this strain has been specially developed to bring the best of these flavors to the home or craft brewer. Belgian ale yeast is an exceptional top-fermenting yeast strain creating distinctive beers with spicy, fruity and peppery notes. Ideal for fermentation of Belgian Saison or farmhouse style beers, but also suitable for other Belgian styles. This yeast is highly attenuative and has a high ethanol tolerance that makes it ideal for creating most Belgian beer styles, including Quadrupel styles of up to 14% ABV. At higher alcohol levels fermentation may take longer but the strain is robust enough to deal with almost anything. This strain successfully brings the sophistication of classic Belgian ale production to the home and small brewery.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>French Saison Ale</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M29</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>14.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>85.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>90.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>79.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>90.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for producing Saisons and
+farmhouse style beers up to 14% ABV.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This French Saison ale yeast strain brings all the sophistication and complexity of
+classic Saison ale production to the home brew and small brewery setting. Spicy and
+peppery characteristics are prominent with an undertone of the ubiquitous fruity
+character.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+This is a highly characterful yeast strain that will dominate all but the highest hopping
+rates and complex malt bills. Beers fermented with this yeast will tend to be dry in
+the finish often with a slight drying acidity and peppery notes, aiding drinkability at
+higher alcohol levels. Higher alcohol beers may have an increased ester production and
+warming alcohol notes.
+HIGHER ALCOHOL BEERS:
+This yeast strain will perform exceptionally well up to 14% ABV making it suitable for a
+large range of Saisons.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Belgian Tripel</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M31</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>12.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>82.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Tripel Style and
+Trappist style beers.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Tripel has a fantastic heavily fruity aroma, married perfectly with light spice
+and esters it is massively complex, spicy, estery and phenolic.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Belgian beers fermented with this strain will finish phenolic and dry, they will also
+exhibit fruity and very complex ester characters. These characters exhibit a beautiful
+marriage of spice and fruit estery alcohol goodness.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strain&rsquo;s bread and butter, with a high alcohol tolerance,
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Liberty Bell Ale</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M36</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>74.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>78.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for both English and American Pale Ales,
+Extra Special Bitters, Golden Ales and more</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Some pear esters, possibly strawberry or kiwi-like aromas can be expected. Clean,
+delicate malt and hop aromas will survive fermentation. If hop and/or malt aromas are
+prominent in the beer this strain&rsquo;s aroma characteristics will fade to the background.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Clean, mostly neutral and smooth, finishes beers moderately dry but does not strip
+away body. Silky, lightly smooth texture, light to medium body, mild acidity and mostly
+neutral flavor. Aroma contributions from this yeast strain makes it a good all-rounder
+for a wide range of ales.
+HIGHER ALCOHOL BEERS:
+As a very good strain for strong ales, this yeast provides brews with plenty of body,
+without being heavy or dense.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Belgian Ale</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M41</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>82.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>88.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>82.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Strong Golden and
+Belgian Strong Dark Ales.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+This yeast develops ripe fruit especially plum like esters during fermentation and are
+prominent in the finished beer, it will also show a lightly balanced phenolic character.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Beer fermented with this yeast exhibit excellent classic Belgian ale flavor, clove hints
+with a multitude of fruit esters, alcohol and banana character.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strains bread and butter, with a high alcohol tolerance
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2016-06-13</_MOD_>
+<F_Y_NAME>New World Strong Ale</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M42</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>3</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>10.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>61.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>72.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for IPAs, Porters, Russian
+Imperial Stouts and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Hops and malt aromas are enhanced and will tend toward earthy, nutty, orange peel, and
+mild spice. Esters will be nearly absent in normal strength beers fermented cool; below
+68&deg;F (20&deg;C).
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Beers fermented with this strain will finish dry, and very light beers will not be thin or
+watery. Acidity will be low, and mouth feel will be light and soft on the palate with a
+smooth non astringent texture. As this strain is highly flocculent and resilient and not
+prone to autolysis, it is excellent for cask or bottle conditioning.
+HIGHER ALCOHOL BEERS:
+Ester formation will be slightly elevated in higher alcohol beers. The character of the
+esters will be pleasant with ripe apple and pear dominating, along with faint banana.
+Beer will be dry, but a perception of malt sweetness will survive in the aftertaste along
+with malt character and complexity. Alcohol should be warming, not hot.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>US West Coast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>85.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for American Style Pale Ales, American
+Double IPAs, American Style Imperial Stouts
+and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+A very neutral strain even when fermented in higher gravity worts and warmer
+temperatures. Tangy citrus and pine hops aromas will be enhanced, as well as toasted
+and dark malt aromas..
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Beers fermented with this strain will finish dry and crisp. This strain is at its best in
+hop prominent American style ales. Very light ales may turn out a bit stripped, thin or
+astringent if care is not taken with the mash temperature and avoiding over-extraction.
+Acidity is moderately high, boosting hop flavors and creating a clipped finish.
+HIGHER ALCOHOL BEERS:
+Remaining very neutral, this strain excels in strong ales with simple malt bills. Alcohol
+will be a dominant flavor and aroma constituent, and may be quite warming but not
+harsh.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Belgian Abbey</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M47</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>11.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>73.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>77.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>77.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for Belgian Pale Ales and Abbey Ales.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Belgian Tripel has a fantastic heavily fruity aroma, married perfectly with light spice
+and esters it is massively complex, spicy, estery and phenolic.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Belgian beers fermented with this strain will finish phenolic and dry, they will also
+exhibit fruity and a very complex ester characters. These characters exhibit into
+beautiful marriage of spice, fruit estery alcohol goodness.
+HIGHER ALCOHOL BEERS:
+High alcohol beers are this strain&rsquo;s bread and butter, with a high alcohol tolerance,
+strong beers just create excellent flavor and aroma characteristics.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Californian Lager</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s </F_Y_LAB>
+<F_Y_PRODUCT_ID>M54</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.5000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>82.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>64.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>68.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for California Common and lagers
+fermented at ambient (ale) temperatures.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+California lager yeast produces a clean lager aroma without the associated sulphur this
+yeast is perfect for most kinds of lager.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+California lager yeast produces clean and crisp lagers, this yeast is excellent for
+producing anything from a hoppy pilsner to a helles allowing excellent malt and hop
+character to be expressed.
+HIGHER ALCOHOL BEERS:
+With a medium alcohol tolerance this yeast is not designed for fermenting over 8.5%.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Bavarian Lager</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M76</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>9.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>80.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>45.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>57.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for many European style beers
+including Lagers, Pilsners, Helles, Munich
+Dunkel, Rauchbier and more.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+A superlative lager strain that is robust with a light sulphur aroma, expresses hop
+character well and promotes malt complexity.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Lightly acidic this yeast creates an extremely drinkable lager with less sulphur
+character than the usual strains.
+HIGHER ALCOHOL BEERS:
+This yeast does well at higher gravities having a good attenuation range; high alcohol
+beers do not tend to be too sweet.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Burton Union Yeast</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M79</F_Y_PRODUCT_ID>
+<F_Y_TYPE>0</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>1</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2013-08-26</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2013-08-26</F_Y_PKG_DATE>
+<F_Y_CELLS>200.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>66.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>70.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>62.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>74.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2013-08-26</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>English Beer Styles</F_Y_BEST_FOR>
+<F_Y_NOTES>Famous the world over for its crisp, dry and uniquely malty and hoppy ales, this strain has been isolated and developed especially for the home and craft brewer from a commercial brewery in the heartland of British Brewing. Burton Union Yeast is a gentle but rapid fermenter that generates light and delicate ripe pear esters and does not strip away light malt character or body. Moderate acidity balances the silky smooth texture of beers fermented with this strain. When hops or malt aromas are stronger, the yeast contribution will be neutral. When used in lighter quality malt bases, the hops and esters are able to
+shine. Beers made with this yeast are quick to condition, giving you great beer in as little as 3 weeks.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+<Yeast><_MOD_>2018-04-20</_MOD_>
+<F_Y_NAME>Bohemian Lager</F_Y_NAME>
+<F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
+<F_Y_PRODUCT_ID>M84</F_Y_PRODUCT_ID>
+<F_Y_TYPE>1</F_Y_TYPE>
+<F_Y_FORM>1</F_Y_FORM>
+<F_Y_FLOCCULATION>2</F_Y_FLOCCULATION>
+<F_Y_STARTER_SIZE>0.0000000</F_Y_STARTER_SIZE>
+<F_Y_AMOUNT>1.0000000</F_Y_AMOUNT>
+<F_Y_INVENTORY>0.0000000</F_Y_INVENTORY>
+<F_Y_TOLERANCE>8.0000000</F_Y_TOLERANCE>
+<F_Y_PRICE>7.0000000</F_Y_PRICE>
+<F_ORDER>0</F_ORDER>
+<F_Y_IN_RECIPE>0</F_Y_IN_RECIPE>
+<F_Y_BREW_DATE>2016-06-13</F_Y_BREW_DATE>
+<F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
+<F_Y_CELLS>50.0000000</F_Y_CELLS>
+<F_Y_MIN_ATTENUATION>72.0000000</F_Y_MIN_ATTENUATION>
+<F_Y_MAX_ATTENUATION>76.0000000</F_Y_MAX_ATTENUATION>
+<F_Y_MIN_TEMP>50.0000000</F_Y_MIN_TEMP>
+<F_Y_MAX_TEMP>59.0000000</F_Y_MAX_TEMP>
+<F_Y_USE_STARTER>0</F_Y_USE_STARTER>
+<F_Y_ADD_TO_SECONDARY>0</F_Y_ADD_TO_SECONDARY>
+<F_Y_TIMES_CULTURED>0</F_Y_TIMES_CULTURED>
+<F_Y_MAX_REUSE>5</F_Y_MAX_REUSE>
+<F_Y_CULTURE_DATE>2016-06-13</F_Y_CULTURE_DATE>
+<F_Y_BEST_FOR>Suitable for German/Bohemian Pilsners,
+Baltic Porter, and American style Lagers.</F_Y_BEST_FOR>
+<F_Y_NOTES>AROMA CHARACTERISTICS:
+Classic Bohemian pilsner strain aroma and flavor characteristics can be expected.
+FLAVOR/MOUTHFEEL CHARACTERISTICS:
+Hop and malt character will be enhanced and supported by moderate to full body. In wort
+with simple malt bills, delicate malt flavors will survive. Beer fermented with this strain is
+generally rich and chewy without being heavy at all. Light and delicately balanced beers
+call for this strain. Lagering periods as short as 4 weeks may produce acceptable beer but
+allowing it to lager for 6-8 weeks, it will result in beer that is richer and smoother with a
+more refined aroma and flavor.
+HIGHER ALCOHOL BEERS:
+This strain will perform reasonably well in higher alcohol beer production up to 8%
+alcohol. Beer of over 7% alcohol will be slightly sweet, and the alcohol may be slightly hot.</F_Y_NOTES>
+<F_Y_AGE_RATE>1.6600000</F_Y_AGE_RATE>
+</Yeast>
+</Data>
+<_TExpanded>1</_TExpanded>
+<TExtra>0</TExtra>
+</Selections>

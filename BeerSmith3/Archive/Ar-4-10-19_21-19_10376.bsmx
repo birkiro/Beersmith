@@ -7,17 +7,17 @@
 <Size>1</Size>
 <_XName>Recipes</_XName>
 <Allocinc>16</Allocinc>
-<Data><Recipe><_MOD_>2020-03-06</_MOD_>
+<Data><Recipe><_MOD_>2020-05-10</_MOD_>
 <F_R_NAME>Hrafna-Fl&oacute;ki</F_R_NAME>
-<F_R_BREWER>Grugg Bruggh&uacute;s</F_R_BREWER>
+<F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2020-03-06</F_R_DATE>
+<F_R_DATE>2020-05-12</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME></F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>1</F_R_GRAIN_USE_SET>
-<F_R_VOLUME_MEASURED>666.1324082</F_R_VOLUME_MEASURED>
+<F_R_VOLUME_MEASURED>946.7926357</F_R_VOLUME_MEASURED>
 <F_R_VOLUME_MEASURED_SET>1</F_R_VOLUME_MEASURED_SET>
-<F_R_FINAL_VOL_MEASURED>676.2765565</F_R_FINAL_VOL_MEASURED>
+<F_R_FINAL_VOL_MEASURED>912.9786130</F_R_FINAL_VOL_MEASURED>
 <F_R_FINAL_VOL_MEASURED_SET>1</F_R_FINAL_VOL_MEASURED_SET>
 <F_R_MASH_TIMER>0</F_R_MASH_TIMER>
 <F_R_BOIL_TIMER>0</F_R_BOIL_TIMER>
@@ -154,7 +154,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-05-10</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>908.3717304</F_MS_INFUSION>
@@ -173,7 +173,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>156.9104327</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-05-10</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -269,7 +269,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>18</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Water><_MOD_>2020-03-06</_MOD_>
+<Data><Water><_MOD_>2020-05-10</_MOD_>
 <F_W_NAME>Sonderborg Huholt</F_W_NAME>
 <F_W_AMOUNT>1328.0341106</F_W_AMOUNT>
 <F_W_IN_RECIPE>1</F_W_IN_RECIPE>
@@ -292,7 +292,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_W_PRICE>0.0000000</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-05-10</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -311,7 +311,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>2</F_ORDER>
 </Misc>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-05-10</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -330,7 +330,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>3</F_ORDER>
 </Misc>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-05-10</_MOD_>
 <F_M_NAME>Salt</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -349,7 +349,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>4</F_ORDER>
 </Misc>
-<Grain><_MOD_>2020-03-06</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Brewparts Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -379,7 +379,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-06</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Brewparts Flaked Oats</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -412,7 +412,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Carafoam</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-06</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Brewparts Wheat Blanc Malt</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -442,7 +442,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-03-06</_MOD_>
+<Grain><_MOD_>1970-01-01</_MOD_>
 <F_G_NAME>Brewparts Cara Pils</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -473,7 +473,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-05-10</_MOD_>
 <F_M_NAME>Epsom Salt (MgSO4)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -492,7 +492,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>9</F_ORDER>
 </Misc>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-05-10</_MOD_>
 <F_M_NAME>Gypsum (Calcium Sulfate)</F_M_NAME>
 <F_M_TYPE>5</F_M_TYPE>
 <F_M_USE_FOR>Water Agent</F_M_USE_FOR>
@@ -511,7 +511,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>10</F_ORDER>
 </Misc>
-<Hops><_MOD_>2020-03-06</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -535,14 +535,14 @@ Substitutes: Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-06</_MOD_>
+<Hops><_MOD_>2020-05-10</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.0000000</F_H_ALPHA>
 <F_H_BETA>4.0000000</F_H_BETA>
-<F_H_PERCENT>8.3333334</F_H_PERCENT>
+<F_H_PERCENT>8.3333330</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.8818490</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
@@ -552,20 +552,20 @@ Substitutes: Centennial</F_H_NOTES>
 Aroma: Adds interesting citrus and tropical fruit character to the beer.  
 Substitutes: Unknown</F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>21.3403419</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>21.3403407</F_H_IBU_CONTRIB>
 <F_ORDER>12</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.0000000</F_H_ALPHA>
 <F_H_BETA>4.0000000</F_H_BETA>
-<F_H_PERCENT>16.6666669</F_H_PERCENT>
+<F_H_PERCENT>16.6666670</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.7636981</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
@@ -581,7 +581,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-05-10</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -604,14 +604,14 @@ Substitutes: Unknown</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>13.3809749</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>14.0000000</F_H_ALPHA>
 <F_H_BETA>5.0000000</F_H_BETA>
-<F_H_PERCENT>16.6666669</F_H_PERCENT>
+<F_H_PERCENT>16.6666670</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>1.7636981</F_H_AMOUNT>
 <F_H_HSI>40.0000000</F_H_HSI>
@@ -628,7 +628,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-03-06</_MOD_>
+<Hops><_MOD_>1970-01-01</_MOD_>
 <F_H_NAME>Columbus (Tomahawk)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -652,7 +652,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2020-03-06</_MOD_>
+<Yeast><_MOD_>2020-03-21</_MOD_>
 <F_Y_NAME>US West Coast</F_Y_NAME>
 <F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
 <F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
@@ -666,7 +666,7 @@ Substitutes: Centennial</F_H_NOTES>
 <F_Y_PRICE>7.0000000</F_Y_PRICE>
 <F_ORDER>17</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2020-03-06</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2020-05-12</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
 <F_Y_CELLS>50.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
@@ -703,7 +703,7 @@ harsh.</F_Y_NOTES>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>12.0000000</F_H_ALPHA>
 <F_H_BETA>4.0000000</F_H_BETA>
-<F_H_PERCENT>33.3333338</F_H_PERCENT>
+<F_H_PERCENT>33.3333340</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>3.5273962</F_H_AMOUNT>
 <F_H_HSI>25.0000000</F_H_HSI>
@@ -739,9 +739,9 @@ Substitutes: Unknown</F_H_NOTES>
 <F_R_TYPE>2</F_R_TYPE>
 <F_R_OLD_TYPE>0</F_R_OLD_TYPE>
 <F_R_LOCKED>0</F_R_LOCKED>
-<F_R_OG_MEASURED>1.0570000</F_R_OG_MEASURED>
+<F_R_OG_MEASURED>1.0520000</F_R_OG_MEASURED>
 <F_R_OG_MEASURED_SET>1</F_R_OG_MEASURED_SET>
-<F_R_FG_MEASURED>1.0100000</F_R_FG_MEASURED>
+<F_R_FG_MEASURED>1.0110000</F_R_FG_MEASURED>
 <F_R_FG_MEASURED_SET>1</F_R_FG_MEASURED_SET>
 <F_R_OG_PRIMARY>1.0180000</F_R_OG_PRIMARY>
 <F_R_OG_PRIMARY_SET>0</F_R_OG_PRIMARY_SET>
@@ -749,7 +749,7 @@ Substitutes: Unknown</F_H_NOTES>
 <F_R_OG_SECONDARY_SET>0</F_R_OG_SECONDARY_SET>
 <F_R_BOIL_VOL_MEASURED>1124.3162549</F_R_BOIL_VOL_MEASURED>
 <F_R_BOIL_VOL_MEASURED_SET>1</F_R_BOIL_VOL_MEASURED_SET>
-<F_R_OG_BOIL_MEASURED>1.0460000</F_R_OG_BOIL_MEASURED>
+<F_R_OG_BOIL_MEASURED>1.0470000</F_R_OG_BOIL_MEASURED>
 <F_R_OG_BOIL_MEASURED_SET>1</F_R_OG_BOIL_MEASURED_SET>
 <F_R_OG_MASH_MEASURED>1.0440000</F_R_OG_MASH_MEASURED>
 <F_R_OG_MASH_MEASURED_SET>1</F_R_OG_MASH_MEASURED_SET>
