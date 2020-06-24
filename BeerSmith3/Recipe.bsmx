@@ -8477,7 +8477,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Saccharification Rest</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -8693,7 +8693,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Centennial</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -8714,7 +8714,7 @@ Examples: Sierra Nevada Porter, Ballard Bitter
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Citra</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -11662,7 +11662,7 @@ Very Dark</F_G_NOTES>
 <F_G_PRICE>0.0781250</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2020-06-17</_MOD_>
 <F_G_NAME>Candi Sugar, Dark</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -11692,7 +11692,7 @@ Very Dark</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Simcoe</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -11716,7 +11716,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Simcoe</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -11740,7 +11740,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>1.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-06-17</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR>Clarity</F_M_USE_FOR>
@@ -11759,7 +11759,7 @@ Substitutes: N/A</F_H_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>7</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Simcoe</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -11864,63 +11864,63 @@ Substitutes: N/A</F_H_NOTES>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>1.9048611</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-19 21:43:20</Date>
 <F_AD_TEMP>67.4600000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0620000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>3.9048611</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-21 17:49:17</Date>
 <F_AD_TEMP>67.4600000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0210000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>5.7423611</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-22 09:45:07</Date>
 <F_AD_TEMP>68.9000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0210000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>6.4062500</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-23 13:41:48</Date>
 <F_AD_TEMP>68.9000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0210000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>7.5701389</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-25 07:12:41</Date>
 <F_AD_TEMP>69.4400000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0210000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>9.3000000</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-25 17:47:53</Date>
 <F_AD_TEMP>35.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0210000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>9.7409722</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-26 20:23:01</Date>
 <F_AD_TEMP>35.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0180000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>10.8493056</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-09-27 07:00:00</Date>
 <F_AD_TEMP>53.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0180000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>11.2916667</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-10-02 18:59:11</Date>
 <F_AD_TEMP>53.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0180000</F_AD_GRAVITY>
@@ -12706,7 +12706,7 @@ The aromatic spices in the danish hops showed up, but it is hard to imagine the 
 <Size>3</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Protein Rest</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>526.5528605</F_MS_INFUSION>
@@ -12725,7 +12725,7 @@ The aromatic spices in the danish hops showed up, but it is hard to imagine the 
 <F_MS_INFUSION_TEMP>126.6170013</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Saccharification</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -12744,7 +12744,7 @@ The aromatic spices in the danish hops showed up, but it is hard to imagine the 
 <F_MS_INFUSION_TEMP>221.2000000</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Mash Out</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -12865,7 +12865,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_W_PRICE>0.0000000</F_W_PRICE>
 <F_ORDER>1</F_ORDER>
 </Water>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2020-06-17</_MOD_>
 <F_G_NAME>Pilsner (2 Row) Bel</F_G_NAME>
 <F_G_ORIGIN>Belgium</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -12991,7 +12991,7 @@ Examples: Belgian White beer, Wit</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Wheat Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -13017,7 +13017,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -13043,7 +13043,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Yeast><_MOD_>2020-06-17</_MOD_>
 <F_Y_NAME>American Ale II</F_Y_NAME>
 <F_Y_LAB>Wyeast Labs</F_Y_LAB>
 <F_Y_PRODUCT_ID>1272</F_Y_PRODUCT_ID>
@@ -13073,7 +13073,7 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_Y_NOTES>Clean, tart, nutty flavor.  More fruity than Wyeast American Ale yeast.</F_Y_NOTES>
 <F_Y_AGE_RATE>21.0000000</F_Y_AGE_RATE>
 </Yeast>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Mosaic (HBC 369)</F_H_NAME>
 <F_H_ORIGIN>U.S.</F_H_ORIGIN>
 <F_H_TYPE>2</F_H_TYPE>
@@ -13119,14 +13119,14 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>0.5833333</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-10-21 21:00:00</Date>
 <F_AD_TEMP>69.8000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0510000</F_AD_GRAVITY>
 <F_AD_TYPE>1</F_AD_TYPE>
 <F_AD_DAYS>1.8750000</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-10-22 07:00:00</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0510000</F_AD_GRAVITY>
@@ -13140,21 +13140,21 @@ Storage: Good (25% AA after 6 months at 20 C)
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>10.9722222</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-11-04 18:00:00</Date>
 <F_AD_TEMP>66.2000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0150000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>15.7916667</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-11-04 22:00:00</Date>
 <F_AD_TEMP>35.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0150000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>15.9583333</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2018-11-05 23:17:36</Date>
 <F_AD_TEMP>35.6000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0150000</F_AD_GRAVITY>
@@ -14162,7 +14162,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>441.4501173</F_MS_INFUSION>
@@ -14181,7 +14181,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.5357827</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -14369,7 +14369,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -14453,7 +14453,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-06-17</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -14535,7 +14535,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Yeast><_MOD_>2020-06-17</_MOD_>
 <F_Y_NAME>Safale US-05</F_Y_NAME>
 <F_Y_LAB></F_Y_LAB>
 <F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
@@ -14585,14 +14585,14 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>0.7083333</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2019-02-04 16:59:35</Date>
 <F_AD_TEMP>68.0000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0160000</F_AD_GRAVITY>
 <F_AD_TYPE>0</F_AD_TYPE>
 <F_AD_DAYS>4.7076389</F_AD_DAYS>
 </AgeData>
-<AgeData><_MOD_>1970-01-01</_MOD_>
+<AgeData><_MOD_>2020-06-17</_MOD_>
 <Date>2019-02-09 17:00:19</Date>
 <F_AD_TEMP>68.9000000</F_AD_TEMP>
 <F_AD_GRAVITY>1.0120000</F_AD_GRAVITY>
@@ -16718,7 +16718,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>424.7886602</F_MS_INFUSION>
@@ -16737,7 +16737,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>158.4256199</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-06-17</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -16958,7 +16958,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_G_PRICE>1.5000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Columbus</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17021,7 +17021,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-17</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -17063,7 +17063,7 @@ Protein rest recommended unless flakes are pregelatinized</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>1970-01-01</_MOD_>
+<Misc><_MOD_>2020-06-17</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -23221,11 +23221,11 @@ Aroma: Lemony, floral, earthy, herbal, grassy, pine, pepper</F_H_NOTES>
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2020-02-18</_MOD_>
-<F_R_NAME>Steingrimur #1</F_R_NAME>
+<Recipe><_MOD_>2020-06-17</_MOD_>
+<F_R_NAME>Steingrimur #3</F_R_NAME>
 <F_R_BREWER>BrewMate</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2020-02-22</F_R_DATE>
+<F_R_DATE>2020-07-24</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME>/Brinken Brews/Brew Days/</F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>1</F_R_GRAIN_USE_SET>
@@ -23324,7 +23324,7 @@ Appearance: Color ranges from reddish-brown to dark brown but not black. Frequen
 <Size>1</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>2020-02-18</_MOD_>
+<Data><MashStep><_MOD_>2020-06-20</_MOD_>
 <F_MS_NAME>Saccharification Rest</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -23420,7 +23420,7 @@ Appearance: Color ranges from reddish-brown to dark brown but not black. Frequen
 <Size>15</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2019-01-27</_MOD_>
+<Data><Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Pale Ale Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -23450,7 +23450,7 @@ Appearance: Color ranges from reddish-brown to dark brown but not black. Frequen
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2019-01-27</_MOD_>
+<Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Crystal Malt</F_G_NAME>
 <F_G_ORIGIN>US</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -23481,7 +23481,7 @@ Also called &ldquo;Crystal&rdquo; malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2020-02-18</_MOD_>
+<Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Chocolate Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -23513,7 +23513,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23534,7 +23534,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-02-18</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23555,7 +23555,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23576,7 +23576,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23597,7 +23597,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2020-02-18</_MOD_>
+<Misc><_MOD_>2020-06-20</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -23616,7 +23616,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>8</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23637,7 +23637,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-02-18</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Hallertau Tradition</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23658,7 +23658,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23679,7 +23679,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>1970-08-19</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23700,7 +23700,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-02-18</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Hallertau Tradition</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23721,7 +23721,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Hops><_MOD_>2020-02-18</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Northern Brewer</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
@@ -23742,7 +23742,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>2020-02-18</_MOD_>
+<Yeast><_MOD_>2020-06-20</_MOD_>
 <F_Y_NAME>Safale US-05</F_Y_NAME>
 <F_Y_LAB></F_Y_LAB>
 <F_Y_PRODUCT_ID></F_Y_PRODUCT_ID>
@@ -23756,7 +23756,7 @@ Maintains some malty flavor, not as dark as roasted malt.</F_G_NOTES>
 <F_Y_PRICE>7.0000000</F_Y_PRICE>
 <F_ORDER>15</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2020-02-22</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2020-07-24</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2018-08-09</F_Y_PKG_DATE>
 <F_Y_CELLS>100.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>75.0000000</F_Y_MIN_ATTENUATION>
@@ -27701,11 +27701,11 @@ Decided to go 15 minutes at 72C. Raised the temperature over 10 minutes at 1800W
 <F_R_FREE_SO2>0.0000000</F_R_FREE_SO2>
 <F_R_SO2_TARGET>30.0000000</F_R_SO2_TARGET>
 </Recipe>
-<Recipe><_MOD_>2020-06-07</_MOD_>
+<Recipe><_MOD_>2020-06-17</_MOD_>
 <F_R_NAME>Let&acute;s Open Up </F_R_NAME>
 <F_R_BREWER>Brinken Brews</F_R_BREWER>
 <F_R_ASST_BREWER></F_R_ASST_BREWER>
-<F_R_DATE>2020-06-13</F_R_DATE>
+<F_R_DATE>2020-06-19</F_R_DATE>
 <F_R_INV_DATE>1992-02-01</F_R_INV_DATE>
 <F_R_FOLDER_NAME></F_R_FOLDER_NAME>
 <F_R_GRAIN_USE_SET>1</F_R_GRAIN_USE_SET>
@@ -27806,7 +27806,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <Size>2</Size>
 <_XName>steps</_XName>
 <Allocinc>16</Allocinc>
-<Data><MashStep><_MOD_>1970-01-01</_MOD_>
+<Data><MashStep><_MOD_>2020-06-20</_MOD_>
 <F_MS_NAME>Conversion - Alpha &amp; Beta Amylase</F_MS_NAME>
 <F_MS_TYPE>0</F_MS_TYPE>
 <F_MS_INFUSION>443.7951781</F_MS_INFUSION>
@@ -27825,7 +27825,7 @@ Choosing a temperature in between these to extraction points results in a medium
 <F_MS_INFUSION_TEMP>163.2248490</F_MS_INFUSION_TEMP>
 <F_MS_DECOCTION_AMT>0.0000000</F_MS_DECOCTION_AMT>
 </MashStep>
-<MashStep><_MOD_>1970-01-01</_MOD_>
+<MashStep><_MOD_>2020-06-20</_MOD_>
 <F_MS_NAME>Sparge Temperature</F_MS_NAME>
 <F_MS_TYPE>2</F_MS_TYPE>
 <F_MS_INFUSION>0.0000000</F_MS_INFUSION>
@@ -27923,7 +27923,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <Size>7</Size>
 <_XName>Ingredients</_XName>
 <Allocinc>16</Allocinc>
-<Data><Grain><_MOD_>2020-06-17</_MOD_>
+<Data><Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Pilsner Malt</F_G_NAME>
 <F_G_ORIGIN>Denmark</F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -27953,7 +27953,7 @@ Keep this yeast at low temp range (17 to 19C) for a light citrusy profile. Raise
 <F_G_PRICE>0.0000000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Vienna</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
@@ -27984,7 +27984,7 @@ Imparts a golden to orange color to the beer.</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Pale Liquid Extract</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>1970-01-01</_MOD_>
+<Grain><_MOD_>2020-06-20</_MOD_>
 <F_G_NAME>Brewparts Cara Pils</F_G_NAME>
 <F_G_ORIGIN></F_G_ORIGIN>
 <F_G_SUPPLIER>Brewparts</F_G_SUPPLIER>
@@ -28015,14 +28015,14 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN></F_G_CONVERT_GRAIN>
 </Grain>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>1970-06-07</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>7.6000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>20.0000000</F_H_PERCENT>
+<F_H_PERCENT>19.9999995</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>0.7345632</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -28030,13 +28030,13 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_H_DRY_HOP_TIME>0.0208333</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>194.4406400</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>13.7422189</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>13.7422184</F_H_IBU_CONTRIB>
 <F_ORDER>4</F_ORDER>
 <F_H_USE>0</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Misc><_MOD_>2020-06-17</_MOD_>
+<Misc><_MOD_>2020-06-20</_MOD_>
 <F_M_NAME>Whirlfloc Tablet</F_M_NAME>
 <F_M_TYPE>1</F_M_TYPE>
 <F_M_USE_FOR></F_M_USE_FOR>
@@ -28055,14 +28055,14 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_M_IMPORT_UNITS>0</F_M_IMPORT_UNITS>
 <F_ORDER>5</F_ORDER>
 </Misc>
-<Hops><_MOD_>1970-01-01</_MOD_>
+<Hops><_MOD_>2020-06-20</_MOD_>
 <F_H_NAME>Cascade</F_H_NAME>
 <F_H_ORIGIN></F_H_ORIGIN>
 <F_H_TYPE>0</F_H_TYPE>
 <F_H_FORM>0</F_H_FORM>
 <F_H_ALPHA>7.6000000</F_H_ALPHA>
 <F_H_BETA>2.0000000</F_H_BETA>
-<F_H_PERCENT>80.0000000</F_H_PERCENT>
+<F_H_PERCENT>80.0000005</F_H_PERCENT>
 <F_H_INVENTORY>0.0000000</F_H_INVENTORY>
 <F_H_AMOUNT>2.9382529</F_H_AMOUNT>
 <F_H_HSI>15.0000000</F_H_HSI>
@@ -28070,13 +28070,13 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_H_DRY_HOP_TIME>0.0034722</F_H_DRY_HOP_TIME>
 <F_H_NOTES></F_H_NOTES>
 <F_H_WHIRLPOOL_TEMP>185.0000000</F_H_WHIRLPOOL_TEMP>
-<F_H_IBU_CONTRIB>13.0828164</F_H_IBU_CONTRIB>
+<F_H_IBU_CONTRIB>13.0828163</F_H_IBU_CONTRIB>
 <F_ORDER>6</F_ORDER>
 <F_H_USE>4</F_H_USE>
 <F_H_IN_RECIPE>1</F_H_IN_RECIPE>
 <F_H_PRICE>2.0000000</F_H_PRICE>
 </Hops>
-<Yeast><_MOD_>1970-01-01</_MOD_>
+<Yeast><_MOD_>2020-06-20</_MOD_>
 <F_Y_NAME>US West Coast</F_Y_NAME>
 <F_Y_LAB>Mangrove Jack&#39;s</F_Y_LAB>
 <F_Y_PRODUCT_ID>M44</F_Y_PRODUCT_ID>
@@ -28090,7 +28090,7 @@ Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</F
 <F_Y_PRICE>7.0000000</F_Y_PRICE>
 <F_ORDER>7</F_ORDER>
 <F_Y_IN_RECIPE>1</F_Y_IN_RECIPE>
-<F_Y_BREW_DATE>2020-06-13</F_Y_BREW_DATE>
+<F_Y_BREW_DATE>2020-06-19</F_Y_BREW_DATE>
 <F_Y_PKG_DATE>2016-06-13</F_Y_PKG_DATE>
 <F_Y_CELLS>50.0000000</F_Y_CELLS>
 <F_Y_MIN_ATTENUATION>77.0000000</F_Y_MIN_ATTENUATION>
